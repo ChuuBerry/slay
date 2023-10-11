@@ -43,5 +43,68 @@
             "type": "Girl Group",
             "code": "`LOYJ`"
         }    
+    ],
+    "RZST": [
+        {
+            "name": "**RIIZE Shotaro** (Memories)",
+            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525916032311387/RIIZE_20231011124728.png?ex=65389e4e&is=6526294e&hm=a6223fe78313122c72d85b4408197c2f5a301de4a3ec09f516f6e56cc5e9e881&",
+            "group": "RIIZE",
+            "type": "Boy Group",
+            "code": "`RZST`"
+        }
+    ],
+    "RZES": [
+        {
+            "name": "**RIIZE Eunseok** (Memories)",
+            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525916397228042/RIIZE_20231011124734.png?ex=65389e4e&is=6526294e&hm=14f4f41c4b5f6977358664115cacc1044070c1616a617469661cec4d10b7cd4e&",
+            "group": "RIIZE",
+            "type": "Boy Group",
+            "code": "`RZES`"
+        } 
+   ],
+    "RZSC": [
+        {
+            "name": "**RIIZE Sungchan** (Memories)",
+            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525916678238258/RIIZE_20231011124740.png?ex=65389e4e&is=6526294e&hm=6335a229cbef7a4f0f23fabffdb5b31bf0d7369d2c2533703b55b15a8573c9fc&",
+            "group": "RIIZE",
+            "type": "Boy Group",
+            "code": "`RZSC`"
+        } 
+    ],
+    "RZWB": [
+        {
+            "name": "**RIIZE Wonbin** (Memories)",
+            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525916950863903/RIIZE_20231011124745.png?ex=65389e4e&is=6526294e&hm=0ed6170d5b817cb7d95c7eef8b3a41c36c7ecec9f0fc6bb52e32dd407c7a48ff&",
+            "group": "RIIZE",
+            "type": "Boy Group",
+            "code": "`RZWB`"
+        }
+    ],
+    "RZSH": [
+        {
+            "name": "**RIIZE Seunghan** (Memories)",
+            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525917210923059/RIIZE_20231011124751.png?ex=65389e4e&is=6526294e&hm=fb13a0ca57de4a4dc3069290d00154f1986746fb2426e7b925bf88b4135007fd&",
+            "group": "RIIZE",
+            "type": "Boy Group",
+            "code": "`RZSH`"
+        } 
+    ],
+    "RZSO": [
+        {
+            "name": "**RIIZE Sohee** (Memories)",
+            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525917500321832/RIIZE_20231011124756.png?ex=65389e4e&is=6526294e&hm=22c0fe58c511bf159f423e51ae577df1ba06d589a34276ac49a5cd60dc7d5834&",
+            "group": "RIIZE",
+            "type": "Boy Group",
+            "code": "`RZSO`"
+        }
+    ],
+    "RZAT": [
+        {
+            "name": "**RIIZE Anton** (Memories)",
+            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525917760364594/RIIZE_20231011124801.png?ex=65389e4e&is=6526294e&hm=2a023d037dc4b71d361ec2bb3f90fbbb1dff23aecd97de1f5600c9ee169bed41&",
+            "group": "RIIZE",
+            "type": "Boy Group",
+            "code": "`RZAT`"
+        }    
     ]
 }
