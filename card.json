@@ -1,16 +1,20 @@
 {
     "LOHJ": [
         {
-            "name": "**Loossemble Hyunjin** (Sensitive)",
+            "name": "**Loossemble HyunJin** (Sensitive)",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1135843657715568650/Untitled295_20230801155552.png",
             "group": "Loossemble",
             "type": "Girl Group",
             "code": "`LOHJ`"
         }
     ],
-    "ZB1FR2_WP": [
+    "LOVV": [
         {
-            "name": "`Free` **In Bloom Wallpaper**",
-            "image": "https://media.discordapp.net/attachments/1135843503507787856/1135843759184154634/Untitled295_20230801155609.png",
-            "code": "`ZB1FR2_WP`"
+            "name": "**Loossemble ViVi** (Sensitive)",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1135843657715568650/Untitled295_20230801155552.png",
+            "group": "Loossemble",
+            "type": "Girl Group",
+            "code": "`LOVV`"
         }
+    ]
+}
