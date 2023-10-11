@@ -16,5 +16,32 @@
             "type": "Girl Group",
             "code": "`LOVV`"
         }
+    ],
+    "LOHY": [
+        {
+            "name": "**Loossemble HyeJu** (Sensitive)",
+            "image": "https://media.discordapp.net/attachments/1161495158890709072/1161514796500406323/Untitled468_20231011120432.png?ex=653893f3&is=65261ef3&hm=78256de1546ad1486c678bc6cacb1279292c77278ff197ab0fedfe0029555be5&",
+            "group": "Loossemble",
+            "type": "Girl Group",
+            "code": "`LOHY`"
+        } 
+    ],
+    "LOGW": [
+        {
+            "name": "**Loossemble GoWon** (Sensitive)",
+            "image": "https://media.discordapp.net/attachments/1161495158890709072/1161514796194218044/Untitled468_20231011120418.png?ex=653893f3&is=65261ef3&hm=f760e818442e79781888d969568e55d575435c4b994e81e057d937cb532c937b&",
+            "group": "Loossemble",
+            "type": "Girl Group",
+            "code": "`LOGW`"
+        }
+    ],
+    "LOYJ": [
+        {
+            "name": "**Loossemble YeoJin** (Sensitive)",
+            "image": "https://media.discordapp.net/attachments/1161495158890709072/1161514796827553903/Untitled468_20231011120425.png?ex=653893f3&is=65261ef3&hm=8c0f9654c6fa3b78be364baee956f07ac5622ccf5dbe6bc4d9e758cd314f9f43&",
+            "group": "Loossemble",
+            "type": "Girl Group",
+            "code": "`LOYJ`"
+        }    
     ]
 }
