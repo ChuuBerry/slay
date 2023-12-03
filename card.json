@@ -1,110 +1,67 @@
 {
-    "LOHJ": [
+    "ENHS1": [
         {
-            "name": "**Loossemble HyunJin** (Sensitive)",
-            "image": "https://media.discordapp.net/attachments/1161495158890709072/1161495236669870080/Untitled468_20231011104606.png?ex=653881bb&is=65260cbb&hm=5d2490de882b709d407cd82978354f14db49146acafb894b46ae5deaf625221f&",
-            "group": "Loossemble",
-            "type": "Girl Group",
-            "code": "`LOHJ`"
+            "name": "**ENHYPEN** Heeseung (Orange Blood)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`ENHS1`"
         }
     ],
-    "LOVV": [
+    "ENJA1": [
         {
-            "name": "**Loossemble ViVi** (Sensitive)",
-            "image": "https://media.discordapp.net/attachments/1161495158890709072/1161495237043171338/Untitled468_20231011104614.png?ex=653881bc&is=65260cbc&hm=16c8da4d82383c32434a5cebf4cefd44b33096778a8990ed48ba6e6451084240&",
-            "group": "Loossemble",
-            "type": "Girl Group",
-            "code": "`LOVV`"
+            "name": "**ENHYPEN** Jay (Orange Blood)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623998644254/ENHYPEN_SweetVenom_20231203015231.png?ex=657de447&is=656b6f47&hm=912e0b5e1f70ed29ec0a3e8f678d7d1363f2842aa8b09d5fd83821d01a1d68f7&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`ENJA1`"
         }
     ],
-    "LOHY": [
+    "ENJK1": [
         {
-            "name": "**Loossemble HyeJu** (Sensitive)",
-            "image": "https://media.discordapp.net/attachments/1161495158890709072/1161514796500406323/Untitled468_20231011120432.png?ex=653893f3&is=65261ef3&hm=78256de1546ad1486c678bc6cacb1279292c77278ff197ab0fedfe0029555be5&",
-            "group": "Loossemble",
-            "type": "Girl Group",
-            "code": "`LOHY`"
-        } 
-    ],
-    "LOGW": [
-        {
-            "name": "**Loossemble GoWon** (Sensitive)",
-            "image": "https://media.discordapp.net/attachments/1161495158890709072/1161514796194218044/Untitled468_20231011120418.png?ex=653893f3&is=65261ef3&hm=f760e818442e79781888d969568e55d575435c4b994e81e057d937cb532c937b&",
-            "group": "Loossemble",
-            "type": "Girl Group",
-            "code": "`LOGW`"
+            "name": "**ENHYPEN** Jake (Orange Blood)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567624564883577/ENHYPEN_SweetVenom_20231203015224.png?ex=657de447&is=656b6f47&hm=d9227c3658315de89daca3ed85444a82483ef49a888a3cc6a7487ef5fcec3b58&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`ENJK1`"
         }
     ],
-    "LOYJ": [
+    "ENSH1": [
         {
-            "name": "**Loossemble YeoJin** (Sensitive)",
-            "image": "https://media.discordapp.net/attachments/1161495158890709072/1161514796827553903/Untitled468_20231011120425.png?ex=653893f3&is=65261ef3&hm=8c0f9654c6fa3b78be364baee956f07ac5622ccf5dbe6bc4d9e758cd314f9f43&",
-            "group": "Loossemble",
-            "type": "Girl Group",
-            "code": "`LOYJ`"
-        }    
-    ],
-    "RZST": [
-        {
-            "name": "**RIIZE Shotaro** (Memories)",
-            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525916032311387/RIIZE_20231011124728.png?ex=65389e4e&is=6526294e&hm=a6223fe78313122c72d85b4408197c2f5a301de4a3ec09f516f6e56cc5e9e881&",
-            "group": "RIIZE",
-            "type": "Boy Group",
-            "code": "`RZST`"
+            "name": "**ENHYPEN** Sunghoon (Orange Blood)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567625252733129/ENHYPEN_SweetVenom_20231203015236.png?ex=657de447&is=656b6f47&hm=59dc71a4a57549c40553424b5bf9c9e94c230ca886e679704a66b0d2c1bffc6e&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`ENSH1`"
         }
     ],
-    "RZES": [
+    "ENJW1": [
         {
-            "name": "**RIIZE Eunseok** (Memories)",
-            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525916397228042/RIIZE_20231011124734.png?ex=65389e4e&is=6526294e&hm=14f4f41c4b5f6977358664115cacc1044070c1616a617469661cec4d10b7cd4e&",
-            "group": "RIIZE",
-            "type": "Boy Group",
-            "code": "`RZES`"
-        } 
-   ],
-    "RZSC": [
-        {
-            "name": "**RIIZE Sungchan** (Memories)",
-            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525916678238258/RIIZE_20231011124740.png?ex=65389e4e&is=6526294e&hm=6335a229cbef7a4f0f23fabffdb5b31bf0d7369d2c2533703b55b15a8573c9fc&",
-            "group": "RIIZE",
-            "type": "Boy Group",
-            "code": "`RZSC`"
-        } 
-    ],
-    "RZWB": [
-        {
-            "name": "**RIIZE Wonbin** (Memories)",
-            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525916950863903/RIIZE_20231011124745.png?ex=65389e4e&is=6526294e&hm=0ed6170d5b817cb7d95c7eef8b3a41c36c7ecec9f0fc6bb52e32dd407c7a48ff&",
-            "group": "RIIZE",
-            "type": "Boy Group",
-            "code": "`RZWB`"
+            "name": "**ENHYPEN** Jungwon (Orange Blood)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567626234208266/ENHYPEN_SweetVenom_20231203015242.png?ex=657de447&is=656b6f47&hm=6e693b8d6de16f4fd3fc99ad025c9b23d671e80baa6867f2a451dff80d265b75&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`ENJW1`"
         }
     ],
-    "RZSH": [
+    "ENSN1": [
         {
-            "name": "**RIIZE Seunghan** (Memories)",
-            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525917210923059/RIIZE_20231011124751.png?ex=65389e4e&is=6526294e&hm=fb13a0ca57de4a4dc3069290d00154f1986746fb2426e7b925bf88b4135007fd&",
-            "group": "RIIZE",
-            "type": "Boy Group",
-            "code": "`RZSH`"
-        } 
-    ],
-    "RZSO": [
-        {
-            "name": "**RIIZE Sohee** (Memories)",
-            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525917500321832/RIIZE_20231011124756.png?ex=65389e4e&is=6526294e&hm=22c0fe58c511bf159f423e51ae577df1ba06d589a34276ac49a5cd60dc7d5834&",
-            "group": "RIIZE",
-            "type": "Boy Group",
-            "code": "`RZSO`"
+            "name": "**ENHYPEN** Sunoo (Orange Blood)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567627035328522/ENHYPEN_SweetVenom_20231203015249.png?ex=657de448&is=656b6f48&hm=6924fff574ba27741604316c5f53964e77623e4d92bcdd82f390aa2446724c51&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`ENSN1`"
         }
     ],
-    "RZAT": [
+    "ENNK1": [
         {
-            "name": "**RIIZE Anton** (Memories)",
-            "image": "https://media.discordapp.net/attachments/1161522169298288742/1161525917760364594/RIIZE_20231011124801.png?ex=65389e4e&is=6526294e&hm=2a023d037dc4b71d361ec2bb3f90fbbb1dff23aecd97de1f5600c9ee169bed41&",
-            "group": "RIIZE",
-            "type": "Boy Group",
-            "code": "`RZAT`"
-        }    
+            "name": "**ENHYPEN** Ni-ki (Orange Blood)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567627727372460/ENHYPEN_SweetVenom_20231203015256.png?ex=657de448&is=656b6f48&hm=06806dc5e321959f6faa09fbbbcf95bdfd3f386bad0b4cebed07b595df6542d8&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`ENNK1`"
+        }
+   
+
     ]
 }
