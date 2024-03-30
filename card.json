@@ -1,66 +1,75 @@
 {
-    "ENHS1": [
+    "ACFSH": [
         {
-            "name": "**ENHYPEN** Heeseung (Orange Blood)",
+            "name": "**ATEEZ** Seonghwa (Crazy Form)",
             "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
-            "group": "ENHYPEN",
+            "group": "ATEEZ",
             "type": "K-POP Boy Group",
-            "code": "`ENHS1`"
+            "code": "`ACFSH`"
         }
     ],
-    "ENJA1": [
+    "ACFHJ": [
         {
-            "name": "**ENHYPEN** Jay (Orange Blood)",
-            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623998644254/ENHYPEN_SweetVenom_20231203015231.png?ex=657de447&is=656b6f47&hm=912e0b5e1f70ed29ec0a3e8f678d7d1363f2842aa8b09d5fd83821d01a1d68f7&",
-            "group": "ENHYPEN",
+            "name": "**ATEEZ** Hongjoong (Crazy Form)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
+            "group": "ATEEZ",
             "type": "K-POP Boy Group",
-            "code": "`ENJA1`"
+            "code": "`ACFHJ`"
         }
     ],
-    "ENJK1": [
+    "ACFYH": [
         {
-            "name": "**ENHYPEN** Jake (Orange Blood)",
-            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567624564883577/ENHYPEN_SweetVenom_20231203015224.png?ex=657de447&is=656b6f47&hm=d9227c3658315de89daca3ed85444a82483ef49a888a3cc6a7487ef5fcec3b58&",
-            "group": "ENHYPEN",
+            "name": "**ATEEZ** Yunho (Crazy Form)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
+            "group": "ATEEZ",
             "type": "K-POP Boy Group",
-            "code": "`ENJK1`"
+            "code": "`ACFYH`"
         }
     ],
-    "ENSH1": [
+    "ACFYS": [
         {
-            "name": "**ENHYPEN** Sunghoon (Orange Blood)",
-            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567625252733129/ENHYPEN_SweetVenom_20231203015236.png?ex=657de447&is=656b6f47&hm=59dc71a4a57549c40553424b5bf9c9e94c230ca886e679704a66b0d2c1bffc6e&",
-            "group": "ENHYPEN",
+            "name": "**ATEEZ** Yeosang (Crazy Form)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
+            "group": "ATEEZ",
             "type": "K-POP Boy Group",
-            "code": "`ENSH1`"
+            "code": "`ACFYS`"
         }
     ],
-    "ENJW1": [
+    "ACFSA": [
         {
-            "name": "**ENHYPEN** Jungwon (Orange Blood)",
-            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567626234208266/ENHYPEN_SweetVenom_20231203015242.png?ex=657de447&is=656b6f47&hm=6e693b8d6de16f4fd3fc99ad025c9b23d671e80baa6867f2a451dff80d265b75&",
-            "group": "ENHYPEN",
+            "name": "**ATEEZ** San (Crazy Form)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
+            "group": "ATEEZ",
             "type": "K-POP Boy Group",
-            "code": "`ENJW1`"
+            "code": "`ACFSA`"
         }
     ],
-    "ENSN1": [
+    "ACFMG": [
         {
-            "name": "**ENHYPEN** Sunoo (Orange Blood)",
-            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567627035328522/ENHYPEN_SweetVenom_20231203015249.png?ex=657de448&is=656b6f48&hm=6924fff574ba27741604316c5f53964e77623e4d92bcdd82f390aa2446724c51&",
-            "group": "ENHYPEN",
+            "name": "**ATEEZ** Mingi (Crazy Form)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
+            "group": "ATEEZ",
             "type": "K-POP Boy Group",
-            "code": "`ENSN1`"
+            "code": "`ACFMG`"
         }
     ],
-    "ENNK1": [
+    "ACFWY": [
         {
-            "name": "**ENHYPEN** Ni-ki (Orange Blood)",
-            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567627727372460/ENHYPEN_SweetVenom_20231203015256.png?ex=657de448&is=656b6f48&hm=06806dc5e321959f6faa09fbbbcf95bdfd3f386bad0b4cebed07b595df6542d8&",
-            "group": "ENHYPEN",
+            "name": "**ATEEZ** Wooyoung (Crazy Form)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
+            "group": "ATEEZ",
             "type": "K-POP Boy Group",
-            "code": "`ENNK1`"
+            "code": "`ACFWY`"
         }
+      ],
+    "ACFJH": [
+        {
+            "name": "**ATEEZ** Jongho (Crazy Form)",
+            "image": "https://media.discordapp.net/attachments/1180566966969303120/1180567623549845534/ENHYPEN_SweetVenom_20231203015217.png?ex=657de447&is=656b6f47&hm=d03b1078621883b6790292f44076907399ee59fb4cf891270dd11b2d2bcbdde7&",
+            "group": "ATEEZ",
+            "type": "K-POP Boy Group",
+            "code": "`ACFJH`"
+        }  
    
 
     ]
