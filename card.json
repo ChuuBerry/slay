@@ -337,6 +337,206 @@
             "group": "OH MY GIRL",
             "type": "K-POP Girl Group",
             "code": "`OSCAR`"
+        }
+    ],
+    "CLEBX": [
+        {
+            "name": "**CIX** BX",
+            "song": "Lovers or Enemies",
+            "image": "https://cdn.discordapp.com/attachments/1223606803145949225/1223611630198329445/CLEBX.png?ex=661a7c22&is=66080722&hm=edcc7fe41faa856071ec899f031d4f2a90dd5425391bade0b929aff6299bff94&",
+            "group": "CIX",
+            "type": "K-POP Boy Group",
+            "code": "`CLEBX`"
         }    
+    ],
+    "CLESH": [
+        {
+            "name": "**CIX** Seunghun",
+            "song": "Lovers or Enemies",
+            "image": "https://media.discordapp.net/attachments/1223606803145949225/1223611630894710845/CLESH.png?ex=661a7c22&is=66080722&hm=a79ba85f4b7c7c2fb80d59514c1b3a7d1aec6b9e9db2cb28065dea63e67c5fd3&=&format=webp&quality=lossless&width=496&height=662",
+            "group": "CIX",
+            "type": "K-POP Boy Group",
+            "code": "`CLESH`"
+        } 
+    ],
+    "CLEYH": [
+        {
+            "name": "**CIX** Yonghee",
+            "song": "Lovers or Enemies",
+            "image": "https://cdn.discordapp.com/attachments/1223606803145949225/1223611632538878043/CLEYH.png?ex=661a7c22&is=66080722&hm=237a3d2b94cdc27b8230a02ee15406786428ed53cc11705cec5fab04ba28c9ed&",
+            "group": "CIX",
+            "type": "K-POP Boy Group",
+            "code": "`CLEYH`"
+        } 
+    ],
+    "CLEBJ": [
+        {
+            "name": "**CIX** Bae Jinyoung",
+            "song": "Lovers or Enemies",
+            "image": "https://cdn.discordapp.com/attachments/1223606803145949225/1223611633029484645/CLEBJ.png?ex=661a7c22&is=66080722&hm=8526b5e39be261fba7382e8dfd8b1c2a1c63f7f87a7ad6758a768a04bcf041a7&",
+            "group": "CIX",
+            "type": "K-POP Boy Group",
+            "code": "`CLEBJ`"
+        }    
+    ],
+    "CLEHS": [
+        {
+            "name": "**CIX** Hyunsuk",
+            "song": "Lovers or Enemies",
+            "image": "https://cdn.discordapp.com/attachments/1223606803145949225/1223611633851695145/CLEHS.png?ex=661a7c23&is=66080723&hm=baece3298eaf248fe9a1a1dd3fc3e98a8946e0286718c506a223e91ded4b57ef&",
+            "group": "CIX",
+            "type": "K-POP Boy Group",
+            "code": "`CLEHS`"
+        } 
+    ],
+    "ZMPKJ": [
+        {
+            "name": "**ZEROBASEONE**Kim Jiwoong ",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651055636709477/ZMPKJ.png?ex=661aa0da&is=66082bda&hm=c0356207630fcce4a070ec4727262957b1fefcf62d414dbc91da342090aec24e&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPKJ`"
+        }   
+    ],
+    "ZMPZH": [
+        {
+            "name": "**ZEROBASEONE** Zhang Hao",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651056605597718/ZMPZH.png?ex=661aa0da&is=66082bda&hm=8acfc0d577d4c1de91bdb283a52f2237b070476114f9f403d979e313bde90efc&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPZH`"
+        }   
+    ],
+    "ZMPSH": [
+        {
+            "name": "**ZEROBASEONE** Sung Hanbin",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651057498980362/ZMPSH.png?ex=661aa0da&is=66082bda&hm=b8c8e5914afb323487a4c0397a82a760d1b553cd0d7ff5f4aaab6191bb6e702d&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPSH`"
+        }   
+    ],
+    "ZMPSM": [
+        {
+            "name": "**ZEROBASEONE** Seok Matthew",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651058111483975/ZMPSM.png?ex=661aa0da&is=66082bda&hm=056f5258357dbc87492f15d3c3b877e6647404dfd17e89dc32124e2b9300856a&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPSM`"
+        }   
+    ],
+    "ZMPKT": [
+        {
+            "name": "**ZEROBASEONE** Kim Taerae",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651058706944061/ZMPKT.png?ex=661aa0da&is=66082bda&hm=ffe3a845d2ea493dd525317705d47f5552476f9d8dcf66a21f20c73f73beae04&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPKT`"
+        }   
+    ],
+    "ZMPRK": [
+        {
+            "name": "**ZEROBASEONE** Ricky",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651059424301066/ZMPRK.png?ex=661aa0da&is=66082bda&hm=c195afd38ae0db0b92e603776ecb6400827b9935b509624a4d24bd7a1b1adcd6&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPRK`"
+        }   
+    ],
+    "ZMPKG": [
+        {
+            "name": "**ZEROBASEONE** Kim Gyuvin",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651060426608702/ZMPKG.png?ex=661aa0db&is=66082bdb&hm=710311f65cd449f6132932a26b94e5255326db10b342abdec05a5f596d5bfe99&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPKG`"
+        }   
+    ],
+    "ZMPPG": [
+        {
+            "name": "**ZEROBASEONE** Park Gunwook",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651061328379904/ZMPPG.png?ex=661aa0db&is=66082bdb&hm=1072707a81e4d05dd6f72fef3049cc2d13f80b0586b5dfcf45961734f065306c&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPPG`"
+        }   
+    ],
+    "ZMPHY": [
+        {
+            "name": "**ZEROBASEONE** Han Yujin",
+            "song": "Melting Point",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651062330953898/ZMPHY.png?ex=661aa0db&is=66082bdb&hm=69447c1e932359a64c8ca58446b72f48c8abeda8df0d9219461d267048d1d7f8&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP Boy Group",
+            "code": "`ZMPHY`"
+        }    
+    ],
+    "SBBSM": [
+        {
+            "name": "**STAYC** Sumin",
+            "song": "Bubble",
+            "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611750696489030/SBBSM.png?ex=661a7c3e&is=6608073e&hm=583236ff139556f850404d341eb9b0d58b7f2772bb82863ac52b59aa47483cdc&",
+            "group": "STAYC",
+            "type": "K-POP Girl Group",
+            "code": "`SBBSM`"
+        }   
+    ],
+    "SBBSI": [
+        {
+            "name": "**STAYC** Sieun",
+            "song": "Bubble",
+            "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611751203995698/SBBSI.png?ex=661a7c3f&is=6608073f&hm=f837e6e17aa36eb11619223ad1412adcbf521b4f701b8259b5683b256ef22c33&",
+            "group": "STAYC",
+            "type": "K-POP Girl Group",
+            "code": "`SBBSI`"
+        } 
+    ],
+    "SBBIS": [
+        {
+            "name": "**STAYC** Isa",
+            "song": "Bubble",
+            "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611751736676423/SBBIS.png?ex=661a7c3f&is=6608073f&hm=8525b49dffaecff071c61408e6bd3662f32961f04a0df6288ed1f1865632f76f&",
+            "group": "STAYC",
+            "type": "K-POP Girl Group",
+            "code": "`SBBIS`"
+        } 
+    ],
+    "SBBSE": [
+        {
+            "name": "**STAYC** Seeun",
+            "song": "Bubble",
+            "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611752311292004/SBBSE.png?ex=661a7c3f&is=6608073f&hm=35131c6e390ee2ec6e997c4768910a058ae448ecbf0f73647e9a889f55631fc2&",
+            "group": "STAYC",
+            "type": "K-POP Girl Group",
+            "code": "`SBBSE`"
+        } 
+    ],
+    "SBBYO": [
+        {
+            "name": "**STAYC** Yoon",
+            "song": "Bubble",
+            "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611754253385819/SBBYO.png?ex=661a7c3f&is=6608073f&hm=201bf016c40e00bde47d657d548fabc4b6ab78afe5a92c31c5f2073d750a8f3d&",
+            "group": "STAYC",
+            "type": "K-POP Girl Group",
+            "code": "`SBBYO`"
+        } 
+    ],
+    "SBBSJ": [
+        {
+            "name": "**STAYC** J",
+            "song": "Bubble",
+            "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611752919470192/SBBSJ.png?ex=661a7c3f&is=6608073f&hm=180f5068ab207108954a188c880b105acefba37312195f63ce2a7685b36ef8f1&",
+            "group": "STAYC",
+            "type": "K-POP Girl Group",
+            "code": "`SBBSJ`"
+        }              
     ]
 }
