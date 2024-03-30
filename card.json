@@ -277,6 +277,66 @@
             "group": "SEVENTEEN",
             "type": "K-POP Boy Group",
             "code": "`SGMDN`"
-        }       
+        }
+     ],
+    "OSCHJ": [
+        {
+            "name": "**OH MY GIRL** Hyojung",
+            "song": "Summer Comes",
+            "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599537906516058/OSCHJ.png?ex=661a70df&is=6607fbdf&hm=61d6126b7355c6049ea40f38e8bb20e2962d01653f2d6590402a71bc9a8cf15c&",
+            "group": "OH MY GIRL",
+            "type": "K-POP Girl Group",
+            "code": "`OSCHJ`"
+        }
+    ],
+    "OSCMM": [
+        {
+            "name": "**OH MY GIRL** Mimi",
+            "song": "Summer Comes",
+            "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599538242322452/OSCMM.png?ex=661a70df&is=6607fbdf&hm=f77f1eed5087a1ff681c3b1f8abae9284f9c81ecae3037e535910c015245259c&",
+            "group": "OH MY GIRL",
+            "type": "K-POP Girl Group",
+            "code": "`OSCMM`"
+        }
+    ],
+    "OSCYA": [
+        {
+            "name": "**OH MY GIRL** YooA",
+            "song": "Summer Comes",
+            "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599538627940383/OSCYA.png?ex=661a70df&is=6607fbdf&hm=e4a77aea5dbf4c2eaccdd65897f80f76fea29fee17572be514455dc9f7621a65&",
+            "group": "OH MY GIRL",
+            "type": "K-POP Girl Group",
+            "code": "`OSCYA`"
+        }
+    ],
+    "OSCSH": [
+        {
+            "name": "**OH MY GIRL** Seunghee",
+            "song": "Summer Comes",
+            "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599538955091998/OSCSH.png?ex=661a70df&is=6607fbdf&hm=7ff971129672d5127f718d1b008172837512388d97f9757263a4987ea2834562&",
+            "group": "OH MY GIRL",
+            "type": "K-POP Girl Group",
+            "code": "`OSCSH`"
+        } 
+    ],
+    "OSCYB": [
+        {
+            "name": "**OH MY GIRL** Yubin",
+            "song": "Summer Comes",
+            "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599539274121306/OSCYB.png?ex=661a70df&is=6607fbdf&hm=1e5fa0b98d2ea649f9fbcfa98bc4b3422ed470ac931a322c1c44a82b59cd2195&",
+            "group": "OH MY GIRL",
+            "type": "K-POP Girl Group",
+            "code": "`OSCYB`"
+        }    
+    ],
+    "OSCAR": [
+        {
+            "name": "**OH MY GIRL** Arin",
+            "song": "Summer Comes",
+            "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599539752013916/OSCAR.png?ex=661a70df&is=6607fbdf&hm=f00212a3ddb5ca0de40f3a8f28cd76bd6ffa888835c2f69c5da881d3083a8bc1&",
+            "group": "OH MY GIRL",
+            "type": "K-POP Girl Group",
+            "code": "`OSCAR`"
+        }    
     ]
 }
