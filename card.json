@@ -537,6 +537,176 @@
             "group": "STAYC",
             "type": "K-POP Girl Group",
             "code": "`SBBSJ`"
-        }              
+        }
+    ],
+    "IBDAY": [
+        {
+            "name": "**IVE** An Yujin",
+            "song": "Baddie",
+            "image": "&",
+            "group": "IVE",
+            "type": "K-POP Girl Group",
+            "code": "`IBDAY`"
+        }
+     ],
+    "IBDGE": [
+        {
+            "name": "**IVE** Gaeul",
+            "song": "Baddie",
+            "image": "&",
+            "group": "IVE",
+            "type": "K-POP Girl Group",
+            "code": "`IBDGE`"
+        } 
+    ],
+    "IBDRE": [
+        {
+            "name": "**IVE** Rei",
+            "song": "Baddie",
+            "image": "&",
+            "group": "IVE",
+            "type": "K-POP Girl Group",
+            "code": "`IBDRE`"
+        } 
+    ],
+    "IBDJW": [
+        {
+            "name": "**IVE** Jang Wonyoung",
+            "song": "Baddie",
+            "image": "&",
+            "group": "IVE",
+            "type": "K-POP Girl Group",
+            "code": "`IBDJW`"
+        } 
+     ],
+    "IBDLI": [
+        {
+            "name": "**IVE** Liz",
+            "song": "Baddie",
+            "image": "&",
+            "group": "IVE",
+            "type": "K-POP Girl Group",
+            "code": "`IBDLI`"
+        } 
+     ],
+    "IBDLS": [
+        {
+            "name": "**IVE** Leeseo",
+            "song": "Baddie",
+            "image": "&",
+            "group": "IVE",
+            "type": "K-POP Girl Group",
+            "code": "`IBDLS`"
+        } 
+     ],
+    "NDTMJ": [
+        {
+            "name": "**NewJeans** Minju",
+            "song": "Ditto",
+            "image": "&",
+            "group": "NewJeans",
+            "type": "K-POP Girl Group",
+            "code": "`NDTMJ`"
+        }
+    ],
+    "NDTHN": [
+        {
+            "name": "**NewJeans** Hanni",
+            "song": "Ditto",
+            "image": "&",
+            "group": "NewJeans",
+            "type": "K-POP Girl Group",
+            "code": "`NDTHN`"
+        }
+    ],
+    "NDTDN": [
+        {
+            "name": "**NewJeans** Danielle",
+            "song": "Ditto",
+            "image": "&",
+            "group": "NewJeans",
+            "type": "K-POP Girl Group",
+            "code": "`NDTDN`"
+        }
+    ],
+    "NDTHR": [
+        {
+            "name": "**NewJeans** Haerin",
+            "song": "Ditto",
+            "image": "&",
+            "group": "NewJeans",
+            "type": "K-POP Girl Group",
+            "code": "`NDTHR`"
+        }
+    ],
+    "NDTHI": [
+        {
+            "name": "**NewJeans** Hyein",
+            "song": "Ditto",
+            "image": "&",
+            "group": "NewJeans",
+            "type": "K-POP Girl Group",
+            "code": "`NDTHI`"
+        }
+    ],
+    "NSNLL": [
+        {
+            "name": "**NMIXX** Lily",
+            "song": "Soñar",
+            "image": "&",
+            "group": "NMIXX",
+            "type": "K-POP Girl Group",
+            "code": "`NSNLL`"
+        }
+    ],
+    "NSNHW": [
+        {
+            "name": "**NMIXX** Haewon",
+            "song": "Soñar",
+            "image": "&",
+            "group": "NMIXX",
+            "type": "K-POP Girl Group",
+            "code": "`NSNHW`"
+        } 
+   ],
+    "NSNSY": [
+        {
+            "name": "**NMIXX** Sullyoon",
+            "song": "Soñar",
+            "image": "&",
+            "group": "NMIXX",
+            "type": "K-POP Girl Group",
+            "code": "`NSNSY`"
+        }  
+    ],
+    "NSNBA": [
+        {
+            "name": "**NMIXX** Bae",
+            "song": "Soñar",
+            "image": "&",
+            "group": "NMIXX",
+            "type": "K-POP Girl Group",
+            "code": "`NSNBA`"
+        } 
+    ],
+    "NSNJW": [
+        {
+            "name": "**NMIXX** Jiwoo",
+            "song": "Soñar",
+            "image": "&",
+            "group": "NMIXX",
+            "type": "K-POP Girl Group",
+            "code": "`NSNJW`"
+        } 
+     ],
+    "NSNKJ": [
+        {
+            "name": "**NMIXX** Kyujin",
+            "song": "Soñar",
+            "image": "&",
+            "group": "NMIXX",
+            "type": "K-POP Girl Group",
+            "code": "`NSNKJ`"
+        }   
     ]
 }
