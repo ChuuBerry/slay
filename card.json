@@ -68,7 +68,7 @@
             "type": "K-POP Boy Group",
             "code": "`ACFWY`"
         }
-      ],
+    ],
     "ACFJH": [
         {
             "name": "**ATEEZ** Jongho",
@@ -78,7 +78,205 @@
             "type": "K-POP Boy Group",
             "code": "`ACFJH`"
         }  
-   
-
+   ],
+    "NSTMA": [
+        {
+            "name": "**NCT Dream** Mark",
+            "song": "Smoothie",
+            "image": "&",
+            "group": "NCT Dream",
+            "type": "K-POP Boy Group",
+            "code": "`NSTMA`"
+        }
+],
+    "NSTRJ": [
+        {
+            "name": "**NCT Dream** Renjun",
+            "song": "Smoothie",
+            "image": "&",
+            "group": "NCT Dream",
+            "type": "K-POP Boy Group",
+            "code": "`NSTRJ`"
+        }
+   ],
+    "NSTJN": [
+        {
+            "name": "**NCT Dream** Jeno",
+            "song": "Smoothie",
+            "image": "&",
+            "group": "NCT Dream",
+            "type": "K-POP Boy Group",
+            "code": "`NSTJN`"
+        }     
+    ],
+    "NSTHC": [
+        {
+            "name": "**NCT Dream** Haechan",
+            "song": "Smoothie",
+            "image": "&",
+            "group": "NCT Dream",
+            "type": "K-POP Boy Group",
+            "code": "`NSTHC`"
+        } 
+    ],
+    "NSTJM": [
+        {
+            "name": "**NCT Dream** Jaemin",
+            "song": "Smoothie",
+            "image": "&",
+            "group": "NCT Dream",
+            "type": "K-POP Boy Group",
+            "code": "`NSTJM`"
+        }
+    ],
+    "NSTCL": [
+        {
+            "name": "**NCT Dream** Chenle",
+            "song": "Smoothie",
+            "image": "&",
+            "group": "NCT Dream",
+            "type": "K-POP Boy Group",
+            "code": "`NSTCL`"
+        } 
+    ],
+    "NSTJS": [
+        {
+            "name": "**NCT Dream** Jisung",
+            "song": "Smoothie",
+            "image": "&",
+            "group": "NCT Dream",
+            "type": "K-POP Boy Group",
+            "code": "`NSTJS`"
+        } 
+     ],
+    "SGMSC": [
+        {
+            "name": "**SEVENTEEN** S.Coups",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMSC`"
+        }   
+    ],
+    "SGMJH": [
+        {
+            "name": "**SEVENTEEN** Jeonghan",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMJH`"
+        } 
+    ],
+    "SGMJS": [
+        {
+            "name": "**SEVENTEEN** Joshua",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMJS`"
+        } 
+    ],
+    "SGMJU": [
+        {
+            "name": "**SEVENTEEN** Jun",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMJU`"
+        }       
+   ],
+    "SGMHS": [
+        {
+            "name": "**SEVENTEEN** Hoshi",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMHS`"
+        } 
+    ],
+    "SGMDK": [
+        {
+            "name": "**SEVENTEEN** DK",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMDK`"
+        } 
+     ],
+    "SGMWW": [
+        {
+            "name": "**SEVENTEEN** Wonwoo",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMWW`"
+        }  
+    ],
+    "SGMWZ": [
+        {
+            "name": "**SEVENTEEN** Woozi",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMWZ`"
+        }  
+    ],
+    "SGMMG": [
+        {
+            "name": "**SEVENTEEN** Mingyu",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMMG`"
+        }     
+    ],
+    "SGMT8": [
+        {
+            "name": "**SEVENTEEN** The8",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMT8`"
+        }  
+    ],
+    "SGMSK": [
+        {
+            "name": "**SEVENTEEN** Seungkwan",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMSK`"
+        }
+    ],
+    "SGMVN": [
+        {
+            "name": "**SEVENTEEN** Vernon",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMVN`"
+        }  
+    ],
+    "SGMDN": [
+        {
+            "name": "**SEVENTEEN** Dino",
+            "song": "God Of Music",
+            "image": "&",
+            "group": "SEVENTEEN",
+            "type": "K-POP Boy Group",
+            "code": "`SGMDN`"
+        }       
     ]
 }
