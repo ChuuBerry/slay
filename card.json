@@ -757,6 +757,96 @@
             "group": "MONSTA X",
             "type": "K-POP Boy Group",
             "code": "`MLOIM`"
-        }     
+        }   
+    ],
+    "TOSNY": [
+        {
+            "name": "**TWICE** Nayeon",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834026729537596/TOSNY.png?ex=661b4b41&is=6608d641&hm=1416de7a55c344d2f38915aaba0179f2b551c78ee78678d4bc8aba9b08298db7&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSNY`"
+        }
+    ],
+    "TOSJY": [
+        {
+            "name": "**TWICE** Jeongyeon",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834027413344306/TOSJY.png?ex=661b4b41&is=6608d641&hm=94a71e7a950082f0854fcfc0b34604aead142a848e258b51fa41dcb5ff4aa3fc&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSJY`"
+        }
+    ],
+    "TOSMM": [
+        {
+            "name": "**TWICE** Momo",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834027920719872/TOSMM.png?ex=661b4b41&is=6608d641&hm=5bf4ba0458d4d8afa163ff911055b2b82f28a4d2be7e8667e526f075b683fe2d&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSMM`"
+        }
+    ],
+    "TOSSN": [
+        {
+            "name": "**TWICE** Sana",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834028428492810/TOSSN.png?ex=661b4b42&is=6608d642&hm=aa7ce3089881d407d51a2ab0c3d584b2627a0c4bc8f0c4df3b99f3e8daf605ba&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSSN`"
+        } 
+    ],
+    "TOSJH": [
+        {
+            "name": "**TWICE** Jihyo",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834029015433267/TOSJH.png?ex=661b4b42&is=6608d642&hm=d44f3edeb3a2a45926882f23e70607626f0b775b8721ebcd2c8313295195e0bc&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSJH`"
+        } 
+    ],
+    "TOSMN": [
+        {
+            "name": "**TWICE** Mina",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834029552566404/TOSMN.png?ex=661b4b42&is=6608d642&hm=0f2d00e8daadbcbdbcf2740c4e7bdf018e68774fd0938daf273fe6161641701f&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSMN`"
+        }  
+    ],
+    "TOSDH": [
+        {
+            "name": "**TWICE** Dahyun",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834030064144455/TOSDH.png?ex=661b4b42&is=6608d642&hm=c8babc2c8af68300899ec9524bbfe525c3396e4ee50424cb6160fa51c2c90fe8&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSDH`"
+        }    
+    ],
+    "TOSCY": [
+        {
+            "name": "**TWICE** Chaeyeong",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834030567325696/TOSCY.png?ex=661b4b42&is=6608d642&hm=b4a94a1a11fcca565ea04114cda27a8c3ecd4c527eeaef9da7265e0251b47ba4&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSCY`"
+        }  
+    ],
+    "TOSTY": [
+        {
+            "name": "**TWICE** Tzuyu",
+            "song": "One Spark",
+            "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834031112720394/TOSTY.png?ex=661b4b42&is=6608d642&hm=bdabc6fea95e9d68a66a918095de529d2402c8a9071fec12f3f4667ad7ad2d42&",
+            "group": "TWICE",
+            "type": "K-POP Girl Group",
+            "code": "`TOSTY`"
+        }    
     ]
 }
