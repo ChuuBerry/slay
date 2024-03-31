@@ -847,6 +847,66 @@
             "group": "TWICE",
             "type": "K-POP Girl Group",
             "code": "`TOSTY`"
+        }  
+    ],
+    "ANWO": [
+        {
+            "name": "**Soloist** WOODZ",
+            "song": "AMNESIA",
+            "image": "https://media.discordapp.net/attachments/1223678407913767085/1223843236913614888/ANWO.png?ex=661b53d5&is=6608ded5&hm=a16a0f374cfafcbc81286228aa77950a9f9fca5b1aa1e80ebc28ecd62bbfc053&",
+            "group": "-",
+            "type": "K-POP Soloist",
+            "code": "`ANWO`"
+        }
+    ],
+    "BBBH": [
+        {
+            "name": "**Soloist** Baekhyun",
+            "song": "Bambi",
+            "image": "https://media.discordapp.net/attachments/1223678407913767085/1223843208501399603/BBBH.png?ex=661b53ce&is=6608dece&hm=8c0018107438d21bbbd5b4d7d567c229c375d3cd20f85fb9938bc7c82bcdb53f&",
+            "group": "EXO",
+            "type": "K-POP Soloist",
+            "code": "`BBBH`"
+        } 
+    ],
+    "SNJK": [
+        {
+            "name": "**Soloist** Jungkook",
+            "song": "Standing Next To You",
+            "image": "https://media.discordapp.net/attachments/1223678407913767085/1223843176381677682/SNJK.png?ex=661b53c7&is=6608dec7&hm=a8540fd6db1c0bdfb7311c2ece1000995594825d3858a2cb28ee7a5001b51ff2&",
+            "group": "BTS",
+            "type": "K-POP Soloist",
+            "code": "`SNJK`"
+        }    
+    ],
+    "EMCH": [
+        {
+            "name": "**Soloist** Chungha",
+            "song": "EENIE MEENIE",
+            "image": "https://media.discordapp.net/attachments/1223678407913767085/1223853700796125245/Soloist_20240331123633.png?ex=661b5d94&is=6608e894&hm=c04645bed399a271d35af8c24f1ba2b1062f08eb0f15eac6b83eb4d073dc78a4&",
+            "group": "-",
+            "type": "K-POP Soloist",
+            "code": "`EMCH`"
+        } 
+     ],
+    "FFJS": [
+        {
+            "name": "**Soloist** Jeon Somi",
+            "song": "Fast Forward",
+            "image": "https://media.discordapp.net/attachments/1223678407913767085/1223853746723749979/Soloist_20240331123711.png?ex=661b5d9f&is=6608e89f&hm=ad5073edbd07d4797347320a8e8b6fb56232bece8acadd82d365ad0af0cf2a19&",
+            "group": "-",
+            "type": "K-POP Soloist",
+            "code": "`FFJS`"
+        } 
+    ],
+    "TXTY": [
+        {
+            "name": "**Soloist** Taeyeon",
+            "song": "To. X",
+            "image": "https://media.discordapp.net/attachments/1223678407913767085/1223853733499375730/Soloist_20240331123624.png?ex=661b5d9c&is=6608e89c&hm=d57c0983f94e10ec0fe324444cf490194a9dfc44ffbfe8268c5bca07f113bf05&",
+            "group": "Girls Generation",
+            "type": "K-POP Soloist",
+            "code": "`TXTY`"
         }    
     ]
 }
