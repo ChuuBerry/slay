@@ -707,6 +707,56 @@
             "group": "NMIXX",
             "type": "K-POP Girl Group",
             "code": "`NSNKJ`"
-        }   
+        } 
+    ],
+    "MLOMH": [
+        {
+            "name": "**MONSTA X** Minhyuk",
+            "song": "LOVE",
+            "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833057069502574/MX_LOVE_20240331111401.png?ex=661b4a5a&is=6608d55a&hm=28dc422062c5dc641461284d7acceae5e972739433f2c38aa3a286a585f3f5d2&",
+            "group": "MONSTA X",
+            "type": "K-POP Boy Group",
+            "code": "`MLOMH`"
+        } 
+     ],
+    "MLOKH": [
+        {
+            "name": "**MONSTA X** Kihyun",
+            "song": "LOVE",
+            "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833057413431447/MX_LOVE_20240331111414.png?ex=661b4a5a&is=6608d55a&hm=a29c455634c8d5b964ac06774beae5ad7c87b0f14a9e9764e636edda73078b7c&",
+            "group": "MONSTA X",
+            "type": "K-POP Boy Group",
+            "code": "`MLOKH`"
+        }
+    ],
+    "MLOHW": [
+        {
+            "name": "**MONSTA X** Hyungwon",
+            "song": "LOVE",
+            "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833057736523888/MX_LOVE_20240331111420.png?ex=661b4a5a&is=6608d55a&hm=a36dc7c02516fe8e05124b791a0e2fd8fe284dbfe0ae49ae0c6905f99c78d4aa&",
+            "group": "MONSTA X",
+            "type": "K-POP Boy Group",
+            "code": "`MLOHW`"
+        } 
+     ],
+    "MLOJH": [
+        {
+            "name": "**MONSTA X** Joohoney",
+            "song": "LOVE",
+            "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833058042581032/MX_LOVE_20240331111407.png?ex=661b4a5a&is=6608d55a&hm=7c47e183a3f4f8bfe8b0f792f454d4aef0fb950c3ffc92fc0e9ac5d11fa3a938&",
+            "group": "MONSTA X",
+            "type": "K-POP Boy Group",
+            "code": "`MLOJH`"
+        }
+    ],
+    "MLOIM": [
+        {
+            "name": "**MONSTA X** I.M",
+            "song": "LOVE",
+            "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833058365538355/MX_LOVE_20240331111426.png?ex=661b4a5a&is=6608d55a&hm=d90426fe554f4431cbea3ff34cd8e1e337bc0d4a17a8e0e729eec4e869c44277&",
+            "group": "MONSTA X",
+            "type": "K-POP Boy Group",
+            "code": "`MLOIM`"
+        }     
     ]
 }
