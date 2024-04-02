@@ -907,6 +907,124 @@
             "group": "Girls Generation",
             "type": "K-POP Soloist",
             "code": "`TXTY`"
+        }
+    ],
+    "TNNDH": [
+        {
+            "name": "<:nolja:1224572891383992371> **TWS** Dohoon",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224279705176379402/TNNDH.png?ex=661cea53&is=660a7553&hm=bb10d60772e23faab7b49fd344b58075ebcc92a6a1676d1e0ca32f1d37e3a073&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`TNNDH`"
         }    
+    ],
+    "TNNJH": [
+        {
+            "name": "<:nolja:1224572891383992371> **THE BOYZ** Juhaknyeon",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224279766228668447/TNNJH.png?ex=661cea62&is=660a7562&hm=ea1cd917aeff827c16e8a4f0fd77605b4e1fb1a31c9770831e3722b24601a049&",
+            "type": "EVENTS",
+            "code": "`TNNJH`"
+        }    
+    ],
+    "HNNHS": [
+        {
+            "name": "<:nolja:1224572891383992371> **H1-KEY** Hwiseo",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224279853961056406/HNNHS.png?ex=661cea77&is=660a7577&hm=6d9929224d94b2521bc1d0c3b9075af2a06958186b47a32936fa9ee11e976758&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`HNNHS`"
+        }    
+    ],
+    "KNNBE": [
+        {
+            "name": "<:nolja:1224572891383992371> **KISS OF LIFE** Belle",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224279920365142108/KNNBL.png?ex=661cea87&is=660a7587&hm=d55d593f0a21d6de4cf1601b72373425d1050a24338b273b41fb5c3c8509c001&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KNNBE`"
+    ],
+    "ZNNSM": [
+        {
+            "name": "<:nolja:1224572891383992371> **ZEROBASEONE** Seok Matthew",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224386876358660258/ZNNSM.png?ex=661d4e23&is=660ad923&hm=e3c2d2a11b5cd590b8aba6200d53378d92ab846985aac0b700bacc6cb95ac81d&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`ZNNSM`"
+        }    
+    ],
+    "INNMJ": [
+        {
+            "name": "<:nolja:1224572891383992371> **ILLIT** Minju",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224386937364811836/INNMJ.png?ex=661d4e31&is=660ad931&hm=3b0f4304c799efb8f002d341f7e8904e59c9b1df7c2c53f4c9434b438f931d16&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`INNMJ`"
+        }    
+    ],
+    "INNJW": [
+        {
+            "name": "<:nolja:1224572891383992371> **IVE** Jang Wonyoung",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224570976872829012/INNJW.png?ex=661df998&is=660b8498&hm=649325adb92572d30830b6bd395acbb43aca3285bd90ba238793616cc1068ebb&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`INNJW`"
+        }    
+    ],
+    "CNNSH": [
+        {
+            "name": "<:nolja:1224572891383992371> **CIX** Seunghun",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224571035182039060/CNNSH.png?ex=661df9a6&is=660b84a6&hm=3deb646a5c82ef043945f92ce0a069ab5dfde0da83d629cccc62c5a904ce6376&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`CNNSH`"
+        }    
+    ],
+    "ENNMJ": [
+        {
+            "name": "<:nolja:1224572891383992371> **EVNNE** Mun Junghyun",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224571089607327825/ENNMJ.png?ex=661df9b3&is=660b84b3&hm=b759bcd488caa6e5c56823a8aaf0faadec74fe36dceffd59ccbf37c0088f5e95&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`ENNMJ`"
+        }    
+    ],
+    "NNOL": [
+        {
+            "name": "<:nolja:1224572891383992371> **Soloist** ONLEE",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224571220129747024/NNOL.png?ex=661df9d2&is=660b84d2&hm=2f600d51c3e0d1e4d75e420a699371de23d658a88776d39ada667bd903e930fe&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`NNOL`"
+        }    
+    ],
+    "NNYN": [
+        {
+            "name": "<:nolja:1224572891383992371> **Soloist** YENA",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224572090309542010/NNYN.png?ex=661dfaa1&is=660b85a1&hm=c45ac6d9735ecfb6c15941cf0b73fdc1bb2f0e890e5382e00f4ca7cd85081b47&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`NNYN`"
+        }    
+    ],
+    "LNNHY": [
+        {
+            "name": "<:nolja:1224572891383992371> **LE SSERAFIM** Huh Yunjin",
+            "song": "놀자, 놀자!",
+            "image": "https://cdn.discordapp.com/attachments/1224278904345202759/1224576503552147560/LNNHY.png?ex=661dfebd&is=660b89bd&hm=95ad724c1cebc3b4606278002d47391166beb3f1c8f8da0652fdc270723eff55&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`LNNHY`"
+        }        
     ]
 }
