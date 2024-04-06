@@ -1026,6 +1026,196 @@
             "group": "Event",
             "type": "EVENTS",
             "code": "`LNNHY`"
+        }
+   ],
+    "ADMKR": [
+        {
+            "name": " **aespa** Karina",
+            "song": "Drama",
+            "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1225457462170357760/ADMKR.png?ex=66213332&is=660ebe32&hm=a4fe97fab030fdf543ed463c3ad3fe4532908ecc2138a67b4f5d7c16d5151082&",
+            "group": "aespa",
+            "type": "K-POP Girl Groups",
+            "code": "`ADMKR`"
         }        
+   ],
+    "ADMGS": [
+        {
+            "name": " **aespa** Giselle",
+            "song": "Drama",
+            "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1225457462610493521/ADMGS.png?ex=66213332&is=660ebe32&hm=6d5d455f1eb3d1b0da05da41ed8ffd966f3b18f79beef4c72711e0e4a5081d7e&",
+            "group": "aespa",
+            "type": "K-POP Girl Groups",
+            "code": "`ADMGS`"
+        }        
+   ],
+    "ADMWT": [
+        {
+            "name": " **aespa** Winter",
+            "song": "Drama",
+            "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1225457463218929765/ADMWT.png?ex=66213333&is=660ebe33&hm=fc76435cdd610efc53b9dabcf2db0919b8a3f84828902800808dbe7cd51c8b9d&",
+            "group": "aespa",
+            "type": "K-POP Girl Groups",
+            "code": "`ADMWT`"
+        }        
+   ],
+    "ADMNN": [
+        {
+            "name": " **aespa** Ningning",
+            "song": "Drama",
+            "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1225457463755538575/ADMNN.png?ex=66213333&is=660ebe33&hm=d2d05e8272132ac84d46bb92db1ea348499170fe1cd5f2105818f900cf80da42&",
+            "group": "aespa",
+            "type": "K-POP Girl Groups",
+            "code": "`ADMNN`"
+        }        
+   ],
+    "PFIKH": [
+        {
+            "name": " **P1Harmony** Keeho ",
+            "song": "Fall In Love Again",
+            "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445838252281996/PFIKH.png?ex=6621285f&is=660eb35f&hm=398f2ba93f242d61f7ff25908fc6da70854652bfd57ae124715bfa13c3b4901c&",
+            "group": "P1harmony",
+            "type": "K-POP BoyGroups",
+            "code": "`PFIKH`"
+        }        
+   ],
+    "PFITO": [
+        {
+            "name": " **P1Harmony** Theo",
+            "song": "Fall In Love Again",
+            "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445838827032596/PFITH.png?ex=6621285f&is=660eb35f&hm=a5edf7624894eead6f9d988c78d69d900c859a5fac0fcae98b71c804f5222d38&",
+            "group": "P1harmony",
+            "type": "K-POP BoyGroups",
+            "code": "`PFI`"
+        }        
+   ],
+    "PFIJU": [
+        {
+            "name": " **P1Harmony** Jiung",
+            "song": "Fall In Love Again",
+            "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445839657373748/PFIJU.png?ex=6621285f&is=660eb35f&hm=62d69bb698e94a018ca033fd98fbed3309a6b17e8d92c51bfabac17ff42c4e71&",
+            "group": "P1harmony",
+            "type": "K-POP BoyGroups",
+            "code": "`PFIJU`"
+        }        
+   ],
+    "PFIIT": [
+        {
+            "name": " **P1Harmony** Intak",
+            "song": "Fall In Love Again",
+            "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445840802549912/PFIIT.png?ex=66212860&is=660eb360&hm=b88775cc295fee7a420d00bebea87f17b60905d1d96abdfdb32ef50e30e309db&",
+            "group": "P1harmony",
+            "type": "K-POP BoyGroups",
+            "code": "`PFIIT`"
+        }        
+   ],
+    "PFISO": [
+        {
+            "name": " **P1Harmony** Soul",
+            "song": "Fall In Love Again",
+            "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445841616240710/PFISO.png?ex=66212860&is=660eb360&hm=0d3337e4731155ca1d224aba10e581883d695dfdff22011f79ff05e3e1a90b6a&",
+            "group": "P1harmony",
+            "type": "K-POP BoyGroups",
+            "code": "`PFISO`"
+        }        
+   ],
+    "PFIJS": [
+        {
+            "name": " **P1Harmony** Jongseob",
+            "song": "Fall In Love Again",
+            "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445842593386646/PFIJS.png?ex=66212860&is=660eb360&hm=a62eaf5c269bbb3a98d0668955c44fb88aef7e86542005f20939e248a459af32&",
+            "group": "P1harmony",
+            "type": "K-POP BoyGroups",
+            "code": "`PFIJS`"
+        }        
+   ],
+    "TDJSB": [
+        {
+            "name": " **Tomorrow X Together** Soobin",
+            "song": "Deja Vu",
+            "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260070351409232/TDJSB.png?ex=66207b5d&is=660e065d&hm=ff5c0bae7ab74b2344cdfb287e1f49ac93760b684994c92ae9b6e070802efd76&",
+            "group": "Tomorrow X Together",
+            "type": "K-POP Boy Groups",
+            "code": "`TDJSB`"
+        }        
+   ],
+    "TDYJ": [
+        {
+            "name": " **Tomorrow X Together** Yeonjun",
+            "song": "Deja Vu",
+            "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260070862979124/TDJYJ.png?ex=66207b5d&is=660e065d&hm=cfcb3aea8f990c6b42fd9b4f6b7bae9170e9afc90a6f0e73d48dfc630c6b0a77&",
+            "group": "Tomorrow X Together",
+            "type": "K-POP Boy Groups",
+            "code": "`TDJYJ`"
+        }       
+   ],
+    "TDJBG": [
+        {
+            "name": " **Tomorrow X Together** Beomgyu",
+            "song": "Deja Vu",
+            "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260071454244944/TDJBG.png?ex=66207b5d&is=660e065d&hm=f7be2e2a9011cd0dcb346a2ffbeacc7dab8834f44f61cc3652e5c084f73153e7&",
+            "group": "Tomorrow X Together",
+            "type": "K-POP Boy Groups",
+            "code": "`TDJBG`"
+        }       
+   ],
+    "TDJTH": [
+        {
+            "name": " **Tomorrow X Together** Taehyun",
+            "song": "Deja Vu",
+            "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260071941050458/TDJTH.png?ex=66207b5d&is=660e065d&hm=3635928129702bc28c8ede2e74c5f2d8bd8c5841d1c8fd769ae0b436425ffc68&",
+            "group": "Tomorrow X Together",
+            "type": "K-POP Boy Groups",
+            "code": "`TDJTH`"
+        }       
+   ],
+    "TDJHK": [
+        {
+            "name": " **Tomorrow X Together** Huening Kai",
+            "song": "Deja Vu",
+            "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260073039822929/TDJHK.png?ex=66207b5d&is=660e065d&hm=22b063454a118f102186e3bf70e19ee208d03d67f8c0b9ab6d95ec7428d5f06e&",
+            "group": "Tomorrow X Together",
+            "type": "K-POP Boy Groups",
+            "code": "`TDJHK`"
+        }   
+   ],
+    "KMTJL": [
+        {
+            "name": " **KISS OF LIFE** Julie",
+            "song": "Midas Touch",
+            "image": "https://cdn.discordapp.com/attachments/1225246302888263722/1225246421117046866/KMTJL.png?ex=66206ea6&is=660df9a6&hm=f7c409bce08a5ebd37ef7c2bd984a97ced5a1e7ab8bbcd70e169c0db8ee28ab5&",
+            "group": "KISS OF LIFE",
+            "type": "K-POP Girl Groups",
+            "code": "`KMTJL`"
+        }        
+   ],
+    "KMTNT": [
+        {
+            "name": " **KISS OF LIFE** Natty",
+            "song": "Midas Touch",
+            "image": "https://cdn.discordapp.com/attachments/1225246302888263722/1225246421704245320/KMTNT.png?ex=66206ea6&is=660df9a6&hm=c7ae4620de85400118bb886acbe4cf84ab368221f54b1d24bdbfaadbd474d7ff&",
+            "group": "KISS OF LIFE",
+            "type": "K-POP Girl Groups",
+            "code": "`KMTNT`"
+        }        
+   ],
+    "KMTHN": [
+        {
+            "name": " **KISS OF LIFE** Haneul",
+            "song": "Midas Touch",
+            "image": "https://cdn.discordapp.com/attachments/1225246302888263722/1225246422320812082/KMTBL.png?ex=66206ea7&is=660df9a7&hm=e62b6d408af89422b8ad924d3f7eb1858389eecfefeac7705035a555f62503f1&",
+            "group": "KISS OF LIFE",
+            "type": "K-POP Girl Groups",
+            "code": "`KMTHN`"
+        }        
+   ],
+    "KMTBE": [
+        {
+            "name": " **KISS OF LIFE** Belle",
+            "song": "Midas Touch",
+            "image": "https://cdn.discordapp.com/attachments/1225246302888263722/1225246422320812082/KMTBL.png?ex=66206ea7&is=660df9a7&hm=e62b6d408af89422b8ad924d3f7eb1858389eecfefeac7705035a555f62503f1&",
+            "group": "KISS OF LIFE",
+            "type": "K-POP Girl Groups",
+            "code": "`KMTBE`"
+        }                
     ]
 }
