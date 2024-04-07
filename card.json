@@ -1426,6 +1426,126 @@
             "group": "THE BOYZ",
             "type": "K-POP Boy Group",
             "code": "`TNTER`"
-        }    
+        }   
+   ],
+    "BPVJS": [
+        {
+            "name": " **BLACKPINK** Jisoo",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "BLACKPINK",
+            "type": "K-POP Girl Group",
+            "code": "`BPVJS`"
+        }
+   ],
+    "BPVJN": [
+        {
+            "name": " **BLACKPINK** Jennie",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "BLACKPINK",
+            "type": "K-POP Girl Group",
+            "code": "`BPVJN`"
+        }     
+    ],
+    "BPVLS": [
+        {
+            "name": " **BLACKPINK** Lisa",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "BLACKPINK",
+            "type": "K-POP Girl Group",
+            "code": "`BPVLS`"
+        } 
+    ],
+    "BPVRS": [
+        {
+            "name": " **BLACKPINK** Rosé",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "BLACKPINK",
+            "type": "K-POP Girl Group",
+            "code": "`BPVRS`"
+        }
+     ],
+    "TGCXY": [
+        {
+            "name": " **TripleS Lovelution** Xinyu",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "TripleS Lovelution",
+            "type": "K-POP Girl Group",
+            "code": "`TGCXY`"
+        }   
+    ],
+    "TGCSH": [
+        {
+            "name": " **TripleS Lovelution** Sohyun",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "TripleS Lovelution",
+            "type": "K-POP Girl Group",
+            "code": "`TGCSH`"
+        }
+     ],
+    "TGCDH": [
+        {
+            "name": " **TripleS Lovelution** Dahyun",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "TripleS Lovelution",
+            "type": "K-POP Girl Group",
+            "code": "`TGCDH`"
+        } 
+    ],
+    "TGCNE": [
+        {
+            "name": " **TripleS Lovelution** Nien",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "TripleS Lovelution",
+            "type": "K-POP Girl Group",
+            "code": "`TGCNE`"
+        } 
+    ],
+    "TGCSY": [
+        {
+            "name": " **TripleS Lovelution** Seoyeon",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "TripleS Lovelution",
+            "type": "K-POP Girl Group",
+            "code": "`TGCSY`"
+        }  
+    ],
+    "TGCYB": [
+        {
+            "name": " **TripleS Lovelution** Yubin",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "TripleS Lovelution",
+            "type": "K-POP Girl Group",
+            "code": "`TGCYB`"
+        } 
+   ],
+    "TGCKD": [
+        {
+            "name": " **TripleS Lovelution** Kaede",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "TripleS Lovelution",
+            "type": "K-POP Girl Group",
+            "code": "`TGCKD`"
+        }
+    ],
+    "TGCHR": [
+        {
+            "name": " **TripleS Lovelution** Hyerin",
+            "song": "Pink Venom",
+            "image": "&",
+            "group": "TripleS Lovelution",
+            "type": "K-POP Girl Group",
+            "code": "`TGCHR`"
+        }       
     ]
 }
