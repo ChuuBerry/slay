@@ -1546,6 +1546,156 @@
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCHR`"
-        }       
+        }  
+    ],
+    "EOFHS": [
+        {
+            "name": "**ENHYPEN** Heeseung",
+            "song": "Orange Flower",
+            "image": "&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`EOFHS`"
+        }
+    ],
+    "EOFJA": [
+        {
+            "name": "**ENHYPEN** Jay",
+            "song": "Orange Flower",
+            "image": "&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`EOFJA`"
+        }    
+    ],
+    "EOFJK": [
+        {
+            "name": "**ENHYPEN** Jake",
+            "song": "Orange Flower",
+            "image": "&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`EOFJK`"
+        }  
+   ],
+    "EOFSH": [
+        {
+            "name": "**ENHYPEN** Sunghoon",
+            "song": "Orange Flower",
+            "image": "&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`EOFSH`"
+        } 
+   ],
+    "EOFSN": [
+        {
+            "name": "**ENHYPEN** Sunoo",
+            "song": "Orange Flower",
+            "image": "&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`EOFSN`"
+        } 
+    ],
+    "EOFJW": [
+        {
+            "name": "**ENHYPEN** Jungwom",
+            "song": "Orange Flower",
+            "image": "&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`EOFJW`"
+        }   
+    ],
+    "EOFNK": [
+        {
+            "name": "**ENHYPEN** Ni-ki",
+            "song": "Orange Flower",
+            "image": "&",
+            "group": "ENHYPEN",
+            "type": "K-POP Boy Group",
+            "code": "`EOFNK`"
+        }  
+     ],
+    "ECSSH": [
+        {
+            "name": "**EXO** Suho",
+            "song": "Cream Soda",
+            "image": "&",
+            "group": "EXO",
+            "type": "K-POP Boy Group",
+            "code": "`ECSSH`"
+        }
+     ],
+    "ECSXM": [
+        {
+            "name": "**EXO** Xiumin",
+            "song": "Cream Soda",
+            "image": "&",
+            "group": "EXO",
+            "type": "K-POP Boy Group",
+            "code": "`ECSXM`"
+        }
+     ],
+    "ECSBH": [
+        {
+            "name": "**EXO** Baekhyun",
+            "song": "Cream Soda",
+            "image": "&",
+            "group": "EXO",
+            "type": "K-POP Boy Group",
+            "code": "`ECSBH`"
+        }   
+     ],
+    "ECSCH": [
+        {
+            "name": "**EXO** Chen",
+            "song": "Cream Soda",
+            "image": "&",
+            "group": "EXO",
+            "type": "K-POP Boy Group",
+            "code": "`ECSCH`"
+        }  
+    ],
+    "ECSCY": [
+        {
+            "name": "**EXO** Chanyeol",
+            "song": "Cream Soda",
+            "image": "&",
+            "group": "EXO",
+            "type": "K-POP Boy Group",
+            "code": "`ECSCY`"
+        }
+    ],
+    "ECSDO": [
+        {
+            "name": "**EXO** D.O.",
+            "song": "Cream Soda",
+            "image": "&",
+            "group": "EXO",
+            "type": "K-POP Boy Group",
+            "code": "`ECSDO`"
+        }  
+    ],
+    "ECSKA": [
+        {
+            "name": "**EXO** Kai",
+            "song": "Cream Soda",
+            "image": "&",
+            "group": "EXO",
+            "type": "K-POP Boy Group",
+            "code": "`ECSKA`"
+        }    
+    ],
+    "ECSSH": [
+        {
+            "name": "**EXO** Sehun",
+            "song": "Cream Soda",
+            "image": "&",
+            "group": "EXO",
+            "type": "K-POP Boy Group",
+            "code": "`ECSSH`"
+        }    
     ]
 }
