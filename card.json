@@ -1551,8 +1551,8 @@
     "EOFHS": [
         {
             "name": "**ENHYPEN** Heeseung",
-            "song": "Orange Flower",
-            "image": "&",
+            "song": "Orange Flower (You Complete Me)",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404481361514546/EOFHS.png?ex=6624a52d&is=6612302d&hm=bed6d08de30699598f9f6a4c33bb547a092f58ae83241764ab4b1aafe73470eb&",
             "group": "ENHYPEN",
             "type": "K-POP Boy Group",
             "code": "`EOFHS`"
@@ -1561,8 +1561,8 @@
     "EOFJA": [
         {
             "name": "**ENHYPEN** Jay",
-            "song": "Orange Flower",
-            "image": "&",
+            "song": "Orange Flower (You Complete Me)",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404481885798400/EOFJA.png?ex=6624a52d&is=6612302d&hm=5796698aa3e38fb2a56aecf1c357f71145c8a2ad72bde3328406d25563eb3e23&",
             "group": "ENHYPEN",
             "type": "K-POP Boy Group",
             "code": "`EOFJA`"
@@ -1571,8 +1571,8 @@
     "EOFJK": [
         {
             "name": "**ENHYPEN** Jake",
-            "song": "Orange Flower",
-            "image": "&",
+            "song": "Orange Flower (You Complete Me)",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404482368147476/EOFJK.png?ex=6624a52e&is=6612302e&hm=46df6274af0ddff3f4408f9876c338dd246c4d84bedd4e47ecc332a95e9405eb&",
             "group": "ENHYPEN",
             "type": "K-POP Boy Group",
             "code": "`EOFJK`"
@@ -1581,8 +1581,8 @@
     "EOFSH": [
         {
             "name": "**ENHYPEN** Sunghoon",
-            "song": "Orange Flower",
-            "image": "&",
+            "song": "Orange Flower (You Complete Me)",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404482972123166/EOFSH.png?ex=6624a52e&is=6612302e&hm=e87824740a4df262d4ed9d3bc7a71755423ace1ebc631f505dc61c26e4bb835e&",
             "group": "ENHYPEN",
             "type": "K-POP Boy Group",
             "code": "`EOFSH`"
@@ -1591,8 +1591,8 @@
     "EOFSN": [
         {
             "name": "**ENHYPEN** Sunoo",
-            "song": "Orange Flower",
-            "image": "&",
+            "song": "Orange Flower (You Complete Me)",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404483467317278/EOFSN.png?ex=6624a52e&is=6612302e&hm=2a1eeb2e641dc8447b2a12d5f1cf3b445495ab24243b23afa72cde3c4bdeb0d4&",
             "group": "ENHYPEN",
             "type": "K-POP Boy Group",
             "code": "`EOFSN`"
@@ -1600,9 +1600,9 @@
     ],
     "EOFJW": [
         {
-            "name": "**ENHYPEN** Jungwom",
-            "song": "Orange Flower",
-            "image": "&",
+            "name": "**ENHYPEN** Jungwon",
+            "song": "Orange Flower (You Complete Me)",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404484104851477/EOFJW.png?ex=6624a52e&is=6612302e&hm=210709cd9d34cc353c65a69fadecb99f4b0db5198ebce28df867b440aca2f5c5&",
             "group": "ENHYPEN",
             "type": "K-POP Boy Group",
             "code": "`EOFJW`"
@@ -1611,8 +1611,8 @@
     "EOFNK": [
         {
             "name": "**ENHYPEN** Ni-ki",
-            "song": "Orange Flower",
-            "image": "&",
+            "song": "Orange Flower (You Complete Me)",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404484612100208/EOFNK.png?ex=6624a52e&is=6612302e&hm=448c774d55e490e55ff18aaaf0b827d7c9e9fad4ef4dc71fa826e1e545035b72&",
             "group": "ENHYPEN",
             "type": "K-POP Boy Group",
             "code": "`EOFNK`"
@@ -1622,7 +1622,7 @@
         {
             "name": "**EXO** Suho",
             "song": "Cream Soda",
-            "image": "&",
+            "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481847676964864/ECSSH.png?ex=6624ed3b&is=6612783b&hm=ccd3b533d84abc29bb5b5730a75cc1e26cc4e5dbeb8bd6b2ed0faccf20f01ebe&",
             "group": "EXO",
             "type": "K-POP Boy Group",
             "code": "`ECSSH`"
@@ -1632,7 +1632,7 @@
         {
             "name": "**EXO** Xiumin",
             "song": "Cream Soda",
-            "image": "&",
+            "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481848146989178/ECSXM.png?ex=6624ed3b&is=6612783b&hm=42b9b1e618b39575777caeb5b6801d464c82d2340764faa193471764d17e9708&",
             "group": "EXO",
             "type": "K-POP Boy Group",
             "code": "`ECSXM`"
@@ -1642,7 +1642,7 @@
         {
             "name": "**EXO** Baekhyun",
             "song": "Cream Soda",
-            "image": "&",
+            "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481848662622278/ECSBH.png?ex=6624ed3b&is=6612783b&hm=ae42415234e7fd6116d490b7a7efc4aa950db64c87c0fb94cca8796f4a27fad7&",
             "group": "EXO",
             "type": "K-POP Boy Group",
             "code": "`ECSBH`"
@@ -1652,7 +1652,7 @@
         {
             "name": "**EXO** Chen",
             "song": "Cream Soda",
-            "image": "&",
+            "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481849283383356/ECSCH.png?ex=6624ed3b&is=6612783b&hm=ba6bb6f093957776846acd212a7bedf92787c0ca202c1f862ad82dc3bc3a61e1&",
             "group": "EXO",
             "type": "K-POP Boy Group",
             "code": "`ECSCH`"
@@ -1662,7 +1662,7 @@
         {
             "name": "**EXO** Chanyeol",
             "song": "Cream Soda",
-            "image": "&",
+            "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481849820516392/ECSCY.png?ex=6624ed3b&is=6612783b&hm=fa8b6d2bed7b9b9226f47850a7e710dced06d2671af7c54053a9adefe3050747&",
             "group": "EXO",
             "type": "K-POP Boy Group",
             "code": "`ECSCY`"
@@ -1672,7 +1672,7 @@
         {
             "name": "**EXO** D.O.",
             "song": "Cream Soda",
-            "image": "&",
+            "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481850348732469/ECSDO.png?ex=6624ed3c&is=6612783c&hm=e39aa1913cbbf622e62d0bb27825a8d8259d04eed7f321eb1d9178f6bb28a3e8&",
             "group": "EXO",
             "type": "K-POP Boy Group",
             "code": "`ECSDO`"
@@ -1682,20 +1682,20 @@
         {
             "name": "**EXO** Kai",
             "song": "Cream Soda",
-            "image": "&",
+            "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481850793332846/ECSKA.png?ex=6624ed3c&is=6612783c&hm=bb9f2d442e3797fffca127d5007b8d38c76536fd1bdf40a906f6111bef4dd8e2&",
             "group": "EXO",
             "type": "K-POP Boy Group",
             "code": "`ECSKA`"
         }    
     ],
-    "ECSSH": [
+    "ECSSE": [
         {
             "name": "**EXO** Sehun",
             "song": "Cream Soda",
-            "image": "&",
+            "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481851258896394/ECSSE.png?ex=6624ed3c&is=6612783c&hm=57579d2c4d8a8fa7085af3c43446402790fda5b4ccbc4aece04749fba79d7296&",
             "group": "EXO",
             "type": "K-POP Boy Group",
-            "code": "`ECSSH`"
+            "code": "`ECSSE`"
         }    
     ]
 }
