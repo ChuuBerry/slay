@@ -1316,6 +1316,116 @@
             "group": "WJSN",
             "type": "K-POP Girl Group",
             "code": "`WUNYJ`"
+        } 
+    ],
+    "TNTSY": [
+        {
+            "name": " **THE BOYZ** Sangyeon",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTSY`"
+        }
+    ],
+    "TNTJC": [
+        {
+            "name": " **THE BOYZ** Jacob",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTJC`"
+        } 
+    ],
+    "TNTYH": [
+        {
+            "name": " **THE BOYZ** Younghoon",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTYH`"
+        } 
+    ],
+    "TNTHJ": [
+        {
+            "name": " **THE BOYZ** Hyunjae",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTHJ`"
+        }
+    ],
+    "TNTJY": [
+        {
+            "name": " **THE BOYZ** Juyeon",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTJY`"
+        }
+     ],
+    "TNTKV": [
+        {
+            "name": " **THE BOYZ** Kevin",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTKV`"
+        } 
+    ],
+    "TNTNE": [
+        {
+            "name": " **THE BOYZ** New",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTNE`"
+        } 
+    ],
+    "TNTJQ": [
+        {
+            "name": " **THE BOYZ** Q",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTJQ`"
+        }
+    ],
+    "TNTJH": [
+        {
+            "name": " **THE BOYZ** Juhaknyeon",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTJH`"
+        }
+    ],
+    "TNTSW": [
+        {
+            "name": " **THE BOYZ** Sunwoo",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTSW`"
+        } 
+    ],
+    "TNTER": [
+        {
+            "name": " **THE BOYZ** Eric",
+            "song": "Nectar",
+            "image": "&",
+            "group": "THE BOYZ",
+            "type": "K-POP Boy Group",
+            "code": "`TNTER`"
         }    
     ]
 }
