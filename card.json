@@ -1432,7 +1432,7 @@
         {
             "name": " **BLACKPINK** Jisoo",
             "song": "Pink Venom",
-            "image": "&",
+            "image": "https://media.discordapp.net/attachments/1226481089128828958/1226481337892995082/BPVJS.png?ex=6624ecc1&is=661277c1&hm=0edab85d023b538c11ebab633c4fde509aface7fa093144003ba5f3fbb1d3431&",
             "group": "BLACKPINK",
             "type": "K-POP Girl Group",
             "code": "`BPVJS`"
@@ -1442,7 +1442,7 @@
         {
             "name": " **BLACKPINK** Jennie",
             "song": "Pink Venom",
-            "image": "&",
+            "image": "https://media.discordapp.net/attachments/1226481089128828958/1226481338555699291/BPVJN.png?ex=6624ecc2&is=661277c2&hm=e8cb207bf8df82dd4f1f10fa70941c037aa3a741aac0564a86e258417b9bacff&",
             "group": "BLACKPINK",
             "type": "K-POP Girl Group",
             "code": "`BPVJN`"
@@ -1452,7 +1452,7 @@
         {
             "name": " **BLACKPINK** Lisa",
             "song": "Pink Venom",
-            "image": "&",
+            "image": "https://media.discordapp.net/attachments/1226481089128828958/1226481339662995507/BPVLS.png?ex=6624ecc2&is=661277c2&hm=e2c0729e6da36559e33baa625645b2a2a68178f8402b297818bebfcfd3ec933d&",
             "group": "BLACKPINK",
             "type": "K-POP Girl Group",
             "code": "`BPVLS`"
@@ -1462,7 +1462,7 @@
         {
             "name": " **BLACKPINK** Rosé",
             "song": "Pink Venom",
-            "image": "&",
+            "image": "https://media.discordapp.net/attachments/1226481089128828958/1226481339105280000/BPVRS.png?ex=6624ecc2&is=661277c2&hm=80f0f89c4234b2acc3e3058f0e439eaa0f695331c5cba97307a34853148d52b4&",
             "group": "BLACKPINK",
             "type": "K-POP Girl Group",
             "code": "`BPVRS`"
@@ -1471,8 +1471,8 @@
     "TGCXY": [
         {
             "name": " **TripleS Lovelution** Xinyu",
-            "song": "Pink Venom",
-            "image": "&",
+            "song": "Girls Capitalism",
+            "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359921998696550/TGCXY.png?ex=66247bae&is=661206ae&hm=a8ef67eccb69a5d46e34a447d209f05cb9dd1460d11916018892175987841ee5&",
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCXY`"
@@ -1481,8 +1481,8 @@
     "TGCSH": [
         {
             "name": " **TripleS Lovelution** Sohyun",
-            "song": "Pink Venom",
-            "image": "&",
+            "song": "Girls Capitalism",
+            "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359922493755504/TGCSH.png?ex=66247bae&is=661206ae&hm=c0052571e6f222fd92e15c94b1d059ee226a80cb94d17246d4d60faa81dcdc18&",
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCSH`"
@@ -1491,8 +1491,8 @@
     "TGCDH": [
         {
             "name": " **TripleS Lovelution** Dahyun",
-            "song": "Pink Venom",
-            "image": "&",
+            "song": "Girls Capitalism",
+            "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359923089342584/TGCDH.png?ex=66247bae&is=661206ae&hm=4ddd92e74615ee77f128869185e9076d311c4e4a157063797d4bdd6cf33b66fa&",
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCDH`"
@@ -1501,8 +1501,8 @@
     "TGCNE": [
         {
             "name": " **TripleS Lovelution** Nien",
-            "song": "Pink Venom",
-            "image": "&",
+            "song": "Girls Capitalism",
+            "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359923450056864/TGCNE.png?ex=66247bae&is=661206ae&hm=701e93d697de9cdf84fe375dbbd5d5b28beff74914cba1ef7fa02a486d8ff7e5&",
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCNE`"
@@ -1511,8 +1511,8 @@
     "TGCSY": [
         {
             "name": " **TripleS Lovelution** Seoyeon",
-            "song": "Pink Venom",
-            "image": "&",
+            "song": "Girls Capitalism",
+            "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359924083265556/TGCSY.png?ex=66247bae&is=661206ae&hm=4c1d922925a8f56ad8de1109a9b2e3bb1bf09689ad48dc7e7d047c39866068ac&",
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCSY`"
@@ -1521,8 +1521,8 @@
     "TGCYB": [
         {
             "name": " **TripleS Lovelution** Yubin",
-            "song": "Pink Venom",
-            "image": "&",
+            "song": "Girls Capitalism",
+            "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359924590907505/TGCYB.png?ex=66247bae&is=661206ae&hm=01072bf4b32d977f0cc76ed95acc64ef2f876435c8c4f6bd4ac6d1d19befff04&",
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCYB`"
@@ -1531,8 +1531,8 @@
     "TGCKD": [
         {
             "name": " **TripleS Lovelution** Kaede",
-            "song": "Pink Venom",
-            "image": "&",
+            "song": "Girls Capitalism",
+            "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359925089898627/TGCKD.png?ex=66247bae&is=661206ae&hm=05002ef5a66dfde7dfc852775d7d5bb813a5d818f957cd82fd71f9eb7850ead6&",
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCKD`"
@@ -1541,8 +1541,8 @@
     "TGCHR": [
         {
             "name": " **TripleS Lovelution** Hyerin",
-            "song": "Pink Venom",
-            "image": "&",
+            "song": "Girls Capitalism",
+            "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359925501067386/TGCHR.png?ex=66247bae&is=661206ae&hm=63437a21e50a7f3f487158b76863deddb042efbb635d075caaae9869c111b0da&",
             "group": "TripleS Lovelution",
             "type": "K-POP Girl Group",
             "code": "`TGCHR`"
