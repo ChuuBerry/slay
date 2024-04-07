@@ -1696,6 +1696,66 @@
             "group": "EXO",
             "type": "K-POP Boy Group",
             "code": "`ECSSE`"
-        }    
+        }
+    ],
+    "LHKE": [
+        {
+            "name": "**Soloist** Kwon Eunbi",
+            "song": "Like Heaven",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1225322252548046858/LHKE.png?ex=6620b546&is=660e4046&hm=2b410cc758d2dfa861f774ff7b74e930248c6a4c6b55f1f127a30494845a9740&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`LHKE`"
+        } 
+    ],
+    "TATY": [
+        {
+            "name": "**Soloist** Taeyong",
+            "song": "TAP",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1225450705909846181/TATY.png?ex=66212ce8&is=660eb7e8&hm=a666644ac239c4e56d72b775ba11b2fe792a5b706547dd6f4890845194cfae41&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`TATY`"
+        } 
+    ],
+    "STCE": [
+        {
+            "name": "**Soloist** Cha Eunwoo",
+            "song": "Cream Soda",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1226393439503908964/Soloist_20240407124913.png?ex=66249ae5&is=661225e5&hm=0259ec14bdf6658403cf51212ba99f99c2dd4c0be039def36a03c66c3a66fc83&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`STCE`"
+        } 
+    ],
+    "LWIU": [
+        {
+            "name": "**Soloist** IU",
+            "song": "Love Wins All",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1226395902537895966/Soloist_20240407125850.png?ex=66249d30&is=66122830&hm=125684437cc8ea56b81b2b9580e952a19d0554e63445e46fe1e458123d557a80&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`LWIU`"
+        } 
+    ],
+    "1MYG": [
+        {
+            "name": "**Soloist** Yugyeom",
+            "song": "1 Minute",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1226482096466427965/1MYG.png?ex=6624ed76&is=66127876&hm=e4aeb687c5004a93f8f420f69bfa6727328faf6b779861996114ac3d2aa357c7&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`1MYG`"
+        } 
+    ],
+    "TXJY": [
+        {
+            "name": "**Soloist** Jo Yuri",
+            "song": "TAXI",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1226482121288319039/TXJY.png?ex=6624ed7c&is=6612787c&hm=66d3812211672e97d6acabd896b25a769faa0ec63b52c9e5d242c99d9426563b&",
+            "group": "EXO",
+            "type": "K-POP Soloist",
+            "code": "`TXJY`"
+        }     
     ]
 }
