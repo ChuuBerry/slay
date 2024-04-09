@@ -1756,6 +1756,186 @@
             "group": "EXO",
             "type": "K-POP Soloist",
             "code": "`TXJY`"
-        }     
+        }  
+    ],
+    "EEVAD": [
+        {
+            "name": "**EPEX** Ayden",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`EEVAD`"
+        }
+    ],
+    "AEVCH": [
+        {
+            "name": "**Actor** Choi Hyunwook",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`AEVCH`"
+        } 
+    ],
+    "TEVHY": [
+        {
+            "name": "**TAN** Hyunyeop",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`TEVHY`"
+        }  
+    ],
+    "AEVJH": [
+        {
+            "name": "**ATEEZ** Jongho",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`AEVJH`"
+        } 
+    ],
+    "CEVMH": [
+        {
+            "name": "**CRAVITY** Minhee",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`CEVMH`"
+        } 
+    ],
+    "OEVRI": [
+        {
+            "name": "**OnlyOneOf** Rei",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`OEVRI`"
+        } 
+    ],
+    "BEVSH": [
+        {
+            "name": "**BOYNEXTDOOR** Sungho",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`BEVSH`"
+        } 
+    ],
+    "LEVTK": [
+        {
+            "name": "**LUN8** Takuma",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`LEVTK`"
+        }  
+    ],
+    "REVWB": [
+        {
+            "name": "**RIIZE** Wonbin",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`REVWB`"
+        }  
+     ],
+    "CEVJM": [
+        {
+            "name": "**Class:y** Jimin",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`CEVJM`"
+        } 
+    ],
+    "NEVMJ": [
+        {
+            "name": "**NewJeans** Minji",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`NEVMJ`"
+        } 
+    ],
+    "LEVNY": [
+        {
+            "name": "**LIGHTSUM** Nayoung",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`LEVNY`"
+        }    
+    ],
+    "1EVRD": [
+        {
+            "name": "**1Million** Redy",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`1EVRD`"
+        } 
+    ],
+    "KEVSX": [
+        {
+            "name": "**Kep1er** Shen Xiaoting",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KEVSX`"
+        } 
+    ],
+    "AEVWT": [
+        {
+            "name": "**aespa** Winter",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`AEVWT`"
+        } 
+    ],
+    "REVYH": [
+        {
+            "name": "**ROCKET PUNCH** Yeonhee",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`REVYH`"
+        } 
+   ],
+    "CEVYN": [
+        {
+            "name": "**CSR** Yuna",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`CEVYN`"
+        }  
+     ],
+    "WEVZA": [
+        {
+            "name": "**WEEEKLY** Zoa",
+            "song": "EVERSHINE",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`WEVZA`"
+        }   
     ]
 }
