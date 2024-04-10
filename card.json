@@ -1936,6 +1936,116 @@
             "group": "Event",
             "type": "EVENTS",
             "code": "`WEVZA`"
+        }  
+    ],
+    "TPTSY": [
+        {
+            "name": "**TWS** Shinyu",
+            "song": "plot twist",
+            "image": "https://media.discordapp.net/attachments/1226921808217772092/1226921979907539044/TPTSY.png?ex=66268723&is=66141223&hm=67ac5882226df50518b7762292b02ba2f9b03c73c9649e7235684cfb8e6c6e8b&",
+            "group": "TWS",
+            "type": "K-POP Boy Group",
+            "code": "`TPTSY`"
+        }    
+    ],
+    "TPTDH": [
+        {
+            "name": "**TWS** Dohoon",
+            "song": "plot twist",
+            "image": "https://media.discordapp.net/attachments/1226921808217772092/1226921980310327426/TPTDH.png?ex=66268723&is=66141223&hm=5419729f0008a2bb234d3df59dccb40dc99263d6bd710f5792bc413e3bee0b5a&",
+            "group": "TWS",
+            "type": "K-POP Boy Group",
+            "code": "`TPTDH`"
+        } 
+    ],
+    "TPTYJ": [
+        {
+            "name": "**TWS** Youngjae",
+            "song": "plot twist",
+            "image": "https://media.discordapp.net/attachments/1226921808217772092/1226921980796731412/TPTYJ.png?ex=66268723&is=66141223&hm=773995e8d1100e55c91225b9169707414750e9f559033fa6cbc5b3eea8b5d681&",
+            "group": "TWS",
+            "type": "K-POP Boy Group",
+            "code": "`TPTYJ`"
+        } 
+    ],
+    "TPTHJ": [
+        {
+            "name": "**TWS** Hanjin",
+            "song": "plot twist",
+            "image": "https://media.discordapp.net/attachments/1226921808217772092/1226921981304373319/TPTHJ.png?ex=66268723&is=66141223&hm=0506c9a1ca36c791499d1a223d5dd6fb5094c9715ef011084e238ea9b588108f&",
+            "group": "TWS",
+            "type": "K-POP Boy Group",
+            "code": "`TPTHJ`"
+        }
+    ],
+    "TPTJH": [
+        {
+            "name": "**TWS** Jihoon",
+            "song": "plot twist",
+            "image": "https://media.discordapp.net/attachments/1226921808217772092/1226921981811752980/TPTJH.png?ex=66268723&is=66141223&hm=8397fb9954221845b6e5a4ded4bfd66e3cb60ed93cb89c4b1f317de8dbf5b6ec&",
+            "group": "TWS",
+            "type": "K-POP Boy Group",
+            "code": "`TPTJH`"
+        }   
+    ],
+    "TPTKM": [
+        {
+            "name": "**TWS** Kyungmin",
+            "song": "plot twist",
+            "image": "https://media.discordapp.net/attachments/1226921808217772092/1226921982508138548/TPTKM.png?ex=66268723&is=66141223&hm=671a41e53876341d8687d68194f0e69780dab8a9c309f17f466449d1207a7f51&",
+            "group": "TWS",
+            "type": "K-POP Boy Group",
+            "code": "`TPTKM`"
+        }  
+    ],
+    "GSLMY": [
+        {
+            "name": "**(G)-IDLE** Miyeon",
+            "song": "Super Lady",
+            "image": "https://media.discordapp.net/attachments/1227111137632325693/1227111242209034293/GSLMY.png?ex=66273766&is=6614c266&hm=b3d7dc0f2f0293f4b96b3e463bee6a0a0e0e557edc94be461f308a3aa78c6a63&",
+            "group": "(G)-IDLE",
+            "type": "K-POP Girl Group",
+            "code": "`GSLMY`"
+        }
+    ],
+    "GSLMN": [
+        {
+            "name": "**(G)-IDLE** Minnie",
+            "song": "Super Lady",
+            "image": "https://media.discordapp.net/attachments/1227111137632325693/1227111242607628318/GSLMN.png?ex=66273766&is=6614c266&hm=0de666c8b01763b693ea3a8e75836c43daf99d12ac5490309b292f350cc56b71&",
+            "group": "(G)-IDLE",
+            "type": "K-POP Girl Group",
+            "code": "`GSLMN`"
+        } 
+    ],
+    "GSLSY": [
+        {
+            "name": "**(G)-IDLE** Soyeon",
+            "song": "Super Lady",
+            "image": "https://media.discordapp.net/attachments/1227111137632325693/1227111243014471712/GSLSY.png?ex=66273766&is=6614c266&hm=7a6551437247bf0f82fbfaaf179a9b13973e3ed9beb835e9459a459f56e765fe&",
+            "group": "(G)-IDLE",
+            "type": "K-POP Girl Group",
+            "code": "`GSLSY`"
+        }  
+    ],
+    "GSLYQ": [
+        {
+            "name": "**(G)-IDLE** Yuqi",
+            "song": "Super Lady",
+            "image": "https://media.discordapp.net/attachments/1227111137632325693/1227111243580571709/GSLYQ.png?ex=66273767&is=6614c267&hm=b283e0c8aa1106e4ae388710f4b27154f28c55f8847c7e5f0fd01003c757e32b&",
+            "group": "(G)-IDLE",
+            "type": "K-POP Girl Group",
+            "code": "`GSLYQ`"
+        }  
+     ],
+    "GSLSH": [
+        {
+            "name": "**(G)-IDLE** Shuhua",
+            "song": "Super Lady",
+            "image": "https://media.discordapp.net/attachments/1227111137632325693/1227111244000137267/GSLSH.png?ex=66273767&is=6614c267&hm=fa02e2547dc816754bdc7f075088cf080d6c1e3b538da453605d16dff0a1676c&",
+            "group": "(G)-IDLE",
+            "type": "K-POP Girl Group",
+            "code": "`GSLSH`"
         }   
     ]
 }
