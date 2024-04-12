@@ -2617,5 +2617,25 @@
             "type": "K-POP Girl Group",
             "code": "`RCKYR`"
         }  
+    ],
+    "BEVML": [
+        {
+            "name": "<:NB_evershine:1227477255643463761> **BINI** Maloi",
+            "song": "EVERSHINE (Giveaway Exclusive)",
+            "image": "https://media.discordapp.net/attachments/1226602216681636002/1228401079046373426/noljanoljanolja_20240413014408.png?ex=662be8a7&is=661973a7&hm=115eea6e49939684001ac1ef815ab1e0835d0694515b23476792820b045e9c52&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`BEVML`"
+        }
+    ],
+    "VEVFR": [
+        {
+            "name": "<:NB_evershine:1227477255643463761> **VXON** Franz",
+            "song": "EVERSHINE (Giveaway Exclusive)",
+            "image": "https://media.discordapp.net/attachments/1226602216681636002/1228401078622486538/noljanoljanolja_20240413014339.png?ex=662be8a7&is=661973a7&hm=7df49bcb567ae152c8a7e340035505f4d77448f16331f11b7a052c20bc3a81cf&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VEVFR`"
+        }    
     ]
 }
