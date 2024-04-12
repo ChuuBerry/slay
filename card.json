@@ -2517,5 +2517,105 @@
             "type": "K-POP Girl Group",
             "code": "`WBLMS`"
         }  
+ ],
+    "KMJH": [
+        {
+            "name": "**Soloist** JIHYO",
+            "song": "Killin' Me Good",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1228395007363518555/KMJH.png?ex=662be300&is=66196e00&hm=8c434c72fb848329f3eb1eee436b249b009bbbe4fabda87551c897c72e997834&",
+            "group": "Soloist",
+            "type": "K-POP Soloists",
+            "code": "`KMJH`"
+        }  
+ ],
+    "AGHJ": [
+        {
+            "name": "**Soloist** Heejin",
+            "song": "song",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1228395030058766417/AGHJ.png?ex=662be305&is=66196e05&hm=fb5954ad93bb1dc0c3dd061471fa6f4c1121574b28be7cdf56d2a6a306ff61af&",
+            "group": "Soloist",
+            "type": "K-POP Soloists",
+            "code": "`AGHJ`"
+        }  
+ ],
+    "BEPJ": [
+        {
+            "name": "**Soloist** Park Jihoon",
+            "song": "Blank Effect",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1228395077919965286/BEPJ.png?ex=662be311&is=66196e11&hm=dd84f66ca2cf3e5e509188b64bf60ee38ad1fb2eb467956bfc9a178692e0df0f&",
+            "group": "Soloist",
+            "type": "K-POP Soloists",
+            "code": "`BEPJ`"
+        }  
+ ],
+    "UDKD": [
+        {
+            "name": "**Soloist** KANGDANIEL",
+            "song": "Upside Down",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1228395052812730428/UDKD.png?ex=662be30b&is=66196e0b&hm=47bbc7233a0791958222dc511a2e80831b6fc214dd42da503e195e3d58a50fdf&",
+            "group": "Soloist",
+            "type": "K-POP Soloists",
+            "code": "`UDKD`"
+        }  
+ ],
+    "GHMA": [
+        {
+            "name": "**Soloist** MARK",
+            "song": "song",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1228395128733831259/GHMA.png?ex=662be31d&is=66196e1d&hm=46dc5e1a7c9f5782e8ea356370dfb2dc9dd1d46f69453ab6bb33a7d526402608&",
+            "group": "Soloist",
+            "type": "K-POP Soloists",
+            "code": "`GHMA`"
+        }  
+ ],
+    "RCKIR": [
+        {
+            "name": "**Red Velvet** Irene",
+            "song": "Chill Kill",
+            "image": "https://cdn.discordapp.com/attachments/1228379218099044382/1228379295135694848/RedVelvet_20240413001911.png?ex=662bd45e&is=66195f5e&hm=2b8c72d20f32d38abfb013cf4eceaf040b0c4227990f70fc6e834670364c4aba&",
+            "group": "Red Velvet",
+            "type": "K-POP Girl Group",
+            "code": "`RCKIR`"
+        }  
+ ],
+    "RCKSG": [
+        {
+            "name": "**Red Velvet** Seulgi",
+            "song": "Chill Kill",
+            "image": "",
+            "group": "Red Velvet",https://cdn.discordapp.com/attachments/1228379218099044382/1228379295504662599/RedVelvet_20240413001921.png?ex=662bd45e&is=66195f5e&hm=3a2674d81ab3985d7ac9e133fe4e36cd99a13dfbd61d00d5362d2daec737cb27&
+            "type": "K-POP Girl Group",
+            "code": "`RCKSG`"
+        }  
+ ],
+    "RCKWD": [
+        {
+            "name": "**Red Velvet** Wendy",
+            "song": "Chill Kill",
+            "image": "https://cdn.discordapp.com/attachments/1228379218099044382/1228379295878090772/RedVelvet_20240413001943.png?ex=662bd45e&is=66195f5e&hm=76017338796fe9694a84926997547f99d69af3e183c5e3dd8c2cf12e146692e9&",
+            "group": "Red Velvet",
+            "type": "K-POP Girl Group",
+            "code": "`RCKWD`"
+        }  
+ ],
+    "RCKJO": [
+        {
+            "name": "**Red Velvet** JOY",
+            "song": "Chill Kill",
+            "image": "https://cdn.discordapp.com/attachments/1228379218099044382/1228379296326746214/RedVelvet_20240413001936.png?ex=662bd45e&is=66195f5e&hm=8089b2d718e2041776f4108fb02f55f80e097eaf50a53854ef3fa0e488dbb578&",
+            "group": "Red Velvet",
+            "type": "K-POP Girl Group",
+            "code": "`RCKJO`"
+        }  
+ ],
+    "RCKYR": [
+        {
+            "name": "**Red Velvet** Yeri",
+            "song": "Chill Kill",
+            "image": "https://cdn.discordapp.com/attachments/1228379218099044382/1228379296687587358/RedVelvet_20240413001950.png?ex=662bd45e&is=66195f5e&hm=a9aea05a11319b1d74ea60cdb7e925a7f93bb7dc96ff3084bcf414949a822bf3&",
+            "group": "Red Velvet",
+            "type": "K-POP Girl Group",
+            "code": "`RCKYR`"
+        }  
     ]
 }
