@@ -2637,5 +2637,15 @@
             "type": "EVENTS",
             "code": "`VEVFR`"
         }    
+    ],
+    "HOCH": [
+        {
+            "name": "**Soloist** CHUU",
+            "song": "HOWL",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1227469063656308827/HOCH.png?ex=662884a6&is=66160fa6&hm=9b5500385bf881f3240dac414d59adb40cfdbeb2c9fcc36b06e9d64e04f4403b&",
+            "group": "Soloist",
+            "type": "K-POP Soloists",
+            "code": "`HOCH`"
+        }    
     ]
 }
