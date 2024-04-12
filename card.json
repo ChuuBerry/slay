@@ -2582,8 +2582,8 @@
         {
             "name": "**Red Velvet** Seulgi",
             "song": "Chill Kill",
-            "image": "",
-            "group": "Red Velvet",https://cdn.discordapp.com/attachments/1228379218099044382/1228379295504662599/RedVelvet_20240413001921.png?ex=662bd45e&is=66195f5e&hm=3a2674d81ab3985d7ac9e133fe4e36cd99a13dfbd61d00d5362d2daec737cb27&
+            "image": "https://cdn.discordapp.com/attachments/1228379218099044382/1228379295504662599/RedVelvet_20240413001921.png?ex=662bd45e&is=66195f5e&hm=3a2674d81ab3985d7ac9e133fe4e36cd99a13dfbd61d00d5362d2daec737cb27&",
+            "group": "Red Velvet",
             "type": "K-POP Girl Group",
             "code": "`RCKSG`"
         }  
