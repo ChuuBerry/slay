@@ -1130,7 +1130,7 @@
    ],
     "TDJSB": [
         {
-            "name": " **Tomorrow X Together** Soobin",
+            "name": " **TOMORROW X TOGETHER** Soobin",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260070351409232/TDJSB.png?ex=66207b5d&is=660e065d&hm=ff5c0bae7ab74b2344cdfb287e1f49ac93760b684994c92ae9b6e070802efd76&",
             "group": "Tomorrow X Together",
@@ -1140,7 +1140,7 @@
    ],
     "TDJYJ": [
         {
-            "name": " **Tomorrow X Together** Yeonjun",
+            "name": " **TOMORROW X TOGETHER** Yeonjun",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260070862979124/TDJYJ.png?ex=66207b5d&is=660e065d&hm=cfcb3aea8f990c6b42fd9b4f6b7bae9170e9afc90a6f0e73d48dfc630c6b0a77&",
             "group": "Tomorrow X Together",
@@ -1150,7 +1150,7 @@
    ],
     "TDJBG": [
         {
-            "name": " **Tomorrow X Together** Beomgyu",
+            "name": " **TOMORROW X TOGETHER** Beomgyu",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260071454244944/TDJBG.png?ex=66207b5d&is=660e065d&hm=f7be2e2a9011cd0dcb346a2ffbeacc7dab8834f44f61cc3652e5c084f73153e7&",
             "group": "Tomorrow X Together",
@@ -1170,7 +1170,7 @@
    ],
     "TDJHK": [
         {
-            "name": " **Tomorrow X Together** Huening Kai",
+            "name": " **TOMORROW X TOGETHER** Huening Kai",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260073039822929/TDJHK.png?ex=66207b5d&is=660e065d&hm=22b063454a118f102186e3bf70e19ee208d03d67f8c0b9ab6d95ec7428d5f06e&",
             "group": "Tomorrow X Together",
@@ -2600,7 +2600,7 @@
  ],
     "RCKJO": [
         {
-            "name": "**Red Velvet** JOY",
+            "name": "**Red Velvet** Joy",
             "song": "Chill Kill",
             "image": "https://cdn.discordapp.com/attachments/1228379218099044382/1228379296326746214/RedVelvet_20240413001936.png?ex=662bd45e&is=66195f5e&hm=8089b2d718e2041776f4108fb02f55f80e097eaf50a53854ef3fa0e488dbb578&",
             "group": "Red Velvet",
@@ -2647,5 +2647,205 @@
             "type": "K-POP Soloists",
             "code": "`HOCH`"
         }    
+],
+    "BMZLS": [
+        {
+            "name": "<:magazine:1230646981802725386> **BLACKPINK** Lisa",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230161536106889337/BNTLS.png?ex=66325035&is=661fdb35&hm=f19c2f82c3edc2806403b8df4442467c636aa004914244fcf1cb1ee813be56f7&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`BMZLS`"
+        }    
+],
+    "TMZJY": [
+        {
+            "name": "<:magazine:1230646981802725386> **THE BOYZ** Juyeon",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230161552569663559/TMZJY.png?ex=66325039&is=661fdb39&hm=f9de2a22b78d953dc1d3b05c39a19aee3118a8cadf419a64bb0c9c57ec43d4bc&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`TMZJY`"
+        }  
+],
+    "NMZSY": [
+        {
+            "name": "<:magazine:1230646981802725386> **NMIXX** Sullyoon",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230161594701451317/NMZSY.png?ex=66325043&is=661fdb43&hm=2f9ede7e73c9eaa07dfe1cc9673ba284c99cf898e18f5daaacabeb8ba4873323&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`NMZSY`"
+        }  
+],
+    "AMZSK": [
+        {
+            "name": "<:magazine:1230646981802725386> **Actor** Song Kang",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230300398951333898/AMZSK.png?ex=662256c8&is=66210548&hm=56010bf6bd7d9b466f416a2bd99503d5f80bb6b8fbe9ced7e48bef2d1a56179c&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`AMZSK`"
+        }  
+],
+    "TMZJH": [
+        {
+            "name": "<:magazine:1230646981802725386> **TWICE** Jihyo",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230300440969740359/TMZJH.png?ex=6632d193&is=66205c93&hm=c4ca9f9b2fd5d90f5ec7fc32451c040a1725c6569a4d674c2c291f33de6e563e&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`TMZJH`"
+        }  
+],
+    "NMZWW": [
+        {
+            "name": "<:magazine:1230646981802725386> **NCT** Winwin",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230300463048560670/NMZWW.png?ex=6632d198&is=66205c98&hm=4ba19ec91b5445c9c0cd9ac8e55d527f26170778ee09453948dd7ff2e7b85434&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`NMZWW`"
+        }  
+],
+    "SMZWW": [
+        {
+            "name": "<:magazine:1230646981802725386> **SEVENTEEN** Wonwoo",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230161574623182868/SMZWW.png?ex=6632503e&is=661fdb3e&hm=691aa9b84d13b1389013be7271c464aaa7b8ce707c625b3d97f6224cdf6d7b34&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`SMZWW`"
+        }  
+],
+    "GMZMN": [
+        {
+            "name": "<:magazine:1230646981802725386> **(G)I-DLE** Minnie",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230300895841882182/GMZMN.png?ex=6632d1ff&is=66205cff&hm=8efd450cb850d025a15053836074f6fefe97e0958785f33cb3f1a95479337382&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`GMZMN`"
+        }  
+],
+    "TMZLJ": [
+        {
+            "name": "<:magazine:1230646981802725386> **2PM** Lee Junho",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230347848491466813/TMZLJ.png?ex=6632fdb9&is=662088b9&hm=339492f1b958826d33ac84afd73e64c61c64fcdaab5c72aa8732b043df276f16&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`TMZLJ`"
+        }  
+],
+    "OMZAR": [
+        {
+            "name": "<:magazine:1230646981802725386> **OH MY GIRL** Arin",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230454756355473452/OMZAR.png?ex=6633614a&is=6620ec4a&hm=a41a6158f9fe5bb997f78b4423527397f86b6471ccdf8de358c3ea93db702c5a&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`OMZAR`"
+        } 
+ ],
+    "TMZHK": [
+        {
+            "name": " <:magazine:1230646981802725386> **TOMORROW X TOGETHER** Huening Kai",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230454778199277568/TMZHK.png?ex=6633614f&is=6620ec4f&hm=bd76cb2573a077113627592a7300dab6f0d86b8d8a074879bda38722a934618f&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`TMZHK`"
+        }  
+],
+    "MZBB": [
+        {
+            "name": "<:magazine:1230646981802725386> **Soloist** BIBI",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230454818863317042/MZBB.png?ex=66336159&is=6620ec59&hm=53fa5c798b121d7d258601091611e5b8b38f948505819493da22b8ca3ab5a4f3&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`MZBB`"
+        }  
+],
+    "GMZYN": [
+        {
+            "name": "<:magazine:1230646981802725386> **Girls' Generation** Yoona",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230496216828088350/GMZYN.png?ex=663387e7&is=662112e7&hm=03c6057962ece9f9a772b07f0f3703f2b24a2788d1e5a9b16b5eefa713e01a89&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`GMZYN`"
+        }  
+],
+    "BMZJK": [
+        {
+            "name": "<:magazine:1230646981802725386> **BTS** Jungkook",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230496234670915644/BMZJK.png?ex=663387eb&is=662112eb&hm=3aeff668b107cc808d57d45ebcdd8cbba481364a4cf6b6b260eb97338a92021a&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`BMZJK`"
+        }  
+],
+    "SMZHJ": [
+        {
+            "name": "<:magazine:1230646981802725386> **Stray Kids** Hyunjin",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230522972968587335/SMZHJ.png?ex=6633a0d2&is=66212bd2&hm=395d4c10435af43a367af41008491c7a91ef28f7b32bcf85a7e76d41abd4dc88&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`SMZHJ`"
+        }  
+],
+    "AMZHS": [
+        {
+            "name": "<:magazine:1230646981802725386> **Actress** Han Sohee",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230641335443394672/AMZHS.png?ex=66340f0e&is=66219a0e&hm=ff0432023a28a8159110ce59a60feb33b2b37da0898c44c57c58aa803377594a&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`AMZSH`"
+        }  
+],
+    "BMZBN": [
+        {
+            "name": "<:magazine:1230646981802725386> **WJSN** Bona",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230641361674305678/WMZBN.png?ex=6622eb94&is=66219a14&hm=bb83317f4a3a0ee9b6853e43651e6bd4ea6b1fcf8ab37d61e1df941ae6b2fbbd&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`WMZBN`"
+        }  
+],
+    "MMZSN": [
+        {
+            "name": "<:magazine:1230646981802725386> **MONSTA X** Shownu",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230641380100149289/MMZSN.png?ex=6622eb99&is=66219a19&hm=9ab9825e754c0abf577ca0e70c2c2150cbc32d4090219d9a63874af943bad3b8&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`MMZSN`"
+        }  
+],
+    "MZOS": [
+        {
+            "name": "<:magazine:1230646981802725386> **Soloist** Ong Seongwu",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230641398097776782/MZOS.png?ex=66340f1d&is=66219a1d&hm=7b2c18c79b97e3f20919e1de5da89b06b661f6b03cb1a1d2c1034966ff55b18f&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`MZOS`"
+        }  
+],
+    "RMZJO": [
+        {
+            "name": "<:magazine:1230646981802725386> **Red Velvet** Joy",
+            "song": "MAGAZINES: NOLJA TIMES",
+            "image": "https://cdn.discordapp.com/attachments/1230160579679879359/1230641559163109418/RMZJO.png?ex=66340f43&is=66219a43&hm=f5cd91a9a32a9d05d8a50068f6ecf8a90d3462be1ffa80ffb82230f3d43ca696&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`RMZJO`"
+        }  
     ]
 }
