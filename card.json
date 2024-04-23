@@ -2846,6 +2846,326 @@
             "group": "event",
             "type": "EVENTS",
             "code": "`RMZJO`"
+        }
+],
+    "BEWSH": [
+        {
+            "name": "**BOYNEXTDOOR** Sungho",
+            "song": "EARTH, WIND & FIRE",
+            "image": "https://cdn.discordapp.com/attachments/1228893801830027334/1228894004507185213/BOYNEXTDOOR_20240414102300.png?ex=6627c4fa&is=6626737a&hm=4996c8c2cad66c77a5cfb2c67d8d7d98f4a0e02f93a2f5da776c9a12608b1d37&",
+            "group": "BOYNEXTDOOR",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BEWSH`"
         }  
+],
+    "BEWRW": [
+        {
+            "name": "**BOYNEXTDOOR** Riwoo",
+            "song": "EARTH, WIND & FIRE",
+            "image": "https://cdn.discordapp.com/attachments/1228893801830027334/1228894004809302096/BOYNEXTDOOR_20240414102228.png?ex=6627c4fa&is=6626737a&hm=41d636b5f04769ec9b5aaabba6a6362df77fa8ad37bfcdaf30bbac60a3fd1598&",
+            "group": "BOYNEXTDOOR",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BEWRW`"
+        }  
+],
+    "BEWJH": [
+        {
+            "name": "**BOYNEXTDOOR** Jaehyun",
+            "song": "EARTH, WIND & FIRE",
+            "image": "https://cdn.discordapp.com/attachments/1228893801830027334/1228894026153988196/BOYNEXTDOOR_20240414102325.png?ex=6627c4ff&is=6626737f&hm=c66a5815bf6122de08295a312396732d524b0ead5290c8cd002a361e4d6dfe53&",
+            "group": "BOYNEXTDOOR",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BEWJH`"
+        }  
+],
+    "BEWTS": [
+        {
+            "name": "**BOYNEXTDOOR** Taesan",
+            "song": "EARTH, WIND & FIRE",
+            "image": "https://cdn.discordapp.com/attachments/1228893801830027334/1228894026493595790/BOYNEXTDOOR_20240414102348.png?ex=6627c4ff&is=6626737f&hm=0cc60ac3de7d87ab986af5dca3fbc8ba15647188ab68afea59dc971e8c158994&",
+            "group": "BOYNEXTDOOR",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BEWTS`"
+        }  
+],
+    "BEWLH": [
+        {
+            "name": "**BOYNEXTDOOR** Leehan",
+            "song": "EARTH, WIND & FIRE",
+            "image": "https://cdn.discordapp.com/attachments/1228893801830027334/1228894026951032873/BOYNEXTDOOR_20240414102409.png?ex=6627c4ff&is=6626737f&hm=c35f528787745f04d9f37d00cc9f274610431a27f83cd181a359af00dc878332&",
+            "group": "BOYNEXTDOOR",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BEWLH`"
+        }  
+],
+    "BEWWH": [
+        {
+            "name": "**BOYNEXTDOOR** Woonhak",
+            "song": "EARTH, WIND & FIRE",
+            "image": "https://cdn.discordapp.com/attachments/1228893801830027334/1228894027240312932/BOYNEXTDOOR_20240414102434.png?ex=6627c4ff&is=6626737f&hm=86d4a535ef89f7d6f426732263fade8bbe491dc6a06c06642e5bf76e384eeb90&",
+            "group": "BOYNEXTDOOR",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BEWWH`"
+        }
+],
+    "CCLSR": [
+        {
+            "name": "**CRAVITY** Serim",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850085287432232/CCLSR.png?ex=662844d3&is=6626f353&hm=11380391ef6e39f035a8abdff5bb2848adb23487f09f614c08a90af0ea6e3033&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLSR`"
+        }  
+],
+    "CCLAL": [
+        {
+            "name": "**CRAVITY** Allen",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850085769642094/CCLAL.png?ex=662844d3&is=6626f353&hm=98672fcebcf87afc6ecd622b3bc565fd460257724c7caf54e805091e97ef2a1b&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLAL`"
+        }  
+],
+    "CCLJM": [
+        {
+            "name": "**CRAVITY** Jungmo",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850086172164208/CCLJM.png?ex=662844d3&is=6626f353&hm=d32ce20c2063370ce1daca9ffeca213d530ace08e865ddc3bf6819cbc6bbc6dd&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLJM`"
+        }  
+],
+    "CCLWB": [
+        {
+            "name": "**CRAVITY** Woobin",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850086575083550/CCLWB.png?ex=662844d3&is=6626f353&hm=e4f32bcde75f390a96864632684959cccb5592a183939af1539aff8acfa2408f&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLWB`"
+        }  
+],
+    "CCLWJ": [
+        {
+            "name": "**CRAVITY** Wonjin",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850087006961735/CCLWJ.png?ex=662844d3&is=6626f353&hm=3c838c8b1a37e6baf6c7a7372dae52796efc69a86d1c0ab8453973aecbf15803&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLWJ`"
+        }  
+],
+    "CCLMH": [
+        {
+            "name": "**CRAVITY** Minhee",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850087443038310/CCLMH.png?ex=662844d3&is=6626f353&hm=dcb4b6415af6169fcec8452c4c9e3789eb46fdf718a00361d34a1c431f0dc289&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLMH`"
+        }  
+],
+    "CCLHJ": [
+        {
+            "name": "**CRAVITY** Hyeongjun",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850087875182623/CCLHJ.png?ex=662844d3&is=6626f353&hm=725920045eff928d6efe010d7b47038f121e26ae04f33068b6ec13ad801903d0&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLMH`"
+        }  
+],
+    "CCLTY": [
+        {
+            "name": "**CRAVITY** Taeyoung",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850088307200010/CCLTY.png?ex=662844d3&is=6626f353&hm=868f5f2985160ee549044dbed6879e97bf532b71282c1b48afeda618662338db&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLTY`"
+        }  
+],
+    "CCLSM": [
+        {
+            "name": "**CRAVITY** name",
+            "song": "C'est La Vie",
+            "image": "https://cdn.discordapp.com/attachments/1228849869129650247/1228850088781287464/CCLSM.png?ex=662844d4&is=6626f354&hm=77e80a7563185802da73ba7b9d6a6cb1940b926514df552f70b6267a89ece305&",
+            "group": "CRAVITY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`CCLSM`"
+        }  
+],
+    "OBCSH": [
+        {
+            "name": "**ONEUS** Seoho",
+            "song": "Baila Conmigo",
+            "image": "https://cdn.discordapp.com/attachments/1228551609517084742/1228551695705964584/ONEUS_20240413114504.png?ex=6627d7ad&is=6626862d&hm=8deae630f6f3e73c2e1b80eab30a9b907f2f6520642b8423d8ef519aaf6d2e56&",
+            "group": "ONEUS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBCSH`"
+        }
+],
+    "OBCLD": [
+        {
+            "name": "**ONEUS** Leedo",
+            "song": "Baila Conmigo",
+            "image": "https://cdn.discordapp.com/attachments/1228551609517084742/1228551696053964870/ONEUS_20240413114438.png?ex=6627d7ad&is=6626862d&hm=ec25094b2322f11ff6dcaffb305257714d8385f61dee0a35b2a2404f432018ac&",
+            "group": "ONEUS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBCLD`"
+        }
+],
+    "OBCKH": [
+        {
+            "name": "**ONEUS** Keonhee",
+            "song": "Baila Conmigo",
+            "image": "https://cdn.discordapp.com/attachments/1228551609517084742/1228551696393965578/ONEUS_20240413114453.png?ex=6627d7ad&is=6626862d&hm=66afbfa2f7c59d0d5383528fa8c1c25d0c3afa4f8285635c5b3637ddc34359fa&",
+            "group": "ONEUS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBCKH`"
+        }
+],
+    "OBCHW": [
+        {
+            "name": "**ONEUS** Hwanwoong",
+            "song": "Baila Conmigo",
+            "image": "https://cdn.discordapp.com/attachments/1228551609517084742/1228551696708403252/ONEUS_20240413114446.png?ex=6627d7ad&is=6626862d&hm=b531a3b3b701dc68860a37d0cf80edc785f50660cdb3250c02fdaf0560bf48e4&",
+            "group": "ONEUS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBCHW`"
+        }
+],
+    "OBCXO": [
+        {
+            "name": "**ONEUS** Xion",
+            "song": "Baila Conmigo",
+            "image": "https://cdn.discordapp.com/attachments/1228551609517084742/1228551697106735185/ONEUS_20240413114458.png?ex=6627d7ad&is=6626862d&hm=e5ae74ec0206b394c66aaaafc4bd3d09f96f745a516cc35bce88c60a0d8d9f66&",
+            "group": "ONEUS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBCXO`"
+        }
+],
+    "TFGKJ": [
+        {
+            "name": "**THE NEW SIX** Kyungjun",
+            "song": "FUEGO",
+            "image": "https://cdn.discordapp.com/attachments/1230803497574731817/1230803917479088148/TFGKJ.png?ex=66282039&is=6626ceb9&hm=e5240f28a41986e4e0b466ac0a937439f57ac34ceb1a53be4a67731d8048b9f2&",
+            "group": "THE NEW SIX",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TFGKJ`"
+        }
+],
+    "TFGTH": [
+        {
+            "name": "**THE NEW SIX** Taehun",
+            "song": "FUEGO",
+            "image": "https://cdn.discordapp.com/attachments/1230803497574731817/1230803918091587584/TFGTH.png?ex=66282039&is=6626ceb9&hm=29fccdf6bd3f21c17a4333e11df180beef2ae69d131e0c7f992187451f7a76b3&",
+            "group": "THE NEW SIX",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TFGTH`"
+        }
+],
+    "TFGHS": [
+        {
+            "name": "**THE NEW SIX** Hyunsoo",
+            "song": "FUEGO",
+            "image": "https://cdn.discordapp.com/attachments/1230803497574731817/1230803918640910348/TFGHS.png?ex=66282039&is=6626ceb9&hm=20abd1460611dc00ea97bfae954aaee588c1d1f5a0dd37885e3e0d6caf26334c&",
+            "group": "THE NEW SIX",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TFGHS`"
+        }
+],
+    "TFGJH": [
+        {
+            "name": "**THE NEW SIX** Junhyeok",
+            "song": "FUEGO",
+            "image": "https://cdn.discordapp.com/attachments/1230803497574731817/1230803919253409852/TFGJH.png?ex=66282039&is=6626ceb9&hm=642e845ae3c8b1cd44c0afcd103fc3756fcc2b873971753dd8fbf536a5b0639c&",
+            "group": "THE NEW SIX",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TFGJH`"
+        }
+],
+    "TFGHW": [
+        {
+            "name": "**THE NEW SIX** Hwi",
+            "song": "FUEGO",
+            "image": "https://cdn.discordapp.com/attachments/1230803497574731817/1230803919878230036/TFGHW.png?ex=66282039&is=6626ceb9&hm=7d9feb50a5c187e6ced81aaf6dd6d1fa9a903a76f93b2665bb7ac89b8574e0a7&",
+            "group": "THE NEW SIX",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TFGHW`"
+        }
+],
+    "TFGSJ": [
+        {
+            "name": "**THE NEW SIX** Sungjun",
+            "song": "FUEGO",
+            "image": "https://cdn.discordapp.com/attachments/1230803497574731817/1230803920406843442/TFGSJ.png?ex=66282039&is=6626ceb9&hm=9de403a7e9da27ce585cb0e1c07d132661e99d8f7cac4001bd95767f72369969&",
+            "group": "THE NEW SIX",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TFGSJ`"
+        }
+],
+    "WPLKU": [
+        {
+            "name": "**WayV** Kun",
+            "song": "Poppin' Love",
+            "image": "https://cdn.discordapp.com/attachments/1230835919896973363/1230836045952581702/WPLKU.png?ex=66283e25&is=6626eca5&hm=915705efd958034fb5060db6827d29943cfaa8f0baa2402b1475189f2d60b603&",
+            "group": "WayV",
+            "type": "K-POP BOY GROUPS",
+            "code": "`WPLKU`"
+        }
+],
+    "WPLTE": [
+        {
+            "name": "**WayV** Ten",
+            "song": "Poppin' Love",
+            "image": "https://cdn.discordapp.com/attachments/1230835919896973363/1230836046506360844/WPLTE.png?ex=66283e25&is=6626eca5&hm=a2a52557fca13041c5f68a0115af34f6d3a45317bb436bfcc59871d2920294bd&",
+            "group": "WayV",
+            "type": "K-POP BOY GROUPS",
+            "code": "`WPLTE`"
+        }
+],
+    "WPLWW": [
+        {
+            "name": "**WayV** Winwin",
+            "song": "Poppin' Love",
+            "image": "https://cdn.discordapp.com/attachments/1230835919896973363/1230836047038910465/WPLWW.png?ex=66283e25&is=6626eca5&hm=44bd3e927e7dc21db405c773fc2318cd59c386eb3e42606e2195bd79472b9070&",
+            "group": "WayV",
+            "type": "K-POP BOY GROUPS",
+            "code": "`WPLWW`"
+        }
+],
+    "WPLXJ": [
+        {
+            "name": "**WayV** Xiaojun",
+            "song": "Poppin' Love",
+            "image": "https://cdn.discordapp.com/attachments/1230835919896973363/1230836047458336869/WPLXJ.png?ex=66283e25&is=6626eca5&hm=abd3ddf2e8d4be75455674b941cab604945ed1cef85cd47ce202b984eff75632&",
+            "group": "WayV",
+            "type": "K-POP BOY GROUPS",
+            "code": "`WPLXJ`"
+        }
+],
+    "WPLHD": [
+        {
+            "name": "**WayV** Hendery",
+            "song": "Poppin' Love",
+            "image": "https://cdn.discordapp.com/attachments/1230835919896973363/1230836047882092554/WPLHD.png?ex=66283e25&is=6626eca5&hm=7a06ea605fb8f3035ae98f478552fb4da258ec400fc766e11da414c56ad7833b&",
+            "group": "WayV",
+            "type": "K-POP BOY GROUPS",
+            "code": "`WPLHD`"
+        }
+],
+    "WPLYY": [
+        {
+            "name": "**WayV** Yangyang",
+            "song": "Poppin' Love",
+            "image": "https://cdn.discordapp.com/attachments/1230835919896973363/1230836048364310608/WPLYY.png?ex=66283e25&is=6626eca5&hm=3595124c0cae9e010f871599d853c7ea9e774507f6cc1e89d982e89439486ef3&",
+            "group": "WayV",
+            "type": "K-POP BOY GROUPS",
+            "code": "`WPLYY`"
+        }    
     ]
 }
