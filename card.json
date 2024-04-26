@@ -3577,5 +3577,55 @@
             "type": "K-POP Soloist",
             "code": "`GMYN`"
         } 
+     ],
+    "TMZYH": [
+        {
+            "name": "<:magazine:1230646981802725386> **THE BOYZ** Younghoon",
+            "song": "MAGAZINES: NOLJA TIMES (Giveaway Exclusive)",
+            "image": "https://media.discordapp.net/attachments/1230160579679879359/1233316410885672981/TMZYH.png?ex=662ca6ea&is=662b556a&hm=69ff7f8aea15507d193d5161bd0d756a81a9882b9770f7329f4d446e7a7de49a&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`TMZYH`"
+        }     
+     ],
+    "AMZMG": [
+        {
+            "name": "<:magazine:1230646981802725386> **ATEEZ** Mingi",
+            "song": "MAGAZINES: NOLJA TIMES (Giveaway Exclusive)",
+            "image": "https://media.discordapp.net/attachments/1230160579679879359/1233316448282214430/AMZMG.png?ex=662ca6f3&is=662b5573&hm=3dd89a27adbdec75feb862d4280bb4e777e26cc4a743944d5b19df032be50e86&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`AMZMG`"
+        }       
+    ],
+    "IMZLI": [
+        {
+            "name": "<:magazine:1230646981802725386> **IVE** Liz",
+            "song": "MAGAZINES: NOLJA TIMES (Giveaway Exclusive)",
+            "image": "https://media.discordapp.net/attachments/1230160579679879359/1233316451180351529/IMZLI.png?ex=662ca6f3&is=662b5573&hm=1041bae2ca0d07ee654e1427c3bf9abf3a14a5541fc3100a332217e20a1eee56&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`IMZLI`"
+        }      
+    ],
+    "KMZNT": [
+        {
+            "name": "<:magazine:1230646981802725386> **KISS OF LIFE** Natty",
+            "song": "MAGAZINES: NOLJA TIMES (Giveaway Exclusive)",
+            "image": "https://media.discordapp.net/attachments/1230160579679879359/1233371952756817940/IMZNT.png?ex=662cdaa4&is=662b8924&hm=cedb7339b5b70215234184f5c6dda0fdc714ab1581bc448f6434fe8d02a2f44c&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`KMZNT`"
+        }  
+    ],
+    "NOLLIE": [
+        {
+            "name": "<:magazine:1230646981802725386> Nollie",
+            "song": "MAGAZINES: NOLJA TIMES (Giveaway Exclusive)",
+            "image": "https://media.discordapp.net/attachments/1230160579679879359/1233316230123749387/NOLLIEMZ.png?ex=662ca6bf&is=662b553f&hm=872d8e78a619a34bc20af94fd016361452e4ad93b11efddf3ac25f3d6f7b44ee&",
+            "group": "event",
+            "type": "EVENTS",
+            "code": "`NOLLIE`"
+        }         
     ]
 }
