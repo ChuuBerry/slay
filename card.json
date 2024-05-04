@@ -3977,5 +3977,425 @@
             "type": "K-POP BOY GROUPS",
             "code": "`SHATM`"
         }
+],
+    "ABIJS": [
+        {
+            "name": "**ARTMS** JinSoul",
+            "song": "BIRTH",
+            "image": "https://cdn.discordapp.com/attachments/1233983827425103912/1233983965094744184/ARTMS_20240428113022.png?ex=6636fd9f&is=6635ac1f&hm=48ba55bac689b720d68aff3f13e5e7d35a1953908b224721db144644e05baae4&",
+            "group": "ARTMS",
+            "type": "K-POP GIRLGROUP",
+            "code": "`ABIJS`"
+        }  
+],
+    "ABIHS": [
+        {
+            "name": "**ARTMS** Haseul",
+            "song": "BIRTH",
+            "image": "https://cdn.discordapp.com/attachments/1233983827425103912/1233983964365197413/ARTMS_20240428112927.png?ex=6636fd9f&is=6635ac1f&hm=2a84777f86996e490a2b0a78a2a8dcd6b66bcf9f47cd0a85c0f347b614835f3b&",
+            "group": "ARTMS",
+            "type": "K-POP GIRLGROUP",
+            "code": "`ABIHS`"
+        }  
+],
+    "ABIKL": [
+        {
+            "name": "**ARTMS** Kim LIp",
+            "song": "BIRTH",
+            "image": "https://cdn.discordapp.com/attachments/1233983827425103912/1233983964771913728/ARTMS_20240428113000.png?ex=6636fd9f&is=6635ac1f&hm=fa02587575c49f6b1452f194ee10e93c319cd382311954d966de7c00ed21727f&",
+            "group": "ARTMS",
+            "type": "K-POP GIRLGROUP",
+            "code": "`ABIKL`"
+        }  
+],
+    "ABIHJ": [
+        {
+            "name": "**ARTMS** Heejin",
+            "song": "BIRTH",
+            "image": "https://cdn.discordapp.com/attachments/1233983827425103912/1233983964054814840/ARTMS_20240428112905.png?ex=6636fd9f&is=6635ac1f&hm=fc13e93b7f3d871979521fb9f2243c16f75b30ba32e7c10bbd090a03446823f6&",
+            "group": "ARTMS",
+            "type": "K-POP GIRLGROUP",
+            "code": "`ABIHJ`"
+        }  
+],
+    "ABICE": [
+        {
+            "name": "**ARTMS** Choerry",
+            "song": "BIRTH",
+            "image": "https://cdn.discordapp.com/attachments/1233983827425103912/1233983965459775538/ARTMS_20240428113043.png?ex=6636fd9f&is=6635ac1f&hm=a57310b633b69f812bc0ed01f8fac08cae24364136d2d5697a3a60cb83365a21&",
+            "group": "ARTMS",
+            "type": "K-POP GIRLGROUP",
+            "code": "`ABICE`"
+        }  
+],
+    "BSSAA": [
+        {
+            "name": "**BINI** Aiah",
+            "song": "Salamin, Salamin",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1233739519858315264/BINI_20240427191830.png?ex=66376b77&is=663619f7&hm=c8b578feacdaa6e1031df4396ea899e0117e91857c3b5606f21fbc6638033aaa&",
+            "group": "BINI",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BSSAA`"
+        }  
+],
+    "BSSCL": [
+        {
+            "name": "**BINI** Colet",
+            "song": "Salamin, Salamin",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1233739520269090816/BINI_20240427191647.png?ex=66376b77&is=663619f7&hm=49e4d9d67e59cecdb16fd97615fa32803806e6c1f5b64260da25e7b34bdb7f2d&",
+            "group": "BINI",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BSSCL`"
+        }  
+],
+    "BSSML": [
+        {
+            "name": "**BINI** Maloi",
+            "song": "Salamin, Salamin",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1233739520759828541/BINI_20240427191901.png?ex=66376b77&is=663619f7&hm=ce71af3dbbf8209eaaf2bbefaa6329754d816d542da709c003fd25f8a961daed&",
+            "group": "BINI",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BSSML`"
+        }  
+],
+    "BSSGW": [
+        {
+            "name": "**BINI** Gwen",
+            "song": "Salamin, Salamin",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1233739521288441916/BINI_20240427191758.png?ex=66376b77&is=663619f7&hm=f03a52a96ca3fa456a55734c27d7dfa18e1b173d92a93aa2c301e5c2e017fdcd&",
+            "group": "BINI",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BSSGW`"
+        }  
+],
+    "BSSSC": [
+        {
+            "name": "**BINI** Stacey",
+            "song": "Salamin, Salamin",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1233739521623982158/BINI_20240427191711.png?ex=66376b77&is=663619f7&hm=a41f859c7a15b963572959769a51bf101a614c65496e180cb8e187fee952300a&",
+            "group": "BINI",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BSSSC`"
+        }  
+],
+    "BSSMK": [
+        {
+            "name": "**BINI** Mikha",
+            "song": "Salamin, Salamin",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1233739521989021786/BINI_20240427191853.png?ex=66376b77&is=663619f7&hm=aef319414424dcc12498d052259ba7e18886b8e7140788bb7f673780a1906ff9&",
+            "group": "BINI",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BSSMK`"
+        }  
+],
+    "BSSJA": [
+        {
+            "name": "**BINI** Jhoanna",
+            "song": "Salamin, Salamin",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1233739519430492271/BINI_20240427191621.png?ex=66376b77&is=663619f7&hm=cde4c30c978ebeddf11913bc694d4094f603951d8d3bbd9cfbba5ee4a338dde9&",
+            "group": "BINI",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BSSJA`"
+        }  
+],
+    "BSSSN": [
+        {
+            "name": "**BINI** Sheena",
+            "song": "Salamin, Salamin",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1233739522303328327/BINI_20240427191737.png?ex=66376b77&is=663619f7&hm=d78385167e739e0d79a302a584ea10adbcf81928c194da8e1162ea552b8a0357&",
+            "group": "BINI",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BSSSN`"
+        }  
+],
+    "GMGSW": [
+        {
+            "name": "**GFRIEND** Sowon",
+            "song": "MAGO",
+            "image": "https://cdn.discordapp.com/attachments/1235073407859691610/1235073476256202874/GFRIEND_20240501113907.png?ex=6636ffcf&is=6635ae4f&hm=1254794d6ab25173b018a7435ea134addecd731a89ce41c0a8a8243aedb51390&",
+            "group": "GFRIEND",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GMGSW`"
+        }  
+],
+    "GMGYR": [
+        {
+            "name": "**GFRIEND** Yerin",
+            "song": "MAGO",
+            "image": "https://cdn.discordapp.com/attachments/1235073407859691610/1235073476625305702/GFRIEND_20240501113916.png?ex=6636ffcf&is=6635ae4f&hm=57e45c7b896e55e351c34a3b3a2c1eeeb1f3078ed1ef4f09122e402e34a51cec&",
+            "group": "GFRIEND",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GMGYR`"
+        }  
+],
+    "GMGEH": [
+        {
+            "name": "**GFRIEND** Eunha",
+            "song": "MAGO",
+            "image": "https://cdn.discordapp.com/attachments/1235073407859691610/1235073476994400326/GFRIEND_20240501113922.png?ex=6636ffcf&is=6635ae4f&hm=21b8e59193f4121d3a84e6ca5b87d4c149b4a688622e260c82cae41875c9709a&",
+            "group": "GFRIEND",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GMGEH`"
+        }  
+],
+    "GMGYJ": [
+        {
+            "name": "**GFRIEND** Yuju",
+            "song": "MAGO",
+            "image": "https://cdn.discordapp.com/attachments/1235073407859691610/1235073477455777823/GFRIEND_20240501113930.png?ex=6636ffcf&is=6635ae4f&hm=43d593b7510452f7c2cf53da56fbffda7e73ae9bad903f24952f0913d9f2da28&",
+            "group": "GFRIEND",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GMGYJ`"
+        }  
+],
+    "GMGSB": [
+        {
+            "name": "**GFRIEND** SinB",
+            "song": "MAGO",
+            "image": "https://cdn.discordapp.com/attachments/1235073407859691610/1235073477829066752/GFRIEND_20240501113935.png?ex=6636ffcf&is=6635ae4f&hm=5091166d6d32f21c28c6c77bb7b8f86bb86b475675413491c0579dba27adc2da&",
+            "group": "GFRIEND",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GMGSB`"
+        }  
+],
+    "GMGUJ": [
+        {
+            "name": "**GFRIEND** Umji",
+            "song": "MAGO",
+            "image": "https://cdn.discordapp.com/attachments/1235073407859691610/1235073478206558259/GFRIEND_20240501113941.png?ex=6636ffcf&is=6635ae4f&hm=af4ec4e0475216e92e6e396142db1f8e620635f4f949b8a9cfc2b00ebeb229a6&",
+            "group": "GFRIEND",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GMGUJ`"
+        } 
+],
+    "GF1TY": [
+        {
+            "name": "**Girls' Generation** Taeyeon",
+            "song": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1236171134764847234/1236171294249193512/SNSD_20240504122137.png?ex=663709bb&is=6635b83b&hm=54b69746b52b3a3ae404553bea2b0aa7dd4e46f8fb1eeefd05c6f0155725950b&",
+            "group": "Girls' Generation",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GF1TY`"
+        }  
+],
+    "GF1SN": [
+        {
+            "name": "**Girls' Generation** Sunny",
+            "song": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1236171134764847234/1236171294597451856/SNSD_20240504122058.png?ex=663709bb&is=6635b83b&hm=873c3d84082bd7a36681e2cf654e8598290959ab0b6925497aa9b3d6d4ffb26e&",
+            "group": "Girls' Generation",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GF1SN`"
+        }  
+],
+    "GF1TF": [
+        {
+            "name": "**Girls' Generation** Tiffany",
+            "song": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1236171134764847234/1236171294924603423/SNSD_20240504122131.png?ex=663709bb&is=6635b83b&hm=292e60a867c1dce279295726cc9c32a3ab3c97d5822f4f68bd74fab8c1bcc052&",
+            "group": "Girls' Generation",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GF1TF`"
+        }  
+],
+    "GF1HY": [
+        {
+            "name": "**Girls' Generation** Hyoyeon",
+            "song": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1236171134764847234/1236171295243243620/SNSD_20240504122042.png?ex=663709bb&is=6635b83b&hm=cfa43358566671274396ad697b95a4f86dce4e696f23027e7f135d47891f33d1&",
+            "group": "Girls' Generation",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GF1HY`"
+        }  
+],
+    "GF1YR": [
+        {
+            "name": "**Girls' Generation** Yuri",
+            "song": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1236171134764847234/1236171295562141696/SNSD_20240504122118.png?ex=663709bb&is=6635b83b&hm=a2eede1e0efd9ad9cfd855915c90dec7a2083f0f4b893e90be6a424d292d8317&",
+            "group": "Girls' Generation",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GF1YR`"
+        }  
+],
+    "GF1SY": [
+        {
+            "name": "**Girls' Generation** Sooyoung",
+            "song": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1236171134764847234/1236171295838961797/SNSD_20240504122124.png?ex=663709bb&is=6635b83b&hm=fdec95f4f590f02ae313f35fdb7713d0d72430064fe0b9316a005a12d59f6c9f&",
+            "group": "Girls' Generation",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GF1SY`"
+        }  
+],
+    "GF1YN": [
+        {
+            "name": "**Girls' Generation** Yoona",
+            "song": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1236171134764847234/1236171296212127744/SNSD_20240504122104.png?ex=663709bb&is=6635b83b&hm=5bbeccefef1514adb37999218290927f9f9015c73d31ebc4d46d5909173c6927&",
+            "group": "Girls' Generation",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GF1SY`"
+        }  
+],
+    "GF1SH": [
+        {
+            "name": "**Girls' Generation** Seohyun",
+            "song": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1236171134764847234/1236171296531026030/SNSD_20240504122109.png?ex=663709bc&is=6635b83c&hm=a8da792ce60a1970a1b8952838882bae0bb100a8bc488a4ab49f1c1536f28156&",
+            "group": "Girls' Generation",
+            "type": "K-POP GIRLGROUP",
+            "code": "`GF1SH`"
+        }   
+],
+    "KSLCY": [
+        {
+            "name": "**Kep1er** Choi Yujin",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495298953281567/KSLCY.png?ex=6636df97&is=66358e17&hm=6cab4183bc858f03edd6637f50ad8fb2c747389b02906c3c22576347e80cc8a6&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLCY`"
+        }  
+],
+    "KSLSX": [
+        {
+            "name": "**Kep1er** Shen Xiaoting",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495299658059887/KSLSX.png?ex=6636df97&is=66358e17&hm=a39cba839c8c1e1f26f95e64235b3a8fa549b715122c5d031031d136dd226a81&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLSX`"
+        }  
+],
+    "KSLMS": [
+        {
+            "name": "**Kep1er** Mashiro",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495300052189215/KSLMS.png?ex=6636df97&is=66358e17&hm=fd9a0b51b8e25c6a36914b8fefd744cfed8cb34fc6f03198ecd0aa3b59777de1&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLMS`"
+        }  
+],
+    "KSLKC": [
+        {
+            "name": "**Kep1er** Kim Chaehyun",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495300513566791/KSLKC.png?ex=6636df97&is=66358e17&hm=10091d8c005991d3b4e73dd015482887ac5795076c0db82441dc9f493a765a3e&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLKC`"
+        }  
+],
+    "KSLKD": [
+        {
+            "name": "**Kep1er** Kim Dayeon",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495300966682634/KSLKD.png?ex=6636df97&is=66358e17&hm=38d3de34a6b121b67377e3b750ea2605a046b54f15ffb285404f3a12b85c9c7d&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLKD`"
+        }  
+],
+    "KSLEH": [
+        {
+            "name": "**Kep1er** Ezaki Hikaru",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495301646291015/KSLEH.png?ex=6636df97&is=66358e17&hm=976aaee8a99413d8dceb33a550312f4d24ecfdc008e25c45e26da9a82d0e61e8&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLEH`"
+        }  
+],
+    "KSLHB": [
+        {
+            "name": "**Kep1er** Huening Bahhiyih",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495302019579946/KSLHB.png?ex=6636df97&is=66358e17&hm=fdbd615eb01b3eefab0c67a9b27dffe02b48faf2de6f6d92222ae38e82141082&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLHB`"
+        }  
+],
+    "KSLSY": [
+        {
+            "name": "**Kep1er** Seo Youngeun",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495302489211002/KSLSY.png?ex=6636df97&is=66358e17&hm=c4e47d3377c8225d3b9687266826f28b8c212a2b1e342d2ac974a5d955a99591&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLSY`"
+        }  
+],
+    "KSLKY": [
+        {
+            "name": "**Kep1er** Kang Yeseo",
+            "song": "Straight Line",
+            "image": "https://cdn.discordapp.com/attachments/1234495095785656405/1234495302908776520/KSLKY.png?ex=6636df98&is=66358e18&hm=7491f2366373baf465463da53601d88090b373a5c1ff5baea671720d47c51ac9&",
+            "group": "Kep1er",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KSLKY`"
+        } 
+],
+    "WVVLS": [
+        {
+            "name": "**Weeekly** Lee Soojin",
+            "song": "Vroom Vroom",
+            "image": "https://cdn.discordapp.com/attachments/1234698935105228800/1234699075278999573/WVVLS.png?ex=6636f49f&is=6635a31f&hm=eff27380d4ecbb37fc311f3986ee58222aa1bd5b2d2cc05174068dc90c508327&",
+            "group": "Weeekly",
+            "type": "K-POP GIRLGROUP",
+            "code": "`WVVLS`"
+        }  
+],
+    "WVVMD": [
+        {
+            "name": "**Weeekly** Monday",
+            "song": "Vroom Vroom",
+            "image": "https://cdn.discordapp.com/attachments/1234698935105228800/1234699075702620231/WVVMD.png?ex=6636f49f&is=6635a31f&hm=6e1aee8c96e0023cfc192b874e622a06f07a8096e1f5dde7bb1b9b0fb380acda&",
+            "group": "Weeekly",
+            "type": "K-POP GIRLGROUP",
+            "code": "`WVVMD`"
+        }  
+],
+    "WVVPS": [
+        {
+            "name": "**Weeekly** Park Soeun",
+            "song": "Vroom Vroom",
+            "image": "https://cdn.discordapp.com/attachments/1234698935105228800/1234699076080242709/WVVPS.png?ex=6636f49f&is=6635a31f&hm=4cae4f450001f46f242a25125e3b6636b7027997ccb1225681d79a1e0e1941bb&",
+            "group": "Weeekly",
+            "type": "K-POP GIRLGROUP",
+            "code": "`WVVPS`"
+        }  
+],
+    "WVVLJ": [
+        {
+            "name": "**Weeekly** Lee Jaehee",
+            "song": "Vroom Vroom",
+            "image": "https://cdn.discordapp.com/attachments/1234698935105228800/1234699077380341760/WVVLJ.png?ex=6636f49f&is=6635a31f&hm=181e8ee61c37264eb1eca7813bbc7ca32c4c66008e7a5112dfb122337d463a10&",
+            "group": "Weeekly",
+            "type": "K-POP GIRLGROUP",
+            "code": "`WVVLJ`"
+        }  
+],
+    "WVVJH": [
+        {
+            "name": "**Weeekly** Jihan",
+            "song": "Vroom Vroom",
+            "image": "https://cdn.discordapp.com/attachments/1234698935105228800/1234699077804101713/WVVJH.png?ex=6636f49f&is=6635a31f&hm=dd8770af1871d86f8277c7a003447b84e971873ad3bb8fe9e19ee3491048e48c&",
+            "group": "Weeekly",
+            "type": "K-POP GIRLGROUP",
+            "code": "`WVVJH`"
+        }  
+],
+    "WVVZA": [
+        {
+            "name": "**Weeekly** ZoA",
+            "song": "Vroom Vroom",
+            "image": "https://cdn.discordapp.com/attachments/1234698935105228800/1234699078240178206/WVVZA.png?ex=6636f49f&is=6635a31f&hm=6bbd1e6574c2a636e46ae7f7591c141e78d1bce5bb24b49287c74a86d0e86550&",
+            "group": "Weeekly",
+            "type": "K-POP GIRLGROUP",
+            "code": "`WVVZA`"
+        }  
     ]
 }
