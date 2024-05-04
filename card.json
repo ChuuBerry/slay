@@ -4397,5 +4397,85 @@
             "type": "K-POP GIRLGROUP",
             "code": "`WVVZA`"
         }  
+   ],
+    "CLKY": [
+        {
+            "name": "**Soloist** Kawaguchi Yurina",
+            "song": "C.O.S.M.I.C. Love",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1234707022096896032/CLKY.png?ex=6636fc05&is=6635aa85&hm=26eb07a604ea3c77ce73372e9332c793f4c106822e036106e65d78ed064a244e&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`CLKY`"
+        }
+    ],
+    "OFFK": [
+        {
+            "name": "**Soloist** Fujii Kaze",
+            "song": "Overflow",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1234707039305859072/OFFK.png?ex=6636fc09&is=6635aa89&hm=54ca7bc678eb35d49665ecb1adc540e56b9c77c5af4535998c7dcaa5535c6016&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`OFFK`"
+        }
+    ],
+    "TCKS": [
+        {
+            "name": "**Soloist** Kim Sejeong",
+            "song": "Top or Cliff",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1235167621016457307/TCKS.png?ex=6637577d&is=663605fd&hm=8a48b8f9e59241ddd7cba8688b7e41440d19bd1ef5ec38d809ee8e62876f192d&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`TCKS`"
+        }
+    ],
+    "GGKE": [
+        {
+            "name": "**Soloist** KEY",
+            "song": "Good and Great",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1235981063122194544/GGKE.png?ex=66370150&is=6635afd0&hm=e75703605d4878b813b674ae849e89d1d48450f06a122f483c473e3a0676d8cb&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`GGKE`"
+        }
+    ],
+    "LLHM": [
+        {
+            "name": "**Soloist** Hwang Minhyun",
+            "song": "Lullaby",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1235981073842966538/LLHM.png?ex=66370153&is=6635afd3&hm=ecd328f26371232b3c344109d91d8447b2ab49f9e369a7a79f55c969a005b715&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`LLHM`"
+        }
+    ],
+    "DRWH": [
+        {
+            "name": "**Soloist** Wonho",
+            "song": "Don't Regret",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1236182438410190968/DRWH.png?ex=6637141c&is=6635c29c&hm=5b2ef0a191b53e431f59a0f4cca69dc0cff63e80645d8e6b474b685cf3cbe3b0&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`DRWH`"
+        }
+    ],
+    "BYBB": [
+        {
+            "name": "**Soloist** BIBI",
+            "song": "Bam Yang Gang",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1236182450456236092/BYBB.png?ex=6637141f&is=6635c29f&hm=9f259ba676951110282fa65b7a74abc0f4375c7804743a17bdbde3d886f16138&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`BYBB`"
+        }
+    ],
+    "TLHL": [
+        {
+            "name": "**Soloist** HYOLYN",
+            "song": "This Love",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1236182471192739850/TLHL.png?ex=66371424&is=6635c2a4&hm=3b757cc0ecba7e693e62e875fff33c0319e90d01c547fc5aad95f8e5af94556d&",
+            "group": "Soloist",
+            "type": "K-POP Soloist",
+            "code": "`TLHL`"
+        }
     ]
 }
