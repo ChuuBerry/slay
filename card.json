@@ -3627,5 +3627,355 @@
             "type": "EVENTS",
             "code": "`NOLLIE`"
         }         
+],
+    "BYTJI": [
+        {
+            "name": "**BTS** Jin",
+            "song": "Yet To Come",
+            "image": "https://cdn.discordapp.com/attachments/1235066178133819437/1235066603549360188/BYTJI.png?ex=6636f968&is=6635a7e8&hm=d915053137154638c32747297817e160231468335bccfc98ce0b2eb79c6d6fe2&",
+            "group": "BTS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BYTJI`"
+        }
+],
+    "BYTSG": [
+        {
+            "name": "**BTS** Suga",
+            "song": "Yet To Come",
+            "image": "https://cdn.discordapp.com/attachments/1235066178133819437/1235066604002213918/BYTSG.png?ex=6636f968&is=6635a7e8&hm=aa809a76f66ccc99d83b1156cb90894bed11e15605805b0e428b438d4397bdd8&",
+            "group": "BTS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BYTSG`"
+        }
+],
+    "BYTJH": [
+        {
+            "name": "**BTS** J-Hope",
+            "song": "Yet To Come",
+            "image": "https://cdn.discordapp.com/attachments/1235066178133819437/1235066604769902623/BYTJH.png?ex=6636f969&is=6635a7e9&hm=48fade21f6a051c8e0dbb744438b656cae5605d29b676ddba7dfbef5d4b6df48&",
+            "group": "BTS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BYTJH`"
+        }
+],
+    "BYTRM": [
+        {
+            "name": "**BTS** RM",
+            "song": "Yet To Come",
+            "image": "https://cdn.discordapp.com/attachments/1235066178133819437/1235066605365624833/BYTRM.png?ex=6636f969&is=6635a7e9&hm=ace35b18c4a77df2c4604ce464611c943058a4ac1980478dc238de3c6c8f8129&",
+            "group": "BTS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BYTRM`"
+        }
+],
+    "BYTJM": [
+        {
+            "name": "**BTS** Jimin",
+            "song": "Yet To Come",
+            "image": "https://cdn.discordapp.com/attachments/1235066178133819437/1235066605805895731/BYTJM.png?ex=6636f969&is=6635a7e9&hm=83337b5d7efec85a26d7bf478fac7a95bb7c1ec3796b9878905886d9b093a405&",
+            "group": "BTS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BYTJM`"
+        }
+],
+    "BYTKV": [
+        {
+            "name": "**BTS** V",
+            "song": "Yet To Come",
+            "image": "https://cdn.discordapp.com/attachments/1235066178133819437/1235066606212612177/BYTKV.png?ex=6636f969&is=6635a7e9&hm=c12457754b7a6220d9d67626b5067fd3b1596302aeeaa10f4a9ca6d82f0eef3c&",
+            "group": "BTS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BYTKV`"
+        }
+],
+    "BYTJK": [
+        {
+            "name": "**BTS** Jungkook",
+            "song": "Yet To Come",
+            "image": "https://cdn.discordapp.com/attachments/1235066178133819437/1235066606598750310/BYTJK.png?ex=6636f969&is=6635a7e9&hm=2df376e8c1a13756858e3f24607c2cb193f52f0803338ee27f5e8acd46587409&",
+            "group": "BTS",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BYTJK`"
+        }
+],
+    "DBMLH": [
+        {
+            "name": "**DRIPPIN** Lee Hyeop",
+            "song": "Beautiful Maze",
+            "image": "https://cdn.discordapp.com/attachments/1234522676572196906/1234522826669686784/DBMLH.png?ex=6636f93a&is=6635a7ba&hm=3410a473ea774e75e88f86027ad241245d5954cc4870c68966690eac737232e3&",
+            "group": "DRIPPIN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`DBMLH`"
+        }
+],
+    "DBMHY": [
+        {
+            "name": "**DRIPPIN** Hwang Yunseong",
+            "song": "Beautiful Maze",
+            "image": "https://cdn.discordapp.com/attachments/1234522676572196906/1234522827189649438/DBMHY.png?ex=6636f93a&is=6635a7ba&hm=749d10159ce9d3189d2057c6df4e60ed60a548794bcab0ad26edab7441b9d8a8&",
+            "group": "DRIPPIN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`DBMHY`"
+        }
+],
+    "DBMJC": [
+        {
+            "name": "**DRIPPIN** Joo Changuk",
+            "song": "Beautiful Maze",
+            "image": "https://cdn.discordapp.com/attachments/1234522676572196906/1234522827646963752/DBMJC.png?ex=6636f93a&is=6635a7ba&hm=d2524ccb89e04d6b360036f64dd6aeb21f998bc709a4b9dea5f043ba72fd7503&",
+            "group": "DRIPPIN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`DBMJC`"
+        }
+],
+    "DBMKD": [
+        {
+            "name": "**DRIPPIN** Kim Donghyun",
+            "song": "Beautiful Maze",
+            "image": "https://cdn.discordapp.com/attachments/1234522676572196906/1234522828041224192/DBMKD.png?ex=6636f93a&is=6635a7ba&hm=51d9741162cb9fcca9cc097b43ecfccfa13c815f310341fe8174b79da8fce3f8&",
+            "group": "DRIPPIN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`DBMKD`"
+        }
+],
+    "DBMKM": [
+        {
+            "name": "**DRIPPIN** Kim Minseo",
+            "song": "Beautiful Maze",
+            "image": "https://cdn.discordapp.com/attachments/1234522676572196906/1234522828502466651/DBMKM.png?ex=6636f93a&is=6635a7ba&hm=8804957a554e311c629f13da979a58e32b4c8d7ac202e5b43e14b8a11827e0e3&",
+            "group": "DRIPPIN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`DBMKM`"
+        }
+],
+    "DBMCJ": [
+        {
+            "name": "**DRIPPIN** Cha Junho",
+            "song": "Beautiful Maze",
+            "image": "https://cdn.discordapp.com/attachments/1234522676572196906/1234522828993466431/DBMCJ.png?ex=6636f93a&is=6635a7ba&hm=771630c25a873cbbdddddeb53e86f2665aed5ac9faaf4e5f8891b0a85a4e918f&",
+            "group": "DRIPPIN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`DBMCJ`"
+        }
+],
+    "HLKVC": [
+        {
+            "name": "**HORI7ON** VINCI",
+            "song": "LUCKY",
+            "image": "https://cdn.discordapp.com/attachments/1236247208295141446/1236247442987679878/HORI7ON_20240504172426.png?ex=663750a6&is=6635ff26&hm=863547dd201e6bb2da65ca88f0dba790da51116cd4a1e1c820f822c9e7bc90a7&",
+            "group": "HORI7ON",
+            "type": "K-POP BOY GROUPS",
+            "code": "`HLKVC`"
+        }
+],
+    "HLKKI": [
+        {
+            "name": "**HORI7ON** Kim",
+            "song": "LUCKY",
+            "image": "https://cdn.discordapp.com/attachments/1236247208295141446/1236247443402657864/HORI7ON_20240504172348.png?ex=663750a6&is=6635ff26&hm=39575914345f26d461df7928b93bcd8ca654e08b18606bf35997e0b5f1aed725&",
+            "group": "HORI7ON",
+            "type": "K-POP BOY GROUPS",
+            "code": "`HLKKI`"
+        }
+],
+    "HLKKL": [
+        {
+            "name": "**HORI7ON** Kyler",
+            "song": "LUCKY",
+            "image": "https://cdn.discordapp.com/attachments/1236247208295141446/1236247443738198016/HORI7ON_20240504172355.png?ex=663750a6&is=6635ff26&hm=90f46e5ad2ed6bd7572156da4472131a43567c85338cdd166427e866f6222f90&",
+            "group": "HORI7ON",
+            "type": "K-POP BOY GROUPS",
+            "code": "`HLKKL`"
+        }
+],
+    "HLKRS": [
+        {
+            "name": "**HORI7ON** Reyster",
+            "song": "LUCKY",
+            "image": "https://cdn.discordapp.com/attachments/1236247208295141446/1236247444074004480/HORI7ON_20240504172409.png?ex=663750a7&is=6635ff27&hm=e53de20208cf27513574b478559ae54ffe08cb818455a2657b384a0bf423169b&",
+            "group": "HORI7ON",
+            "type": "K-POP BOY GROUPS",
+            "code": "`HLKRS`"
+        }
+],
+    "HLKWS": [
+        {
+            "name": "**HORI7ON** Winston",
+            "song": "LUCKY",
+            "image": "https://cdn.discordapp.com/attachments/1236247208295141446/1236247444455428146/HORI7ON_20240504172420.png?ex=663750a7&is=6635ff27&hm=29566864beac4c6dce4501b60adb57b511584d80eeda03f49e1a9777eee5b59f&",
+            "group": "HORI7ON",
+            "type": "K-POP BOY GROUPS",
+            "code": "`HLKWS`"
+        }
+],
+    "HLKJR": [
+        {
+            "name": "**HORI7ON** Jeromy",
+            "song": "LUCKY",
+            "image": "https://cdn.discordapp.com/attachments/1236247208295141446/1236247444853882910/HORI7ON_20240504172402.png?ex=663750a7&is=6635ff27&hm=b8d69a0ca4f76c4336b253c0949a211d73b107628658c9e8f94432804abdefed&",
+            "group": "HORI7ON",
+            "type": "K-POP BOY GROUPS",
+            "code": "`HLKJR`"
+        }
+],
+    "HLKMC": [
+        {
+            "name": "**HORI7ON** Marcus",
+            "song": "LUCKY",
+            "image": "https://cdn.discordapp.com/attachments/1236247208295141446/1236247445198077962/HORI7ON_20240504172415.png?ex=663750a7&is=6635ff27&hm=4fe3e5df8c30432b3684e06c9e6346ba0b79b020556baa383bf461761c039ad1&",
+            "group": "HORI7ON",
+            "type": "K-POP BOY GROUPS",
+            "code": "`HLKMC`"
+        }
+],
+    "OMBJW": [
+        {
+            "name": "**ONE PACT** Jongwoo",
+            "song": "Must Be Nice",
+            "image": "https://cdn.discordapp.com/attachments/1234699105352290314/1234699305571586122/OMBJW.png?ex=6636f4d6&is=6635a356&hm=e6ff166e319716513b1064b7db636cb98a67f8f46e0b0ef3d868893f7c7ac6a4&",
+            "group": "ONE PACT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OMBJW`"
+        }
+],
+    "OMBJC": [
+        {
+            "name": "**ONE PACT** Jay Chang",
+            "song": "Must Be Nice",
+            "image": "https://cdn.discordapp.com/attachments/1234699105352290314/1234699305978302535/OMBJC.png?ex=6636f4d6&is=6635a356&hm=0d89d7ede1646acf534af9fec615142818fa4c8aad65bd0392ce0b9dd7d0d628&",
+            "group": "ONE PACT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OMBJC`"
+        }
+],
+    "OMBSM": [
+        {
+            "name": "**ONE PACT** Seongmin",
+            "song": "Must Be Nice",
+            "image": "https://cdn.discordapp.com/attachments/1234699105352290314/1234699306368368713/OMBSM.png?ex=6636f4d6&is=6635a356&hm=a0d0c001000d90bc7ddfb18ff1219fbafe6a89f748e2c9ca9e7ded5cba5656d1&",
+            "group": "ONE PACT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OMBSM`"
+        }
+],
+    "OMBTA": [
+        {
+            "name": "**ONE PACT** Tag",
+            "song": "Must Be Nice",
+            "image": "https://cdn.discordapp.com/attachments/1234699105352290314/1234699306871820409/OMBTA.png?ex=6636f4d6&is=6635a356&hm=9b375a802b7839ba29fcb48540172e5b8f7abe798dda5ead78045b841bf2b911&",
+            "group": "ONE PACT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OMBTA`"
+        }
+],
+    "OMBYD": [
+        {
+            "name": "**ONE PACT** Yedam",
+            "song": "Must Be Nice",
+            "image": "https://cdn.discordapp.com/attachments/1234699105352290314/1234699307278536724/OMBYD.png?ex=6636f4d6&is=6635a356&hm=03a1ef1d08623c81e6ec89e2ed93549fbd24573de67a04d0712bf61c28b9aa05&",
+            "group": "ONE PACT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OMBYD`"
+        }
+],
+    "RISST": [
+        {
+            "name": "**RIIZE** Shotaro",
+            "song": "Impossible",
+            "image": "https://cdn.discordapp.com/attachments/1234021369117671475/1234021564564115498/RISST.png?ex=663720a4&is=6635cf24&hm=dc0c5376e5f221c0bdbc3742b928db8eb3e2c45fc35cef046eb34512c77f9053&",
+            "group": "RIIZE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`RISST`"
+        }
+],
+    "RISES": [
+        {
+            "name": "**RIIZE** Eunseok",
+            "song": "Impossible",
+            "image": "https://cdn.discordapp.com/attachments/1234021369117671475/1234021566539497502/RISES.png?ex=663720a4&is=6635cf24&hm=f29314dc0591fd1b229762a58cba4cc3c07cf16d2a741ee9d87678b27848d415&",
+            "group": "RIIZE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`RISES`"
+        }
+],
+    "RISSC": [
+        {
+            "name": "**RIIZE** Sungchan",
+            "song": "Impossible",
+            "image": "https://cdn.discordapp.com/attachments/1234021369117671475/1234021565088141332/RISSC.png?ex=663720a4&is=6635cf24&hm=56af25d943b9056fe1edc89e6f49e4118142eeb66c06fecbecc0139829d4da24&",
+            "group": "RIIZE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`RISSC`"
+        }
+],
+    "RISWB": [
+        {
+            "name": "**RIIZE** Wonbin",
+            "song": "Impossible",
+            "image": "https://cdn.discordapp.com/attachments/1234021369117671475/1234021565562224660/RISWB.png?ex=663720a4&is=6635cf24&hm=24369f58ceea73d6b9f74afab00680a596be3f8972dc184f99b7c74e6a639c9b&",
+            "group": "RIIZE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`RISWB`"
+        }
+],
+    "RISSH": [
+        {
+            "name": "**RIIZE** Sohee",
+            "song": "Impossible",
+            "image": "https://cdn.discordapp.com/attachments/1234021369117671475/1234021566140911646/RISSH.png?ex=663720a4&is=6635cf24&hm=e7136efe32a512a73674e3ea05dca6af5c1a5e39135dab098936fc66a8ada4d7&",
+            "group": "RIIZE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`RISSH`"
+        }
+],
+    "RISAT": [
+        {
+            "name": "**RIIZE** Anton",
+            "song": "Impossible",
+            "image": "https://cdn.discordapp.com/attachments/1234021369117671475/1234021567017517097/RISAT.png?ex=663720a4&is=6635cf24&hm=6b94c69b7215b068db263d46427f455859329c4ea53790402038cf68208039a8&",
+            "group": "RIIZE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`RISAT`"
+        }
+],
+    "SHAON": [
+        {
+            "name": "**SHINee** Onew",
+            "song": "HARD",
+            "image": "https://cdn.discordapp.com/attachments/1235085514240036904/1235085579327373324/SHINee_20240501122759.png?ex=66370b14&is=6635b994&hm=a1c02a46bc05815cd22757e9e03f2eba32955f05ffcb88037caaf7d443ca1c40&",
+            "group": "SHINee",
+            "type": "K-POP BOY GROUPS",
+            "code": "`SHAON`"
+        }
+],
+    "SHAKE": [
+        {
+            "name": "**SHINee** Key",
+            "song": "HARD",
+            "image": "https://cdn.discordapp.com/attachments/1235085514240036904/1235085579662921778/SHINee_20240501122806.png?ex=66370b14&is=6635b994&hm=cb370ffa283465f4827af767083beed2bd95c28455dfe809dcfbd7ff5183ffdf&",
+            "group": "SHINee",
+            "type": "K-POP BOY GROUPS",
+            "code": "`SHAKE`"
+        }
+],
+    "SHAMH": [
+        {
+            "name": "**SHINee** Minho",
+            "song": "HARD",
+            "image": "https://cdn.discordapp.com/attachments/1235085514240036904/1235085579994267708/SHINee_20240501122813.png?ex=66370b15&is=6635b995&hm=ac5dc14273eff3bc9e34bcecc946059eed9ea202706cac787cef101f122ef180&",
+            "group": "SHINee",
+            "type": "K-POP BOY GROUPS",
+            "code": "`SHAMH`"
+        }
+],
+    "SHATM": [
+        {
+            "name": "**SHINee** Taemin",
+            "song": "HARD",
+            "image": "https://cdn.discordapp.com/attachments/1235085514240036904/1235085580304650252/SHINee_20240501122818.png?ex=66370b15&is=6635b995&hm=866ba57a7ad659c39d1b1593026cb853a7794f1f776dc1daf17deece1120aeec&",
+            "group": "SHINee",
+            "type": "K-POP BOY GROUPS",
+            "code": "`SHATM`"
+        }
     ]
 }
