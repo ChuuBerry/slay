@@ -4817,5 +4817,215 @@
             "type": "EVENTS",
             "code": "`SP24YS`"
         }
+    ],
+    "GIBN": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Bennett",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIBN`"
+        }
+    ],
+    "GIKY": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Kaeya",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIKY`"
+        }    
+    ],
+    "GICY": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Cyno",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GICY`"
+        }    
+    ],
+    "GITT": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Tartaglia",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GITT`"
+        }  
+    ],
+    "GIAI": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Arataki Itto",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIAI`"
+        }  
+    ],
+    "GIVT": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Venti",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIVT`"
+        } 
+    ],
+    "GIBZ": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Baizhu",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIBZ`"
+        } 
+    ],
+    "GIYF": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Yanfei",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIYF`"
+        }  
+    ],
+    "GIEL": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Eula",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIEL`"
+        }  
+    ],
+    "GIFR": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Furina",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIFR`"
+        }  
+    ],
+    "GIYM": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Yae Miko",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIYM`"
+        }  
+    ],
+    "GINV": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Navia",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GINV`"
+        }
+    ],
+    "GIJE": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Jean",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIJE`"
+        } 
+    ],
+    "GICL": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Collei",
+            "song": "Genshin Impact",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GICL`"
+        }  
+    ],
+    "GIDL": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Diluc",
+            "song": "Genshin Impact Boostie Exclusive",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIDL`"
+        }    
+    ],
+    "GIKA": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Kamisato Ayaka",
+            "song": "Genshin Impact Boostie Exclusive",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIKA`"
+        } 
+    ],
+    "GINE": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Nuevillette",
+            "song": "Genshin Impact Boostie Exclusive",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GINE`"
+        }   
+    ],
+    "GIRS": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Raiden Shogun",
+            "song": "Genshin Impact Boostie Exclusive",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIRS`"
+        }   
+    ],
+    "GIZL": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Zhongli",
+            "song": "Genshin Impact Boostie Exclusive",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GIZL`"
+        }    
+    ],
+    "GISC": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Scaramouche",
+            "song": "Genshin Impact Boostie Exclusive",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GISC`"
+        }      
+    ],
+    "GINH": [
+        {
+            "name": "<:genshinimpact:1241390414783844363> **Genshin Impact** Nahida",
+            "song": "Genshin Impact Boostie Exclusive",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GINH`"
+        }        
     ]
 }
