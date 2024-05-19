@@ -4838,14 +4838,14 @@
             "code": "`GIKY`"
         }    
     ],
-    "GICY": [
+    "GICN": [
         {
             "name": "<:genshinimpact:1241390414783844363> Cyno",
             "song": "Genshin Impact",
             "image": "https://media.discordapp.net/attachments/1239904592142139402/1239913146978795530/genshin_20240514200335.png?ex=6649ec9a&is=66489b1a&hm=d45e96c9a6283498455ff633c7192bb84d283eda05ad7ee91a1336279b7391f5&",
             "group": "Event",
             "type": "EVENTS",
-            "code": "`GICY`"
+            "code": "`GICN`"
         }    
     ],
     "GITT": [
@@ -5008,14 +5008,14 @@
             "code": "`GIZL`"
         }    
     ],
-    "GISC": [
+    "GISR": [
         {
             "name": "<:genshinimpact:1241390414783844363> Scaramouche",
             "song": "Genshin Impact Boostie Exclusive",
             "image": "https://media.discordapp.net/attachments/1239904592142139402/1239913249684717578/genshin_20240514200803.png?ex=6649ecb3&is=66489b33&hm=3576387a0ecc608aad4399f2d868d0a6c9fc62fb585876f9dae5adfd37562372&",
             "group": "Event",
             "type": "EVENTS",
-            "code": "`GISC`"
+            "code": "`GISR`"
         }      
     ],
     "GINH": [
