@@ -5008,14 +5008,14 @@
             "code": "`GIZL`"
         }    
     ],
-    "GISR": [
+    "GIWD": [
         {
-            "name": "<:genshinimpact:1241390414783844363> Scaramouche",
+            "name": "<:genshinimpact:1241390414783844363> Wanderer",
             "song": "Genshin Impact Boostie Exclusive",
             "image": "https://media.discordapp.net/attachments/1239904592142139402/1239913249684717578/genshin_20240514200803.png?ex=6649ecb3&is=66489b33&hm=3576387a0ecc608aad4399f2d868d0a6c9fc62fb585876f9dae5adfd37562372&",
             "group": "Event",
             "type": "EVENTS",
-            "code": "`GISR`"
+            "code": "`GIWD`"
         }      
     ],
     "GINH": [
