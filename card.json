@@ -5026,6 +5026,626 @@
             "group": "Event",
             "type": "EVENTS",
             "code": "`GINH`"
-        }        
+        }
+],
+    "IMNYA": [
+        {
+            "name": "**ILLIT** Yunah",
+            "song": "Magnetic",
+            "image": "https://cdn.discordapp.com/attachments/1243000706273902642/1243000847286403132/IMNYA.png?ex=66508aff&is=664f397f&hm=997f82b38897cd6c3bb761036c450fc76157c75d75c575143a10c96d06f0d3ae&",
+            "group": "ILLIT",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IMNYA`"
+        }  
+],
+    "IMNMJ": [
+        {
+            "name": "**ILLIT** Minju",
+            "song": "Magnetic",
+            "image": "https://cdn.discordapp.com/attachments/1243000706273902642/1243000847982530641/IMNMJ.png?ex=66508aff&is=664f397f&hm=75f619f973e1555459c5f26384c3055c64a2c45c2c6d0bb90ac989920f60cdad&",
+            "group": "ILLIT",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IMNMJ`"
+        }  
+],
+    "IMNMK": [
+        {
+            "name": "**ILLIT** Moka",
+            "song": "Magnetic",
+            "image": "https://cdn.discordapp.com/attachments/1243000706273902642/1243000849006071860/IMNWH.png?ex=66508b00&is=664f3980&hm=b179bc14a3f0834f0dcd1d45a69e6aa9ce3630dc43d4da1fdc544996c1227385&",
+            "group": "ILLIT",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IMNMK`"
+        }  
+],
+    "IMNWH": [
+        {
+            "name": "**ILLIT** Wonhee",
+            "song": "Magnetic",
+            "image": "https://cdn.discordapp.com/attachments/1243000706273902642/1243000849006071860/IMNWH.png?ex=66508b00&is=664f3980&hm=b179bc14a3f0834f0dcd1d45a69e6aa9ce3630dc43d4da1fdc544996c1227385&",
+            "group": "ILLIT",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IMNWH`"
+        }  
+],
+    "IMNIR": [
+        {
+            "name": "**ILLIT** Iroha",
+            "song": "Magnetic",
+            "image": "https://cdn.discordapp.com/attachments/1243000706273902642/1243000849454858290/IMNIR.png?ex=66508b00&is=664f3980&hm=54685f4691584790e1aa5f711afb303752a1c8d5bc72cdb765bd292a0bf39486&",
+            "group": "ILLIT",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IMNIR`"
+        }
+],
+    "LGNVV": [
+        {
+            "name": "**LOOSSEMBLE** Vivi",
+            "song": "Girls' Night",
+            "image": "https://cdn.discordapp.com/attachments/1243034943492198493/1243035092516081704/LGNVV.png?ex=6650aae4&is=664f5964&hm=106e071292deb4f99d10e1f5646497ae880aa90cdf6e1e8f0397b41e96f52c38&",
+            "group": "LOOSSEMBLE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`LGNVV`"
+        }  
+],
+    "LGNHJ": [
+        {
+            "name": "**LOOSSEMBLE** Hyunjin",
+            "song": "Girls' Night",
+            "image": "https://cdn.discordapp.com/attachments/1243034943492198493/1243035092939702282/LGNHJ.png?ex=6650aae4&is=664f5964&hm=95f7662729bbd47a0b6a8eaf4245e8ed6ebafdee4d09f36f1ccafb51bbc5c544&",
+            "group": "LOOSSEMBLE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`LGNHJ`"
+        }
+],
+    "LGNGW": [
+        {
+            "name": "**LOOSSEMBLE** Gowon",
+            "song": "Girls' Night",
+            "image": "https://cdn.discordapp.com/attachments/1243034943492198493/1243035093639888926/LGNGW.png?ex=6650aae4&is=664f5964&hm=a3b38b7d56b7c67602f0de3962367af08378492ed43feb7000cae9697237f525&",
+            "group": "LOOSSEMBLE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`LGNGW`"
+        }
+],
+    "LGNHY": [
+        {
+            "name": "**LOOSSEMBLE** Hyeju",
+            "song": "Girls' Night",
+            "image": "https://cdn.discordapp.com/attachments/1243034943492198493/1243035094294335498/LGNHY.png?ex=6650aae4&is=664f5964&hm=0c0ccf50c15579800331e533bbe8e1d42028113bb84d541558748eaeb8f46628&",
+            "group": "LOOSSEMBLE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`LGNHY`"
+        }
+],
+    "LGNYJ": [
+        {
+            "name": "**LOOSSEMBLE** Yeojin",
+            "song": "Girls' Night",
+            "image": "https://cdn.discordapp.com/attachments/1243034943492198493/1243035094705373295/LGNYJ.png?ex=6650aae5&is=664f5965&hm=6e57734cdc003d9b0a2045774b3f5c3b400715f1d0b6a569f6d390fae3ae7162&",
+            "group": "LOOSSEMBLE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`LGNYJ`"
+        }
+],
+    "MCLCC": [
+        {
+            "name": "**ME:I** Cocoro",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747336381534279/MCLCC.png?ex=6650926e&is=664f40ee&hm=296f53591f381c526c02bf3fe812033dcb5e6a2b29ec44a6a0e643ae40b6b08c&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLCC`"
+        }
+],
+    "MCLMU": [
+        {
+            "name": "**ME:I** Miu",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747336876331078/MCLMU.png?ex=6650926e&is=664f40ee&hm=7b55754115ca7fa84754d3fa56da379f75de82c159b881299f9528912a8e25e6&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLMU`"
+        }
+],
+    "MCLMM": [
+        {
+            "name": "**ME:I** Momona",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747337514123395/MCLMM.png?ex=6650926e&is=664f40ee&hm=85da22b2f0b5f555746f28bf52edf25ccbc3fd6f07b2a00f2ffd57f4b0c031ff&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLMM`"
+        }
+],
+    "MCLRA": [
+        {
+            "name": "**ME:I** Ran",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747338185084978/MCLRA.png?ex=6650926e&is=664f40ee&hm=5ac84170c55776d52bc970b36733a1e7c246504b20f8fe563b6ed03a0ef289b7&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLRA`"
+        }
+],
+    "MCLSK": [
+        {
+            "name": "**ME:I** Shizuku",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747338919215144/MCLSK.png?ex=6650926e&is=664f40ee&hm=ae314da5c86206c02e33feed755823d172352d5fd7d6ed9ad1a29a1c48ee6060&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLSK`"
+        }
+],
+    "MCLAY": [
+        {
+            "name": "**ME:I** Ayane",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747339338518538/MCLAY.png?ex=6650926f&is=664f40ef&hm=7837bb6c3cef0fd06cc668ccee3b3990f78da83866f993f5c7ca326b0a692494&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLAY`"
+        }
+],
+    "MCLKK": [
+        {
+            "name": "**ME:I** Keiko",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747476852838421/MCLKK.png?ex=6650928f&is=664f410f&hm=0e56a3c57e79746e3c39fef6d4100136bcecef417e3e9f6f1bc4fab21f579b7b&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLKK`"
+        }
+],
+    "MCLKN": [
+        {
+            "name": "**ME:I** Kokona",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747477280919652/MCLKN.png?ex=6650928f&is=664f410f&hm=9f55cf4a38e9ca82202d4110fcc04cf6367a3deb76cca1e17496ca391243fb00&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLKN`"
+        }
+],
+    "MCLRN": [
+        {
+            "name": "**ME:I** Rinon",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747477783973981/MCLRN.png?ex=66509290&is=664f4110&hm=05ac9e29e5c4eacc8984f5bf116f49ad9ab1ad1b6b612636fe12f8e44c6ea3f2&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLRN`"
+        }
+],
+    "MCLSZ": [
+        {
+            "name": "**ME:I** Suzu",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747478711177216/MCLSZ.png?ex=66509290&is=664f4110&hm=2e288880be2c9e6e3d79ba347e8df370b217a23e39a4b277a175d379010c570b&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLSZ`"
+        }
+],
+    "MCLTZ": [
+        {
+            "name": "**ME:I** Tsuzumi",
+            "song": "Click",
+            "image": "https://cdn.discordapp.com/attachments/1239747181729153066/1239747479226814575/MCLTZ.png?ex=66509290&is=664f4110&hm=9f8d48b83d1191c6f62101859ef0450a56ce00b292d3e122c6a1c71fbbe168a3&",
+            "group": "ME:I",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MCLTZ`"
+        }
+],
+    "YXXSH": [
+        {
+            "name": "**YOUNG POSSE** Sunhye",
+            "song": "XXL",
+            "image": "https://cdn.discordapp.com/attachments/1240282322453135411/1240282442921807893/YXXSH.png?ex=66508a89&is=664f3909&hm=f2a2bf89d0794d2d31e6b9f4ac7e1d009d6a40954ac0e84f77b76f042db5ec55&",
+            "group": "YOUNGPOSSE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`YXXSH`"
+        }
+],
+    "YXXYJ": [
+        {
+            "name": "**YOUNG POSSE** Yeonjung",
+            "song": "XXL",
+            "image": "https://cdn.discordapp.com/attachments/1240282322453135411/1240282443395895296/YXXYJ.png?ex=66508a89&is=664f3909&hm=ca8d3a7a9d85417aecb0dcdd05354e2e2955c8c68c20da321bebe9e73e7ede46&",
+            "group": "YOUNGPOSSE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`YXXYJ`"
+        }
+],
+    "YXXJA": [
+        {
+            "name": "**YOUNG POSSE** Jiana",
+            "song": "XXL",
+            "image": "https://cdn.discordapp.com/attachments/1240282322453135411/1240282443781767198/YXXJA.png?ex=66508a89&is=664f3909&hm=529d4fe1f02378f79619d7ff89d51c9752ed3126ce792eb008375d7a5376c524&",
+            "group": "YOUNGPOSSE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`YXXJA`"
+        }
+],
+    "YXXDE": [
+        {
+            "name": "**YOUNG POSSE** Doeun",
+            "song": "XXL",
+            "image": "https://cdn.discordapp.com/attachments/1240282322453135411/1240282444213653604/YXXDE.png?ex=66508a8a&is=664f390a&hm=f1846774a73c076b934e7e185487f438121f843219cf01aae0bb087661ecfd7f&",
+            "group": "YOUNGPOSSE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`YXXDE`"
+        }
+],
+    "YXXJE": [
+        {
+            "name": "**YOUNG POSSE** Jieun",
+            "song": "XXL",
+            "image": "https://cdn.discordapp.com/attachments/1240282322453135411/1240282444775821485/YXXJE.png?ex=66508a8a&is=664f390a&hm=ac8626aeffa5c203a83ccd34c29b205bd125a750613faece4d8418bef8053729&",
+            "group": "YOUNGPOSSE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`YXXJE`"
+        }
+],
+    "EY2WI": [
+        {
+            "name": "**EPEX** Wish",
+            "song": "Youth2Youth",
+            "image": "https://cdn.discordapp.com/attachments/1239758439693942805/1239758681831379006/EY2WI.png?ex=66509cff&is=664f4b7f&hm=f9c3b849e16ca4bf6959d713d7141ed2673c4768ab2b90a71eb3303175b1681c&",
+            "group": "ILLIT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EY2WI`"
+        }
+],
+    "EY2KE": [
+        {
+            "name": "**EPEX** Keum",
+            "song": "Youth2Youth",
+            "image": "https://cdn.discordapp.com/attachments/1239758439693942805/1239758682292486278/EY2KE.png?ex=66509cff&is=664f4b7f&hm=f007abe79ace01cb557d7d74ca4b7761a6cc1cda41c205f7205b3504be8de18a&",
+            "group": "ILLIT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EY2KE`"
+        }
+],
+    "EY2MU": [
+        {
+            "name": "**EPEX** Mu",
+            "song": "Youth2Youth",
+            "image": "https://cdn.discordapp.com/attachments/1239758439693942805/1239758682695143446/EY2MU.png?ex=66509cff&is=664f4b7f&hm=d928145b10c33eb98eb057046c68fe4ff382ec7e032553118d114056f10e69b3&",
+            "group": "ILLIT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EY2MU`"
+        }
+],
+    "EY2AM": [
+        {
+            "name": "**EPEX** A-Min",
+            "song": "Youth2Youth",
+            "image": "https://cdn.discordapp.com/attachments/1239758439693942805/1239758683160973322/EY2AM.png?ex=66509cff&is=664f4b7f&hm=10c7dc244932cafb6bb639ea89cc0d68eb2e628b58861ceebd1fe93126ab2c04&",
+            "group": "ILLIT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EY2AM`"
+        }
+],
+    "EY2BS": [
+        {
+            "name": "**EPEX** Baekseung",
+            "song": "Youth2Youth",
+            "image": "https://cdn.discordapp.com/attachments/1239758439693942805/1239758683664027668/EY2BS.png?ex=66509cff&is=664f4b7f&hm=b628b2263abcfef5ced7ccca126b39548345e2a2ca86bd7281d901bd43177660&",
+            "group": "ILLIT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EY2BS`"
+        }
+],
+    "EY2AD": [
+        {
+            "name": "**EPEX** Ayden",
+            "song": "Youth2Youth",
+            "image": "https://cdn.discordapp.com/attachments/1239758439693942805/1239758684200894565/EY2AD.png?ex=66509cff&is=664f4b7f&hm=29f3fe882b0e2a99593b54c17abdc9397955d23a26c1f12cd767b6423f05a5cd&",
+            "group": "ILLIT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EY2AD`"
+        }
+],
+    "EY2YW": [
+        {
+            "name": "**EPEX** Yewang",
+            "song": "Youth2Youth",
+            "image": "https://cdn.discordapp.com/attachments/1239758439693942805/1239758684653883412/EY2YW.png?ex=66509d00&is=664f4b80&hm=4a3a30516e05f4a117eb365faa0ab43fbb0921003c10a1be19a817a883dd7609&",
+            "group": "ILLIT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EY2YW`"
+        }
+],
+    "EY2JE": [
+        {
+            "name": "**EPEX** Jeff",
+            "song": "Youth2Youth",
+            "image": "https://cdn.discordapp.com/attachments/1239758439693942805/1239758685245542410/EY2JE.png?ex=66509d00&is=664f4b80&hm=3fd7910e5680cb55ba480264a744eb94226de41fadfc393bb3a61aae6eab11df&",
+            "group": "ILLIT",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EY2JE`"
+        }
+],
+    "EULKT": [
+        {
+            "name": "**EVNNE** Keita",
+            "song": "Ugly",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1242986613051621456/EULKT.png?ex=66507dbe&is=664f2c3e&hm=80853b2e7574ad70df37a70e0304421e789be806fed9496d2fbeb42af20a268f&",
+            "group": "EVNNE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EULKT`"
+        }
+],
+    "EULPH": [
+        {
+            "name": "**EVNNE** Park Hanbin",
+            "song": "Ugly",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1242986613760589934/EULPH.png?ex=66507dbe&is=664f2c3e&hm=7af029e623c42e5f8f3e15f32ef5568f73f063c8f22edc620e634674914b8d00&",
+            "group": "EVNNE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EULPH`"
+        }
+],
+    "EULLJ": [
+        {
+            "name": "**EVNNE** Lee Jeonghyeon",
+            "song": "Ugly",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1242986614427353129/EULLJ.png?ex=66507dbe&is=664f2c3e&hm=17449d3605822a280d98b012f312b314cbdde5c45644d8dc7c97a8a73abcc50a&",
+            "group": "EVNNE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EULLJ`"
+        }
+],
+    "EULYS": [
+        {
+            "name": "**EVNNE** Yoo Seungeon",
+            "song": "Ugly",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1242986615077601360/EULYS.png?ex=66507dbe&is=664f2c3e&hm=5f71371a59fdd3c0de83263106a4b988408e7e9bd842ecd70a16ee39e1edc88f&",
+            "group": "EVNNE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EULYS`"
+        }
+],
+    "EULJY": [
+        {
+            "name": "**EVNNE** Ji Yunseo",
+            "song": "Ugly",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1242986615589175430/EULJY.png?ex=66507dbe&is=664f2c3e&hm=2a454534060ec4a56a6cdb6a41e36793e1798fec6eb057ed9402e936f2a37009&",
+            "group": "EVNNE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EULJY`"
+        }
+],
+    "EULMJ": [
+        {
+            "name": "**EVNNE** Mun Junghyun",
+            "song": "Ugly",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1242986616121856040/EULMJ.png?ex=66507dbe&is=664f2c3e&hm=746e398c39241cb0e1c15979c2948d808bbb5a2d58c6132b7e2116882a88a9d8&",
+            "group": "EVNNE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EULMJ`"
+        }
+],
+    "EULPJ": [
+        {
+            "name": "**EVNNE** Park Jihoo",
+            "song": "Ugly",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1242986616683888671/EULPJ.png?ex=66507dbe&is=664f2c3e&hm=352e6fde0d292b18233c0226a359e3dc4da8ef57843401733677b8f4e365059d&",
+            "group": "EVNNE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EULPJ`"
+        }
+],
+    "JLSYS": [
+        {
+            "name": "**JO1** Yonashiro Sho",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241163853862146128/JLSYS.png?ex=665073aa&is=664f222a&hm=734fc2c65220e9d7ad9efd5a7ab18454d653cf2ef0bb25cab0e59dba0d437b44&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSYS`"
+        }
+],
+    "JLSKR": [
+        {
+            "name": "**JO1** Kawashiri Ren",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241163854327709756/JLSKR.png?ex=665073aa&is=664f222a&hm=97d2c5745e46eb7bf2e111a7ebd45e3bdbfbc1a2bc2c2f147ce4b31a8ead4f40&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSKR`"
+        }  
+],
+    "JLSSR": [
+        {
+            "name": "**JO1** Shiroiwa Ruki",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241163854814122004/JLSSR.png?ex=665073aa&is=664f222a&hm=5a9b707ff2856d00aeb29b8c2ed8c77502034dfbbfa31516920c298d8da1b8c4&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSSR`"
+        }  
+],
+    "JLSKJ": [
+        {
+            "name": "**JO1** Kono Junki",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241163855267233875/JLSKJ.png?ex=665073aa&is=664f222a&hm=0490ea93648de2edcf2ac3c2e24f4233f0ec35abeb533e3bb0e84aabe70df64e&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSKJ`"
+        }  
+],
+    "JLSSK": [
+        {
+            "name": "**JO1** Sato Keigo",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241163855892189256/JLSSK.png?ex=665073aa&is=664f222a&hm=4d5a45089299a379a27d1b3fc6e70663982bc319940fbedf361b40efde78ab03&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSKS`"
+        }  
+],
+    "JLSKT": [
+        {
+            "name": "**JO1** Kawanishi Takumi",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241163856307294330/JLSKT.png?ex=665073ab&is=664f222b&hm=92367cdc39048387583d9f30a80581165450db221f425ba5f872d3e13757f51a&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSKT`"
+        }  
+],
+    "JLSKS": [
+        {
+            "name": "**JO1** Kimata Syoya",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241164064634441758/JLSKS.png?ex=665073dc&is=664f225c&hm=c4eba2d2e1f2c07992bfb3bf70699b78a9f909555d2d74b66705d1d42af2232f&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSKS`"
+        }  
+],
+    "JLSOS": [
+        {
+            "name": "**JO1** Ohira Shosei",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241164065053605948/JLSOS.png?ex=665073dc&is=664f225c&hm=ff79b89140bf3de5bd426fcaa92def121eaed846b28ce6700b86f069442ee7f3&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSOS`"
+        }  
+],
+    "JLSJS": [
+        {
+            "name": "**JO1** Kinjo Sukai",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241164065447874620/JLSJS.png?ex=665073dc&is=664f225c&hm=6fb493e1caae7e5c711ad79ef0586390144247f967f0f55ee3f507f3958e02fd&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSJS`"
+        }  
+],
+    "JLSTS": [
+        {
+            "name": "**JO1** Tsurubo Shion",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241164065880150126/JLSTS.png?ex=665073dd&is=664f225d&hm=3ac7b7612cf650d510dc6676714736dc8143c78fbca7fecf69f638a5643f4663&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSTS`"
+        }  
+],
+    "JLSMI": [
+        {
+            "name": "**JO1** Mamehara Issei",
+            "song": "Love Seeker",
+            "image": "https://cdn.discordapp.com/attachments/1241034234794217504/1241164066425143416/JLSMI.png?ex=665073dd&is=664f225d&hm=1880a3616567a6b9a84c854f3c1b159074eb31b494ea531cd193445ac336bb81&",
+            "group": "JO1",
+            "type": "K-POP BOY GROUPS",
+            "code": "`JLSMI`"
+        }
+],
+    "NWISO": [
+        {
+            "name": "**NCT WISH** Sion",
+            "song": "WISH",
+            "image": "https://cdn.discordapp.com/attachments/1243019917972734045/1243020051599065128/NWISO.png?ex=66509ce2&is=664f4b62&hm=ab6d9d9ced8a3f4c13934b9a187840c0dfa0e109346e2fa094d1dbcf25615130&",
+            "group": "NCT WISH",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWISO`"
+        } 
+],
+    "NWIRK": [
+        {
+            "name": "**NCT WISH** Riku",
+            "song": "WISH",
+            "image": "https://cdn.discordapp.com/attachments/1243019917972734045/1243020056624107581/NWIRK.png?ex=66509ce3&is=664f4b63&hm=fce40c7184139ac2b486b608df9662884b4b9dc23c4bb192aeb90bfae0f612f5&",
+            "group": "NCT WISH",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWIRK`"
+        } 
+],
+    "NWIYS": [
+        {
+            "name": "**NCT WISH** Yushi",
+            "song": "WISH",
+            "image": "https://cdn.discordapp.com/attachments/1243019917972734045/1243020057102123078/NWIYS.png?ex=66509ce3&is=664f4b63&hm=cc539f835632a2d56bab5de4c10c07309d52a4bc6a8dd1474d25fb89aed23900&",
+            "group": "NCT WISH",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWIYS`"
+        } 
+],
+    "NWIJE": [
+        {
+            "name": "**NCT WISH** Jaehee",
+            "song": "WISH",
+            "image": "https://cdn.discordapp.com/attachments/1243019917972734045/1243020057651445941/NWIJE.png?ex=66509ce3&is=664f4b63&hm=89fe2d1f9c5755b7b6e449b0aec23c776598d1baedf0c7dfd022e26b9b4e090c&",
+            "group": "NCT WISH",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWIJE`"
+        } 
+],
+    "NWIRY": [
+        {
+            "name": "**NCT WISH** Ryo",
+            "song": "WISH",
+            "image": "https://cdn.discordapp.com/attachments/1243019917972734045/1243020058045841448/NWIRY.png?ex=66509ce4&is=664f4b64&hm=86ac8a76f300a00f8bb922ada30e093578e695884abb007b3cc47635829ca2a7&",
+            "group": "NCT WISH",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWIRY`"
+        } 
+],
+    "NWISK": [
+        {
+            "name": "**NCT WISH** Sakuya",
+            "song": "WISH",
+            "image": "https://cdn.discordapp.com/attachments/1243019917972734045/1243020059127840788/NWISK.png?ex=66509ce4&is=664f4b64&hm=579c5a359eeafdabd477cec4adfeb3d7354734bbd104d4465b555b27c5f1de76&",
+            "group": "NCT WISH",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWISK`"
+        }
+],
+    "FLYH": [
+        {
+            "name": "**Soloist** Youha",
+            "song": "Flight",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1243074888189612132/FLYH.png?ex=6650cff4&is=664f7e74&hm=54a780268df84d0af0004e0d42e18208b0c48efeda9e37168397e3f79bee8c96&",
+            "group": "soloist",
+            "type": "K-POP Soloist",
+            "code": "`FLYH`"
+        }
+],
+    "BWOL": [
+        {
+            "name": "**Soloist** ONLEE",
+            "song": "Be With You",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1243093628327559210/BWOL.png?ex=6650e168&is=664f8fe8&hm=bccf927f4963f8626245c5d24006d08d639b5d93cc0b85180a3d18bde4282716&",
+            "group": "soloist",
+            "type": "K-POP Soloist",
+            "code": "`BWOL`"
+        }
+],
+    "RDKU": [
+        {
+            "name": "**Soloist** KUN",
+            "song": "Ride or Die",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1243114236897529917/RDKU.png?ex=6650f49a&is=664fa31a&hm=76b04891d714180d605737c8b35e046304b715c06ffcf68cc03c0120261ad2c8&",
+            "group": "soloist",
+            "type": "K-POP Soloist",
+            "code": "`RDKU`"
+        }
+],
+    "NASO": [
+        {
+            "name": "**Soloist** Sorn",
+            "song": "Not A Friend",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1243313837239697458/NASO.png?ex=665105be&is=664fb43e&hm=93945bca5cfac327a8ec07c532aa0ccc457f7e8acaa38a490879a1dc83a6d83b&",
+            "group": "soloist",
+            "type": "K-POP Soloist",
+            "code": "`NASO`"
+        }           
     ]
 }
