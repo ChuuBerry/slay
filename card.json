@@ -5646,6 +5646,206 @@
             "group": "soloist",
             "type": "K-POP Soloist",
             "code": "`NASO`"
-        }           
+        }      
+  ],
+    "SVMDN": [
+        {
+            "name": "**SEVENTEEN** Dino",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`SVMDN`"
+        }   
+ ],
+    "SVMEG": [
+        {
+            "name": "**SUPERKIND** Eugene",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`SVMEG`"
+        }  
+   ],
+    "NVMHB": [
+        {
+            "name": "**NOWADAYS** Hyeonbin",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`NVMHB`"
+        }    
+    ],
+    "JVMJS": [
+        {
+            "name": "**JO1** Kinjo Sukai",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`JVMJS`"
+        }    
+    ],
+    "AVMSH": [
+        {
+            "name": "**ATBO** Seunghwan",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`AVMSH`"
+        }    
+    ],
+    "VVMYS": [
+        {
+            "name": "**VERIVERY** Yongseung",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VVMYS`"
+        }  
+    ],
+    "EVMYG": [
+        {
+            "name": "**8TURN** Yungyu",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`EVMYG`"
+        }   
+    ],
+    "PVMCI": [
+        {
+            "name": "**PURPLE KISS** Chaein",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`PVMCI`"
+        }    
+    ],
+    "UVMGL": [
+        {
+            "name": "**UNIS** Gehlee",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`UVMGL`"
+        } 
+     ],
+    "NVMHR": [
+        {
+            "name": "**NewJeans** Haerin",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`NVMHR`"
+        } 
+    ],
+    "AVMHJ": [
+        {
+            "name": "**ARTMS** Heejin",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`AVMHJ`"
+        }    
+    ],
+    "DVMJU": [
+        {
+            "name": "**DREAMCATCHER** JiU",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`DVMJU`"
+        }   
+    ],
+    "DVMMS": [
+        {
+            "name": "**DREAMNOTE** Miso",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`DVMMS`"
+        }   
+    ],
+    "TVMSM": [
+        {
+            "name": "**TripleS** Soomin",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`TVMSM`"
+        }    
+    ],
+    "NVMMA": [
+        {
+            "name": "**NCT** Mark",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`NVMMA`"
+        }  
+     ],
+    "NVMJH": [
+        {
+            "name": "**NOMAD** Junho",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`NVMJH`"
+        } 
+     ],
+    "TVMLE": [
+        {
+            "name": "**TEMPEST** Lew",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`TVMLE`"
+        }   
+    ],
+    "XVMJR": [
+        {
+            "name": "**XG** Jurin",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`XVMJR`"
+        } 
+    ],
+    "WVMSA": [
+        {
+            "name": "**WJSN** SeolA",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`WVMSA`"
+        }  
+    ],
+    "GVMYQ": [
+        {
+            "name": "**(G)I-DLE** Yuqi",
+            "song": "VIRTUAL MSFT",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`GVMYQ`"
+        }    
     ]
 }
