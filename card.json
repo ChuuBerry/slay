@@ -5791,7 +5791,7 @@
     "NVMMA": [
         {
             "name": "**NCT** Mark",
-            "song": "VIRTUAL MSFT",
+            "song": "VIRTUAL MSFT Boostie Exclusive",
             "image": "https://media.discordapp.net/attachments/1242052805515018270/1243049120407752834/NVMMR.png?ex=665160b5&is=66500f35&hm=8e2727e9f8642704f691d68965c9597c1f065152ddec8d58bf214b15b6678aea&",
             "group": "Event",
             "type": "EVENTS",
@@ -5801,7 +5801,7 @@
     "NVMJH": [
         {
             "name": "**NOMAD** Junho",
-            "song": "VIRTUAL MSFT",
+            "song": "VIRTUAL MSFT Boostie Exclusive",
             "image": "https://media.discordapp.net/attachments/1242052805515018270/1242491036886896731/NVMJH.png?ex=66515333&is=665001b3&hm=a9051678b6f487f72158ed33aba6956bf2e332f734011a59dfa978bbd8f7a971&",
             "group": "Event",
             "type": "EVENTS",
@@ -5811,7 +5811,7 @@
     "TVMLE": [
         {
             "name": "**TEMPEST** Lew",
-            "song": "VIRTUAL MSFT",
+            "song": "VIRTUAL MSFT Boostie Exclusi e",
             "image": "https://media.discordapp.net/attachments/1242052805515018270/1243178351095578757/TVMLE.png?ex=66513050&is=664fded0&hm=cc1f521381ac4786d86cb14593e6a1b8a4ffea22ae99346caae85b527e5e4b01&",
             "group": "Event",
             "type": "EVENTS",
@@ -5821,7 +5821,7 @@
     "XVMJR": [
         {
             "name": "**XG** Jurin",
-            "song": "VIRTUAL MSFT",
+            "song": "VIRTUAL MSFT Boostie Exclusive",
             "image": "https://media.discordapp.net/attachments/1242052805515018270/1242957507685515304/XVMJR.png?ex=6651b422&is=665062a2&hm=92680478906ba2d3f7e7f1bfea65105dd50098eb3451f7cab93383ed746610f1&",
             "group": "Event",
             "type": "EVENTS",
@@ -5831,7 +5831,7 @@
     "WVMSA": [
         {
             "name": "**WJSN** SeolA",
-            "song": "VIRTUAL MSFT",
+            "song": "VIRTUAL MSFT Boostie Exclusive",
             "image": "https://media.discordapp.net/attachments/1242052805515018270/1243178380749307967/WVMSA.png?ex=66513057&is=664fded7&hm=4d0ab4a701a83361b954abed4ddf1d2a303da3af80dc72e2809bdb61a9d977c2&",
             "group": "Event",
             "type": "EVENTS",
@@ -5841,11 +5841,31 @@
     "GVMYQ": [
         {
             "name": "**(G)I-DLE** Yuqi",
-            "song": "VIRTUAL MSFT",
+            "song": "VIRTUAL MSFT Boostie Exclusive",
             "image": "https://media.discordapp.net/attachments/1242052805515018270/1242087238683197543/GVMYQ.png?ex=66512ca2&is=664fdb22&hm=06409a3e5c04f13e3b774ed506c866f8463a83f7b8b55402b4279bfabb56d138&",
             "group": "Event",
             "type": "EVENTS",
             "code": "`GVMYQ`"
+        }    
+    ],
+    "TVMER": [
+        {
+            "name": "**THE BOYZ** Eric",
+            "song": "VIRTUAL MSFT",
+            "image": "https://media.discordapp.net/attachments/1242052805515018270/1243548162313031752/TVMER.png?ex=6651dff9&is=66508e79&hm=90d3afedb6651d374e705a8e8072148ee9620dd994f036b742c97688f73eedad&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`TVMER`"
+        }    
+    ],
+    "EVMYR": [
+        {
+            "name": "**EVERGLOW** Yiren",
+            "song": "VIRTUAL MSFT",
+            "image": "https://media.discordapp.net/attachments/1242052805515018270/1243548142394409053/EVMYR.png?ex=6651dff5&is=66508e75&hm=be71c87d190f16f2bb404bd0aef0d2ef9f5264e382ec9385789df14a73c0e9e6&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`EVMYR`"
         }    
     ]
 }
