@@ -5867,5 +5867,225 @@
             "type": "EVENTS",
             "code": "`EVMYR`"
         }    
+    ],
+    "NDCJM": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **NCT** Jaemin",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`NDCJM`"
+        }      
+    ],
+    "WDCJS": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **WEi** Junseo",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`WDCJS`"
+        }    
+    ],
+    "BDCLH": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **BOYNEXTDOOR** Leehan",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`BDCLH`"
+        } 
+    ],
+    "HDCMC": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **HORI7ON** Marcus",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`HDCMC`"
+        }    
+    ],
+    "ADCMG": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **ATEEZ** Mingi",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`ADCMG`"
+        }  
+    ],
+    "EDCWI": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **EPEX** Wish",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`EDCWI`"
+        }    
+     ],
+    "TDCSY": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **TWS** Shinyu",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`TDCSY`"
+        }   
+    ],
+    "YDCKM": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **YOUNITE** Kyungmun",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`YDCKM`"
+        }  
+    ],
+    "RDCDH": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **Rocket Punch** Dahyun",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`RDCDH`"
+        }    
+     ],
+    "UDCEL": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **UNIS** Elisia",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`UDCEL`"
+        }   
+     ],
+    "WDCEL": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **Weki Meki** Elly",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`WDCEL`"
+        }   
+     ],
+    "IDCMK": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **ILLIT** Moka",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`IDCMK`"
+        }   
+    ],
+    "MDCRA": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **ME:I** Ran",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`MDCRA`"
+        }   
+     ],
+    "SDCSE": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **STAYC** Seeun",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`SDCSE`"
+        }  
+     ],
+    "RDCWN": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **RESCENE** Woni",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`RDCWN`"
+        }  
+   ],
+    "IDCYN": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **ITZY** Yuna",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`IDCYN`"
+        }  
+   ],
+    "ADCCE": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **ASTRO** Cha Eunwoo",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`ADCCE`"
+        } 
+     ],
+    "EDCJY": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **EVNNE** Ji Yunseo",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`EDCJY`"
+        }  
+    ],
+    "XDCMJ": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **xikers** Minjae",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`XDCMJ`"
+        }  
+    ],
+    "LDCHC": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **LE SSERAFIM** Hong Eunchae",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`LDCHC`"
+        }   
+    ],
+    "IDCJW": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **IVE** Jang Wonyoung",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`IDCJW`"
+        }  
+    ],
+    "HDCSE": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **H1-KEY** Seoi",
+            "song": "DEAR CRUSH,",
+            "image": "&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`HDCSE`"
+        }    
     ]
 }
