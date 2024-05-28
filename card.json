@@ -5855,7 +5855,17 @@
             "group": "Event",
             "type": "EVENTS",
             "code": "`TVMER`"
-        }    
+        }
+  ],
+    "ZVMZH": [
+        {
+            "name": "<:VM:1244317659173093406> **ZEROBASEONE** Zhang Hao",
+            "song": "VIRTUAL *MSFT*",
+            "image": "https://media.discordapp.net/attachments/1242052805515018270/1244952469356806197/ZVMZH.png?ex=6656fbd6&is=6655aa56&hm=c33fee18ddc0913194ecb142d216522eaf92c393a23c99d848b8d79fe854111b&=&format=webp&quality=lossless&width=328&height=437",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`ZVMZH`"
+        }        
     ],
     "EVMYR": [
         {
