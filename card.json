@@ -1,7 +1,7 @@
 {
     "ACFSH": [
         {
-            "name": "**ATEEZ** Seonghwa",
+            "name": "<:1a:1248301357635735686> **ATEEZ** Seonghwa",
             "song": "Crazy Form",
             "image": "https://media.discordapp.net/attachments/1161522169298288742/1223530049387364392/Bot_Template_20240330150851.png?ex=661a3027&is=6607bb27&hm=d189c5b5ead90e73a496463f76200d5bd0d2708d8d60f6b3716fde9f0fc66f77&",
             "group": "ATEEZ",
@@ -11,7 +11,7 @@
     ],
     "ACFHJ": [
         {
-            "name": "**ATEEZ** Hongjoong",
+            "name": "<:1a:1248301357635735686> **ATEEZ** Hongjoong",
             "song": "Crazy Form",
             "image": "https://media.discordapp.net/attachments/1161522169298288742/1223530049756594226/Bot_Template_20240330150907.png?ex=661a3027&is=6607bb27&hm=eebff966996f51681531f51d77dc46d4fa0b8bf179042777bf3f2220eef1112b&",
             "group": "ATEEZ",
@@ -21,7 +21,7 @@
     ],
     "ACFYH": [
         {
-            "name": "**ATEEZ** Yunho",
+            "name": "<:1a:1248301357635735686> **ATEEZ** Yunho",
             "song": "Crazy Form",
             "image": "https://media.discordapp.net/attachments/1161522169298288742/1223530050092011600/Bot_Template_20240330150917.png?ex=661a3028&is=6607bb28&hm=dcadd50481ecf43543bf064fad6d3c1ac2a8aa10b1fde4da71ee0626c5e4ed6f&",
             "group": "ATEEZ",
@@ -31,7 +31,7 @@
     ],
     "ACFYS": [
         {
-            "name": "**ATEEZ** Yeosang",
+            "name": "<:1a:1248301357635735686> **ATEEZ** Yeosang",
             "song": "Crazy Form",
             "image": "https://media.discordapp.net/attachments/1161522169298288742/1223530050452717579/Bot_Template_20240330150924.png?ex=661a3028&is=6607bb28&hm=96a58fb39d2e5495a0661f35d905c31ac29298c9a5469a90163bb8241230f9d1&",
             "group": "ATEEZ",
@@ -41,7 +41,7 @@
     ],
     "ACFSA": [
         {
-            "name": "**ATEEZ** San",
+            "name": "<:1a:1248301357635735686> **ATEEZ** San",
             "song": "Crazy Form",
             "image": "https://media.discordapp.net/attachments/1161522169298288742/1223530050855501884/Bot_Template_20240330150931.png?ex=661a3028&is=6607bb28&hm=d472196bf37ab1f1012208988eee142a7b78b68e04ba4bc7cfeb9b5798da3871&",
             "group": "ATEEZ",
@@ -51,7 +51,7 @@
     ],
     "ACFMG": [
         {
-            "name": "**ATEEZ** Mingi",
+            "name": "<:1a:1248301357635735686> **ATEEZ** Mingi",
             "song": "Crazy Form",
             "image": "https://media.discordapp.net/attachments/1161522169298288742/1223530051165753415/Bot_Template_20240330150936.png?ex=661a3028&is=6607bb28&hm=b20ab2bc68786a2ce022fa7c35a1c21a9d0ddbe48fe41b8407625e792a041856&",
             "group": "ATEEZ",
@@ -61,7 +61,7 @@
     ],
     "ACFWY": [
         {
-            "name": "**ATEEZ** Wooyoung",
+            "name": "<:1a:1248301357635735686> **ATEEZ** Wooyoung",
             "song": "Crazy Form",
             "image": "https://media.discordapp.net/attachments/1161522169298288742/1223530051543236639/Bot_Template_20240330150943.png?ex=661a3028&is=6607bb28&hm=6946833c66dbb02763847ea8599df4be386aad59c488b4a046224de816a54e31&",
             "group": "ATEEZ",
@@ -71,7 +71,7 @@
     ],
     "ACFJH": [
         {
-            "name": "**ATEEZ** Jongho",
+            "name": "<:1a:1248301357635735686> **ATEEZ** Jongho",
             "song": "Crazy Form",
             "image": "https://media.discordapp.net/attachments/1161522169298288742/1223530051862134907/Bot_Template_20240330150949.png?ex=661a3028&is=6607bb28&hm=974d5d54253ef15c97bfdc0b61d228936096c41316626a27486d9d98dbd2e268&",
             "group": "ATEEZ",
@@ -81,7 +81,7 @@
    ],
     "NSTMA": [
         {
-            "name": "**NCT Dream** Mark",
+            "name": "<:1a:1248301357635735686> **NCT Dream** Mark",
             "song": "Smoothie",
             "image": "https://media.discordapp.net/attachments/1223584450772865054/1223585302325624902/NSTMA.png?ex=661a639d&is=6607ee9d&hm=d9d7543b27f3210ee6ec960fccade5942c9924cece7344b43102cec59f851583&",
             "group": "NCT Dream",
@@ -91,7 +91,7 @@
 ],
     "NSTRJ": [
         {
-            "name": "**NCT Dream** Renjun",
+            "name": "<:1a:1248301357635735686> **NCT Dream** Renjun",
             "song": "Smoothie",
             "image": "https://media.discordapp.net/attachments/1223584450772865054/1223585302871019521/NSTRJ.png?ex=661a639d&is=6607ee9d&hm=7d6b9c3c0eaddcb9406a35f1c23cc59a5f909cfbebe5171d731515d836e95a41&",
             "group": "NCT Dream",
@@ -101,7 +101,7 @@
    ],
     "NSTJN": [
         {
-            "name": "**NCT Dream** Jeno",
+            "name": "<:1a:1248301357635735686> **NCT Dream** Jeno",
             "song": "Smoothie",
             "image": "https://media.discordapp.net/attachments/1223584450772865054/1223585303261085706/NSTJN.png?ex=661a639d&is=6607ee9d&hm=6cdf0aacd8cabccbe0f8bbf0701d6a8a8f6b722c64cd44381e699028cfd4967b&",
             "group": "NCT Dream",
@@ -111,7 +111,7 @@
     ],
     "NSTHC": [
         {
-            "name": "**NCT Dream** Haechan",
+            "name": "<:1a:1248301357635735686> **NCT Dream** Haechan",
             "song": "Smoothie",
             "image": "https://media.discordapp.net/attachments/1223584450772865054/1223585303663607940/NSTHC.png?ex=661a639d&is=6607ee9d&hm=1c6a1f8ffc8ace0783fc92504cc3264c397d6f3cff028d63257026603c8fa613&",
             "group": "NCT Dream",
@@ -121,7 +121,7 @@
     ],
     "NSTJM": [
         {
-            "name": "**NCT Dream** Jaemin",
+            "name": "<:1a:1248301357635735686> **NCT Dream** Jaemin",
             "song": "Smoothie",
             "image": "https://media.discordapp.net/attachments/1223584450772865054/1223585304108339200/NSTJM.png?ex=661a639d&is=6607ee9d&hm=4f6cf6473dd73ec725e11f0a8227b7d033202fb3b0de7e4d4622ff7834eee7cb&",
             "group": "NCT Dream",
@@ -131,7 +131,7 @@
     ],
     "NSTCL": [
         {
-            "name": "**NCT Dream** Chenle",
+            "name": "<:1a:1248301357635735686> **NCT Dream** Chenle",
             "song": "Smoothie",
             "image": "https://media.discordapp.net/attachments/1223584450772865054/1223585304536154213/NSTCL.png?ex=661a639d&is=6607ee9d&hm=d4a7c966a75e8c5814c2db28559a66411d2ebd4b18420c1ebdbe2e335101b2a9&",
             "group": "NCT Dream",
@@ -141,7 +141,7 @@
     ],
     "NSTJS": [
         {
-            "name": "**NCT Dream** Jisung",
+            "name": "<:1a:1248301357635735686> **NCT Dream** Jisung",
             "song": "Smoothie",
             "image": "https://media.discordapp.net/attachments/1223584450772865054/1223585304980619344/NSTJS.png?ex=661a639d&is=6607ee9d&hm=d38548e5f10f20c4eea1a6edc6552f5f99bf58d454cb58a243d3ef577638b772&",
             "group": "NCT Dream",
@@ -151,7 +151,7 @@
      ],
     "SGMSC": [
         {
-            "name": "**SEVENTEEN** S.Coups",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** S.Coups",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587716915007488/SVT_GodOfMusic_20240330185711.png?ex=661a65dc&is=6607f0dc&hm=154d3c015e126286ed9c680071de6ac38a18a0e394dacaccbba3ba0054bd16cf&",
             "group": "SEVENTEEN",
@@ -161,7 +161,7 @@
     ],
     "SGMJH": [
         {
-            "name": "**SEVENTEEN** Jeonghan",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Jeonghan",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587717355536414/SVT_GodOfMusic_20240330185723.png?ex=661a65dc&is=6607f0dc&hm=ace999f14826a7ab3f1a5ee9742ff91c41d339caa1a756a55c6bdb1406ea2b16&",
             "group": "SEVENTEEN",
@@ -171,7 +171,7 @@
     ],
     "SGMJS": [
         {
-            "name": "**SEVENTEEN** Joshua",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Joshua",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587717795811468/SVT_GodOfMusic_20240330185730.png?ex=661a65dd&is=6607f0dd&hm=3d0ee4e887ea2cf97af4c5ccb0e7325c6632ce5100d1f29b0aea2a0a93d37c00&",
             "group": "SEVENTEEN",
@@ -181,7 +181,7 @@
     ],
     "SGMJU": [
         {
-            "name": "**SEVENTEEN** Jun",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Jun",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587718328619089/SVT_GodOfMusic_20240330185738.png?ex=661a65dd&is=6607f0dd&hm=ee851e1c3c910431439af7829fd823dcce34a8f9977a3e120cdc05a18e5e0a38&",
             "group": "SEVENTEEN",
@@ -191,7 +191,7 @@
    ],
     "SGMHS": [
         {
-            "name": "**SEVENTEEN** Hoshi",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Hoshi",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587719658209340/SVT_GodOfMusic_20240330185744.png?ex=661a65dd&is=6607f0dd&hm=de632055e78b48fc9ac286542b8204cb3b24e75eea3988195f090412fbd579ea&",
             "group": "SEVENTEEN",
@@ -201,7 +201,7 @@
     ],
     "SGMDK": [
         {
-            "name": "**SEVENTEEN** DK",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** DK",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587721138671646/SVT_GodOfMusic_20240330185803.png?ex=661a65dd&is=6607f0dd&hm=dbe15f1acd60492b96ca918adb49308ca437a04b4e826db2aad3c960b801ae4c&",
             "group": "SEVENTEEN",
@@ -211,7 +211,7 @@
      ],
     "SGMWW": [
         {
-            "name": "**SEVENTEEN** Wonwoo",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Wonwoo",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587720253673482/SVT_GodOfMusic_20240330185751.png?ex=661a65dd&is=6607f0dd&hm=9e58fa36730e125cad9ad7e4e2213bf433adb9341850967af523698a707b53d4&",
             "group": "SEVENTEEN",
@@ -221,7 +221,7 @@
     ],
     "SGMWZ": [
         {
-            "name": "**SEVENTEEN** Woozi",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Woozi",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587720690012232/SVT_GodOfMusic_20240330185757.png?ex=661a65dd&is=6607f0dd&hm=82186cbe4abc48c5495ca7743c5bfb1bff8a0c7ad2418afdedb854c1da15ee68&",
             "group": "SEVENTEEN",
@@ -231,7 +231,7 @@
     ],
     "SGMMG": [
         {
-            "name": "**SEVENTEEN** Mingyu",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Mingyu",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587721700835412/SVT_GodOfMusic_20240330185811.png?ex=661a65de&is=6607f0de&hm=132e43eabc764d2081dcb8bcf144e4f4ce6784f08b4705cd727e9194ac572487&",
             "group": "SEVENTEEN",
@@ -241,7 +241,7 @@
     ],
     "SGMT8": [
         {
-            "name": "**SEVENTEEN** The8",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** The8",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587722103361536/SVT_GodOfMusic_20240330185825.png?ex=661a65de&is=6607f0de&hm=4bd036d734dd5590757a3e293ac73d58bff41e706d14196cfa1669bb7c69b97e&",
             "group": "SEVENTEEN",
@@ -251,7 +251,7 @@
     ],
     "SGMSK": [
         {
-            "name": "**SEVENTEEN** Seungkwan",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Seungkwan",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587744727568465/SVT_GodOfMusic_20240330185831.png?ex=661a65e3&is=6607f0e3&hm=7b1f25044cc805714fcc9a769354b4aa6318224a4e4763328ce52d7520b266e4&",
             "group": "SEVENTEEN",
@@ -261,7 +261,7 @@
     ],
     "SGMVN": [
         {
-            "name": "**SEVENTEEN** Vernon",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Vernon",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587745117634570/SVT_GodOfMusic_20240330185844.png?ex=661a65e3&is=6607f0e3&hm=04661cc542551f2c4e24c13c6580891740e5a2b971c7619e499c6216fee96eea&",
             "group": "SEVENTEEN",
@@ -271,7 +271,7 @@
     ],
     "SGMDN": [
         {
-            "name": "**SEVENTEEN** Dino",
+            "name": "<:1a:1248301357635735686> **SEVENTEEN** Dino",
             "song": "God Of Music",
             "image": "https://media.discordapp.net/attachments/1223587565563678782/1223587745591726121/SVT_GodOfMusic_20240330185851.png?ex=661a65e3&is=6607f0e3&hm=2e75dddb2ddb4c51543db61da05857fd02637175674a2e2209fdc4203a916d05&",
             "group": "SEVENTEEN",
@@ -281,7 +281,7 @@
      ],
     "OSCHJ": [
         {
-            "name": "**OH MY GIRL** Hyojung",
+            "name": "<:1a:1248301357635735686> **OH MY GIRL** Hyojung",
             "song": "Summer Comes",
             "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599537906516058/OSCHJ.png?ex=661a70df&is=6607fbdf&hm=61d6126b7355c6049ea40f38e8bb20e2962d01653f2d6590402a71bc9a8cf15c&",
             "group": "OH MY GIRL",
@@ -291,7 +291,7 @@
     ],
     "OSCMM": [
         {
-            "name": "**OH MY GIRL** Mimi",
+            "name": "<:1a:1248301357635735686> **OH MY GIRL** Mimi",
             "song": "Summer Comes",
             "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599538242322452/OSCMM.png?ex=661a70df&is=6607fbdf&hm=f77f1eed5087a1ff681c3b1f8abae9284f9c81ecae3037e535910c015245259c&",
             "group": "OH MY GIRL",
@@ -301,7 +301,7 @@
     ],
     "OSCYA": [
         {
-            "name": "**OH MY GIRL** YooA",
+            "name": "<:1a:1248301357635735686> **OH MY GIRL** YooA",
             "song": "Summer Comes",
             "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599538627940383/OSCYA.png?ex=661a70df&is=6607fbdf&hm=e4a77aea5dbf4c2eaccdd65897f80f76fea29fee17572be514455dc9f7621a65&",
             "group": "OH MY GIRL",
@@ -311,7 +311,7 @@
     ],
     "OSCSH": [
         {
-            "name": "**OH MY GIRL** Seunghee",
+            "name": "<:1a:1248301357635735686> **OH MY GIRL** Seunghee",
             "song": "Summer Comes",
             "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599538955091998/OSCSH.png?ex=661a70df&is=6607fbdf&hm=7ff971129672d5127f718d1b008172837512388d97f9757263a4987ea2834562&",
             "group": "OH MY GIRL",
@@ -321,7 +321,7 @@
     ],
     "OSCYB": [
         {
-            "name": "**OH MY GIRL** Yubin",
+            "name": "<:1a:1248301357635735686> **OH MY GIRL** Yubin",
             "song": "Summer Comes",
             "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599539274121306/OSCYB.png?ex=661a70df&is=6607fbdf&hm=1e5fa0b98d2ea649f9fbcfa98bc4b3422ed470ac931a322c1c44a82b59cd2195&",
             "group": "OH MY GIRL",
@@ -331,7 +331,7 @@
     ],
     "OSCAR": [
         {
-            "name": "**OH MY GIRL** Arin",
+            "name": "<:1a:1248301357635735686> **OH MY GIRL** Arin",
             "song": "Summer Comes",
             "image": "https://media.discordapp.net/attachments/1180566947990077482/1223599539752013916/OSCAR.png?ex=661a70df&is=6607fbdf&hm=f00212a3ddb5ca0de40f3a8f28cd76bd6ffa888835c2f69c5da881d3083a8bc1&",
             "group": "OH MY GIRL",
@@ -341,7 +341,7 @@
     ],
     "CLEBX": [
         {
-            "name": "**CIX** BX",
+            "name": "<:1a:1248301357635735686> **CIX** BX",
             "song": "Lovers or Enemies",
             "image": "https://cdn.discordapp.com/attachments/1223606803145949225/1223611630198329445/CLEBX.png?ex=661a7c22&is=66080722&hm=edcc7fe41faa856071ec899f031d4f2a90dd5425391bade0b929aff6299bff94&",
             "group": "CIX",
@@ -351,7 +351,7 @@
     ],
     "CLESH": [
         {
-            "name": "**CIX** Seunghun",
+            "name": "<:1a:1248301357635735686> **CIX** Seunghun",
             "song": "Lovers or Enemies",
             "image": "https://media.discordapp.net/attachments/1223606803145949225/1223611630894710845/CLESH.png?ex=661a7c22&is=66080722&hm=a79ba85f4b7c7c2fb80d59514c1b3a7d1aec6b9e9db2cb28065dea63e67c5fd3&=&format=webp&quality=lossless&width=496&height=662",
             "group": "CIX",
@@ -361,7 +361,7 @@
     ],
     "CLEYH": [
         {
-            "name": "**CIX** Yonghee",
+            "name": "<:1a:1248301357635735686> **CIX** Yonghee",
             "song": "Lovers or Enemies",
             "image": "https://cdn.discordapp.com/attachments/1223606803145949225/1223611632538878043/CLEYH.png?ex=661a7c22&is=66080722&hm=237a3d2b94cdc27b8230a02ee15406786428ed53cc11705cec5fab04ba28c9ed&",
             "group": "CIX",
@@ -371,7 +371,7 @@
     ],
     "CLEBJ": [
         {
-            "name": "**CIX** Bae Jinyoung",
+            "name": "<:1a:1248301357635735686> **CIX** Bae Jinyoung",
             "song": "Lovers or Enemies",
             "image": "https://cdn.discordapp.com/attachments/1223606803145949225/1223611633029484645/CLEBJ.png?ex=661a7c22&is=66080722&hm=8526b5e39be261fba7382e8dfd8b1c2a1c63f7f87a7ad6758a768a04bcf041a7&",
             "group": "CIX",
@@ -381,7 +381,7 @@
     ],
     "CLEHS": [
         {
-            "name": "**CIX** Hyunsuk",
+            "name": "<:1a:1248301357635735686> **CIX** Hyunsuk",
             "song": "Lovers or Enemies",
             "image": "https://cdn.discordapp.com/attachments/1223606803145949225/1223611633851695145/CLEHS.png?ex=661a7c23&is=66080723&hm=baece3298eaf248fe9a1a1dd3fc3e98a8946e0286718c506a223e91ded4b57ef&",
             "group": "CIX",
@@ -391,7 +391,7 @@
     ],
     "ZMPKJ": [
         {
-            "name": "**ZEROBASEONE** Kim Jiwoong",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Kim Jiwoong",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651055636709477/ZMPKJ.png?ex=661aa0da&is=66082bda&hm=c0356207630fcce4a070ec4727262957b1fefcf62d414dbc91da342090aec24e&",
             "group": "ZEROBASEONE",
@@ -401,7 +401,7 @@
     ],
     "ZMPZH": [
         {
-            "name": "**ZEROBASEONE** Zhang Hao",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Zhang Hao",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651056605597718/ZMPZH.png?ex=661aa0da&is=66082bda&hm=8acfc0d577d4c1de91bdb283a52f2237b070476114f9f403d979e313bde90efc&",
             "group": "ZEROBASEONE",
@@ -411,7 +411,7 @@
     ],
     "ZMPSH": [
         {
-            "name": "**ZEROBASEONE** Sung Hanbin",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Sung Hanbin",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651057498980362/ZMPSH.png?ex=661aa0da&is=66082bda&hm=b8c8e5914afb323487a4c0397a82a760d1b553cd0d7ff5f4aaab6191bb6e702d&",
             "group": "ZEROBASEONE",
@@ -421,7 +421,7 @@
     ],
     "ZMPSM": [
         {
-            "name": "**ZEROBASEONE** Seok Matthew",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Seok Matthew",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651058111483975/ZMPSM.png?ex=661aa0da&is=66082bda&hm=056f5258357dbc87492f15d3c3b877e6647404dfd17e89dc32124e2b9300856a&",
             "group": "ZEROBASEONE",
@@ -431,7 +431,7 @@
     ],
     "ZMPKT": [
         {
-            "name": "**ZEROBASEONE** Kim Taerae",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Kim Taerae",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651058706944061/ZMPKT.png?ex=661aa0da&is=66082bda&hm=ffe3a845d2ea493dd525317705d47f5552476f9d8dcf66a21f20c73f73beae04&",
             "group": "ZEROBASEONE",
@@ -441,7 +441,7 @@
     ],
     "ZMPRK": [
         {
-            "name": "**ZEROBASEONE** Ricky",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Ricky",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651059424301066/ZMPRK.png?ex=661aa0da&is=66082bda&hm=c195afd38ae0db0b92e603776ecb6400827b9935b509624a4d24bd7a1b1adcd6&",
             "group": "ZEROBASEONE",
@@ -451,7 +451,7 @@
     ],
     "ZMPKG": [
         {
-            "name": "**ZEROBASEONE** Kim Gyuvin",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Kim Gyuvin",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651060426608702/ZMPKG.png?ex=661aa0db&is=66082bdb&hm=710311f65cd449f6132932a26b94e5255326db10b342abdec05a5f596d5bfe99&",
             "group": "ZEROBASEONE",
@@ -461,7 +461,7 @@
     ],
     "ZMPPG": [
         {
-            "name": "**ZEROBASEONE** Park Gunwook",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Park Gunwook",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651061328379904/ZMPPG.png?ex=661aa0db&is=66082bdb&hm=1072707a81e4d05dd6f72fef3049cc2d13f80b0586b5dfcf45961734f065306c&",
             "group": "ZEROBASEONE",
@@ -471,7 +471,7 @@
     ],
     "ZMPHY": [
         {
-            "name": "**ZEROBASEONE** Han Yujin",
+            "name": "<:1a:1248301357635735686> **ZEROBASEONE** Han Yujin",
             "song": "Melting Point",
             "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1223651062330953898/ZMPHY.png?ex=661aa0db&is=66082bdb&hm=69447c1e932359a64c8ca58446b72f48c8abeda8df0d9219461d267048d1d7f8&",
             "group": "ZEROBASEONE",
@@ -481,7 +481,7 @@
     ],
     "SBBSM": [
         {
-            "name": "**STAYC** Sumin",
+            "name": "<:1a:1248301357635735686> **STAYC** Sumin",
             "song": "Bubble",
             "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611750696489030/SBBSM.png?ex=661a7c3e&is=6608073e&hm=583236ff139556f850404d341eb9b0d58b7f2772bb82863ac52b59aa47483cdc&",
             "group": "STAYC",
@@ -491,7 +491,7 @@
     ],
     "SBBSI": [
         {
-            "name": "**STAYC** Sieun",
+            "name": "<:1a:1248301357635735686> **STAYC** Sieun",
             "song": "Bubble",
             "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611751203995698/SBBSI.png?ex=661a7c3f&is=6608073f&hm=f837e6e17aa36eb11619223ad1412adcbf521b4f701b8259b5683b256ef22c33&",
             "group": "STAYC",
@@ -501,7 +501,7 @@
     ],
     "SBBIS": [
         {
-            "name": "**STAYC** Isa",
+            "name": "<:1a:1248301357635735686> **STAYC** Isa",
             "song": "Bubble",
             "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611751736676423/SBBIS.png?ex=661a7c3f&is=6608073f&hm=8525b49dffaecff071c61408e6bd3662f32961f04a0df6288ed1f1865632f76f&",
             "group": "STAYC",
@@ -511,7 +511,7 @@
     ],
     "SBBSE": [
         {
-            "name": "**STAYC** Seeun",
+            "name": "<:1a:1248301357635735686> **STAYC** Seeun",
             "song": "Bubble",
             "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611752311292004/SBBSE.png?ex=661a7c3f&is=6608073f&hm=35131c6e390ee2ec6e997c4768910a058ae448ecbf0f73647e9a889f55631fc2&",
             "group": "STAYC",
@@ -521,7 +521,7 @@
     ],
     "SBBYO": [
         {
-            "name": "**STAYC** Yoon",
+            "name": "<:1a:1248301357635735686> **STAYC** Yoon",
             "song": "Bubble",
             "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611754253385819/SBBYO.png?ex=661a7c3f&is=6608073f&hm=201bf016c40e00bde47d657d548fabc4b6ab78afe5a92c31c5f2073d750a8f3d&",
             "group": "STAYC",
@@ -531,7 +531,7 @@
     ],
     "SBBJY": [
         {
-            "name": "**STAYC** J",
+            "name": "<:1a:1248301357635735686> **STAYC** J",
             "song": "Bubble",
             "image": "https://cdn.discordapp.com/attachments/1223606598426038332/1223611752919470192/SBBSJ.png?ex=661a7c3f&is=6608073f&hm=180f5068ab207108954a188c880b105acefba37312195f63ce2a7685b36ef8f1&",
             "group": "STAYC",
@@ -541,7 +541,7 @@
     ],
     "IBDAY": [
         {
-            "name": "**IVE** An Yujin",
+            "name": "<:1a:1248301357635735686> **IVE** An Yujin",
             "song": "Baddie",
             "image": "https://media.discordapp.net/attachments/1223678324694585384/1223688090997231746/Bot_Template2_20240331013742.png?ex=661ac357&is=66084e57&hm=d65c04440069e34e5dba333508869f6a50353758f84dcca53f4598eb0d2ac9d1&",
             "group": "IVE",
@@ -551,7 +551,7 @@
      ],
     "IBDGE": [
         {
-            "name": "**IVE** Gaeul",
+            "name": "<:1a:1248301357635735686> **IVE** Gaeul",
             "song": "Baddie",
             "image": "https://media.discordapp.net/attachments/1223678324694585384/1223688091311542345/Bot_Template2_20240331013749.png?ex=661ac357&is=66084e57&hm=3fd2ea6aaaa92a91062458762a5012b0cfe3b1856f2e4d0e6af9c57967469c10&",
             "group": "IVE",
@@ -561,7 +561,7 @@
     ],
     "IBDRE": [
         {
-            "name": "**IVE** Rei",
+            "name": "<:1a:1248301357635735686> **IVE** Rei",
             "song": "Baddie",
             "image": "https://media.discordapp.net/attachments/1223678324694585384/1223688091659796480/Bot_Template2_20240331013753.png?ex=661ac358&is=66084e58&hm=1ebdf6ed006ea23ca7453a1a1d4976f4c9fa0112509197c987108196977cbb15&",
             "group": "IVE",
@@ -571,7 +571,7 @@
     ],
     "IBDJW": [
         {
-            "name": "**IVE** Jang Wonyoung",
+            "name": "<:1a:1248301357635735686> **IVE** Jang Wonyoung",
             "song": "Baddie",
             "image": "https://media.discordapp.net/attachments/1223678324694585384/1223688092070973491/Bot_Template2_20240331013759.png?ex=661ac358&is=66084e58&hm=63205cfd4b98f2014b1929ca2533844792ea1fa0c69b1dd028290fa285f067d3&",
             "group": "IVE",
@@ -581,7 +581,7 @@
      ],
     "IBDLI": [
         {
-            "name": "**IVE** Liz",
+            "name": "<:1a:1248301357635735686> **IVE** Liz",
             "song": "Baddie",
             "image": "https://media.discordapp.net/attachments/1223678324694585384/1223688092477685911/Bot_Template2_20240331013807.png?ex=661ac358&is=66084e58&hm=9ba7fd626b5b3d6b8a7557958475d01c61b37d1931ca92dcc0b556131c583434&",
             "group": "IVE",
@@ -591,7 +591,7 @@
      ],
     "IBDLS": [
         {
-            "name": "**IVE** Leeseo",
+            "name": "<:1a:1248301357635735686> **IVE** Leeseo",
             "song": "Baddie",
             "image": "https://media.discordapp.net/attachments/1223678324694585384/1223688092955971654/Bot_Template2_20240331013815.png?ex=661ac358&is=66084e58&hm=6becbee8fd2c9db05ac259290092a44020862d174d37b45ed82b2d0e5f7c9a87&",
             "group": "IVE",
@@ -601,7 +601,7 @@
      ],
     "NDTMJ": [
         {
-            "name": "**NewJeans** Minji",
+            "name": "<:1a:1248301357635735686> **NewJeans** Minji",
             "song": "Ditto",
             "image": "https://media.discordapp.net/attachments/1223674288327102515/1223674403284586659/NDTMJ.png?ex=661ab698&is=66084198&hm=568e0c10205d60a09e8b9bd7845554ee65a5555fbc30b39e885942e9edcdc188&",
             "group": "NewJeans",
@@ -611,7 +611,7 @@
     ],
     "NDTHN": [
         {
-            "name": "**NewJeans** Hanni",
+            "name": "<:1a:1248301357635735686> **NewJeans** Hanni",
             "song": "Ditto",
             "image": "https://media.discordapp.net/attachments/1223674288327102515/1223674403720527933/NDTHN.png?ex=661ab698&is=66084198&hm=1e5f7cbfed0728e21ae83bc44e6cf11c8af61d842f1c501f0062e71805f158c9&",
             "group": "NewJeans",
@@ -621,7 +621,7 @@
     ],
     "NDTDN": [
         {
-            "name": "**NewJeans** Danielle",
+            "name": "<:1a:1248301357635735686> **NewJeans** Danielle",
             "song": "Ditto",
             "image": "https://media.discordapp.net/attachments/1223674288327102515/1223674404182036490/NDTDN.png?ex=661ab698&is=66084198&hm=f9fd2573b8ead0d9bb10abc8cc380bfa928f05fd2857a086b83f3a8830915fe2&",
             "group": "NewJeans",
@@ -631,7 +631,7 @@
     ],
     "NDTHR": [
         {
-            "name": "**NewJeans** Haerin",
+            "name": "<:1a:1248301357635735686> **NewJeans** Haerin",
             "song": "Ditto",
             "image": "https://media.discordapp.net/attachments/1223674288327102515/1223674404584820787/NDTHR.png?ex=661ab698&is=66084198&hm=49e7682e3788f0367c17ef8b645cd226d657a9c8fda5d23c8fa5310cc0d4ed83&",
             "group": "NewJeans",
@@ -641,7 +641,7 @@
     ],
     "NDTHI": [
         {
-            "name": "**NewJeans** Hyein",
+            "name": "<:1a:1248301357635735686> **NewJeans** Hyein",
             "song": "Ditto",
             "image": "https://media.discordapp.net/attachments/1223674288327102515/1223674405054451833/NDTHI.png?ex=661ab698&is=66084198&hm=b27eb8655861e3bb9fc93f94ff5f7a2697cdd31e2a82f90af5dcbc3b3df2cead&",
             "group": "NewJeans",
@@ -651,7 +651,7 @@
     ],
     "NSNLL": [
         {
-            "name": "**NMIXX** Lily",
+            "name": "<:1a:1248301357635735686> **NMIXX** Lily",
             "song": " Soñar (Breaker)",
             "image": "https://media.discordapp.net/attachments/1223670543924854826/1223670625630031964/NMIXX_Sonar_20240331002816.png?ex=661ab313&is=66083e13&hm=506300b0dd0ea324220c85b4a310b6307d4f8c8137df8180001d2df584a67eb6&",
             "group": "NMIXX",
@@ -661,7 +661,7 @@
     ],
     "NSNHW": [
         {
-            "name": "**NMIXX** Haewon",
+            "name": "<:1a:1248301357635735686> **NMIXX** Haewon",
             "song": " Soñar (Breaker)",
             "image": "https://media.discordapp.net/attachments/1223670543924854826/1223670626024423505/NMIXX_Sonar_20240331002824.png?ex=661ab313&is=66083e13&hm=b22e3ed09afa452977ebdccc79a730b4ded6b1009fbcd5a054e0ebef6e4f29be&",
             "group": "NMIXX",
@@ -671,7 +671,7 @@
    ],
     "NSNSY": [
         {
-            "name": "**NMIXX** Sullyoon",
+            "name": "<:1a:1248301357635735686> **NMIXX** Sullyoon",
             "song": " Soñar (Breaker)",
             "image": "https://media.discordapp.net/attachments/1223670543924854826/1223670626536132789/NMIXX_Sonar_20240331002831.png?ex=661ab314&is=66083e14&hm=bd54228a96db22a479fb4e9942971c8b8e0a545c9ff88cfccea709fe3e7814c0&",
             "group": "NMIXX",
@@ -681,7 +681,7 @@
     ],
     "NSNBA": [
         {
-            "name": "**NMIXX** Bae",
+            "name": "<:1a:1248301357635735686> **NMIXX** Bae",
             "song": " Soñar (Breaker)",
             "image": "https://media.discordapp.net/attachments/1223670543924854826/1223670627039318156/NMIXX_Sonar_20240331002837.png?ex=661ab314&is=66083e14&hm=b73b43b27c25c3180c2913659c0f0873481b8090b5df735d21db42e034f641cf&",
             "group": "NMIXX",
@@ -691,7 +691,7 @@
     ],
     "NSNJW": [
         {
-            "name": "**NMIXX** Jiwoo",
+            "name": "<:1a:1248301357635735686> **NMIXX** Jiwoo",
             "song": " Soñar (Breaker)",
             "image": "https://media.discordapp.net/attachments/1223670543924854826/1223670627475656724/NMIXX_Sonar_20240331002843.png?ex=661ab314&is=66083e14&hm=ef51c2f7a9a5437edc0502dcaac939259e50857c24e2b3dc4bb8da51015d200c&",
             "group": "NMIXX",
@@ -701,7 +701,7 @@
      ],
     "NSNKJ": [
         {
-            "name": "**NMIXX** Kyujin",
+            "name": "<:1a:1248301357635735686> **NMIXX** Kyujin",
             "song": " Soñar (Breaker)",
             "image": "https://media.discordapp.net/attachments/1223670543924854826/1223670627915927662/NMIXX_Sonar_20240331002855.png?ex=661ab314&is=66083e14&hm=006b871aaa4d175785030a5385791b057a64786d3e4d721d1d4b7eb0c1c51a05&",
             "group": "NMIXX",
@@ -711,7 +711,7 @@
     ],
     "MLOMH": [
         {
-            "name": "**MONSTA X** Minhyuk",
+            "name": "<:1a:1248301357635735686> **MONSTA X** Minhyuk",
             "song": "LOVE",
             "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833057069502574/MX_LOVE_20240331111401.png?ex=661b4a5a&is=6608d55a&hm=28dc422062c5dc641461284d7acceae5e972739433f2c38aa3a286a585f3f5d2&",
             "group": "MONSTA X",
@@ -721,7 +721,7 @@
      ],
     "MLOKH": [
         {
-            "name": "**MONSTA X** Kihyun",
+            "name": "<:1a:1248301357635735686> **MONSTA X** Kihyun",
             "song": "LOVE",
             "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833057413431447/MX_LOVE_20240331111414.png?ex=661b4a5a&is=6608d55a&hm=a29c455634c8d5b964ac06774beae5ad7c87b0f14a9e9764e636edda73078b7c&",
             "group": "MONSTA X",
@@ -731,7 +731,7 @@
     ],
     "MLOHW": [
         {
-            "name": "**MONSTA X** Hyungwon",
+            "name": "<:1a:1248301357635735686> **MONSTA X** Hyungwon",
             "song": "LOVE",
             "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833057736523888/MX_LOVE_20240331111420.png?ex=661b4a5a&is=6608d55a&hm=a36dc7c02516fe8e05124b791a0e2fd8fe284dbfe0ae49ae0c6905f99c78d4aa&",
             "group": "MONSTA X",
@@ -741,7 +741,7 @@
      ],
     "MLOJH": [
         {
-            "name": "**MONSTA X** Joohoney",
+            "name": "<:1a:1248301357635735686> **MONSTA X** Joohoney",
             "song": "LOVE",
             "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833058042581032/MX_LOVE_20240331111407.png?ex=661b4a5a&is=6608d55a&hm=7c47e183a3f4f8bfe8b0f792f454d4aef0fb950c3ffc92fc0e9ac5d11fa3a938&",
             "group": "MONSTA X",
@@ -751,7 +751,7 @@
     ],
     "MLOIM": [
         {
-            "name": "**MONSTA X** I.M",
+            "name": "<:1a:1248301357635735686> **MONSTA X** I.M",
             "song": "LOVE",
             "image": "https://media.discordapp.net/attachments/1223832954992852992/1223833058365538355/MX_LOVE_20240331111426.png?ex=661b4a5a&is=6608d55a&hm=d90426fe554f4431cbea3ff34cd8e1e337bc0d4a17a8e0e729eec4e869c44277&",
             "group": "MONSTA X",
@@ -761,7 +761,7 @@
     ],
     "TOSNY": [
         {
-            "name": "**TWICE** Nayeon",
+            "name": "<:1a:1248301357635735686> **TWICE** Nayeon",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834026729537596/TOSNY.png?ex=661b4b41&is=6608d641&hm=1416de7a55c344d2f38915aaba0179f2b551c78ee78678d4bc8aba9b08298db7&",
             "group": "TWICE",
@@ -771,7 +771,7 @@
     ],
     "TOSJY": [
         {
-            "name": "**TWICE** Jeongyeon",
+            "name": "<:1a:1248301357635735686> **TWICE** Jeongyeon",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834027413344306/TOSJY.png?ex=661b4b41&is=6608d641&hm=94a71e7a950082f0854fcfc0b34604aead142a848e258b51fa41dcb5ff4aa3fc&",
             "group": "TWICE",
@@ -781,7 +781,7 @@
     ],
     "TOSMM": [
         {
-            "name": "**TWICE** Momo",
+            "name": "<:1a:1248301357635735686> **TWICE** Momo",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834027920719872/TOSMM.png?ex=661b4b41&is=6608d641&hm=5bf4ba0458d4d8afa163ff911055b2b82f28a4d2be7e8667e526f075b683fe2d&",
             "group": "TWICE",
@@ -791,7 +791,7 @@
     ],
     "TOSSN": [
         {
-            "name": "**TWICE** Sana",
+            "name": "<:1a:1248301357635735686> **TWICE** Sana",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834028428492810/TOSSN.png?ex=661b4b42&is=6608d642&hm=aa7ce3089881d407d51a2ab0c3d584b2627a0c4bc8f0c4df3b99f3e8daf605ba&",
             "group": "TWICE",
@@ -801,7 +801,7 @@
     ],
     "TOSJH": [
         {
-            "name": "**TWICE** Jihyo",
+            "name": "<:1a:1248301357635735686> **TWICE** Jihyo",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834029015433267/TOSJH.png?ex=661b4b42&is=6608d642&hm=d44f3edeb3a2a45926882f23e70607626f0b775b8721ebcd2c8313295195e0bc&",
             "group": "TWICE",
@@ -811,7 +811,7 @@
     ],
     "TOSMN": [
         {
-            "name": "**TWICE** Mina",
+            "name": "<:1a:1248301357635735686> **TWICE** Mina",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834029552566404/TOSMN.png?ex=661b4b42&is=6608d642&hm=0f2d00e8daadbcbdbcf2740c4e7bdf018e68774fd0938daf273fe6161641701f&",
             "group": "TWICE",
@@ -821,7 +821,7 @@
     ],
     "TOSDH": [
         {
-            "name": "**TWICE** Dahyun",
+            "name": "<:1a:1248301357635735686> **TWICE** Dahyun",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834030064144455/TOSDH.png?ex=661b4b42&is=6608d642&hm=c8babc2c8af68300899ec9524bbfe525c3396e4ee50424cb6160fa51c2c90fe8&",
             "group": "TWICE",
@@ -831,7 +831,7 @@
     ],
     "TOSCY": [
         {
-            "name": "**TWICE** Chaeyoung",
+            "name": "<:1a:1248301357635735686> **TWICE** Chaeyoung",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834030567325696/TOSCY.png?ex=661b4b42&is=6608d642&hm=b4a94a1a11fcca565ea04114cda27a8c3ecd4c527eeaef9da7265e0251b47ba4&",
             "group": "TWICE",
@@ -841,7 +841,7 @@
     ],
     "TOSTY": [
         {
-            "name": "**TWICE** Tzuyu",
+            "name": "<:1a:1248301357635735686> **TWICE** Tzuyu",
             "song": "One Spark",
             "image": "https://media.discordapp.net/attachments/1223833376910479360/1223834031112720394/TOSTY.png?ex=661b4b42&is=6608d642&hm=bdabc6fea95e9d68a66a918095de529d2402c8a9071fec12f3f4667ad7ad2d42&",
             "group": "TWICE",
@@ -851,7 +851,7 @@
     ],
     "ANWO": [
         {
-            "name": "**Soloist** WOODZ",
+            "name": "<:1a:1248301357635735686> **Soloist** WOODZ",
             "song": "AMNESIA",
             "image": "https://media.discordapp.net/attachments/1223678407913767085/1223843236913614888/ANWO.png?ex=661b53d5&is=6608ded5&hm=a16a0f374cfafcbc81286228aa77950a9f9fca5b1aa1e80ebc28ecd62bbfc053&",
             "group": "-",
@@ -861,7 +861,7 @@
     ],
     "BBBH": [
         {
-            "name": "**Soloist** Baekhyun",
+            "name": "<:1a:1248301357635735686> **Soloist** Baekhyun",
             "song": "Bambi",
             "image": "https://media.discordapp.net/attachments/1223678407913767085/1223843208501399603/BBBH.png?ex=661b53ce&is=6608dece&hm=8c0018107438d21bbbd5b4d7d567c229c375d3cd20f85fb9938bc7c82bcdb53f&",
             "group": "EXO",
@@ -871,7 +871,7 @@
     ],
     "SNJK": [
         {
-            "name": "**Soloist** Jungkook",
+            "name": "<:1a:1248301357635735686> **Soloist** Jungkook",
             "song": "Standing Next To You",
             "image": "https://media.discordapp.net/attachments/1223678407913767085/1223843176381677682/SNJK.png?ex=661b53c7&is=6608dec7&hm=a8540fd6db1c0bdfb7311c2ece1000995594825d3858a2cb28ee7a5001b51ff2&",
             "group": "BTS",
@@ -881,7 +881,7 @@
     ],
     "EMCH": [
         {
-            "name": "**Soloist** Chungha",
+            "name": "<:1a:1248301357635735686> **Soloist** Chungha",
             "song": "EENIE MEENIE",
             "image": "https://media.discordapp.net/attachments/1223678407913767085/1223853700796125245/Soloist_20240331123633.png?ex=661b5d94&is=6608e894&hm=c04645bed399a271d35af8c24f1ba2b1062f08eb0f15eac6b83eb4d073dc78a4&",
             "group": "-",
@@ -891,7 +891,7 @@
      ],
     "FFJS": [
         {
-            "name": "**Soloist** Jeon Somi",
+            "name": "<:1a:1248301357635735686> **Soloist** Jeon Somi",
             "song": "Fast Forward",
             "image": "https://media.discordapp.net/attachments/1223678407913767085/1223853746723749979/Soloist_20240331123711.png?ex=661b5d9f&is=6608e89f&hm=ad5073edbd07d4797347320a8e8b6fb56232bece8acadd82d365ad0af0cf2a19&",
             "group": "-",
@@ -901,7 +901,7 @@
     ],
     "TXTY": [
         {
-            "name": "**Soloist** Taeyeon",
+            "name": "<:1a:1248301357635735686> **Soloist** Taeyeon",
             "song": "To. X",
             "image": "https://media.discordapp.net/attachments/1223678407913767085/1223853733499375730/Soloist_20240331123624.png?ex=661b5d9c&is=6608e89c&hm=d57c0983f94e10ec0fe324444cf490194a9dfc44ffbfe8268c5bca07f113bf05&",
             "group": "Girls Generation",
@@ -1030,7 +1030,7 @@
    ],
     "ADMKR": [
         {
-            "name": " **aespa** Karina",
+            "name": "<:1a:1248301357635735686> **aespa** Karina",
             "song": "Drama",
             "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1225457462170357760/ADMKR.png?ex=66213332&is=660ebe32&hm=a4fe97fab030fdf543ed463c3ad3fe4532908ecc2138a67b4f5d7c16d5151082&",
             "group": "aespa",
@@ -1040,7 +1040,7 @@
    ],
     "ADMGS": [
         {
-            "name": " **aespa** Giselle",
+            "name": "<:1a:1248301357635735686> **aespa** Giselle",
             "song": "Drama",
             "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1225457462610493521/ADMGS.png?ex=66213332&is=660ebe32&hm=6d5d455f1eb3d1b0da05da41ed8ffd966f3b18f79beef4c72711e0e4a5081d7e&",
             "group": "aespa",
@@ -1050,7 +1050,7 @@
    ],
     "ADMWT": [
         {
-            "name": " **aespa** Winter",
+            "name": "<:1a:1248301357635735686> **aespa** Winter",
             "song": "Drama",
             "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1225457463218929765/ADMWT.png?ex=66213333&is=660ebe33&hm=fc76435cdd610efc53b9dabcf2db0919b8a3f84828902800808dbe7cd51c8b9d&",
             "group": "aespa",
@@ -1060,7 +1060,7 @@
    ],
     "ADMNN": [
         {
-            "name": " **aespa** Ningning",
+            "name": "<:1a:1248301357635735686> **aespa** Ningning",
             "song": "Drama",
             "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1225457463755538575/ADMNN.png?ex=66213333&is=660ebe33&hm=d2d05e8272132ac84d46bb92db1ea348499170fe1cd5f2105818f900cf80da42&",
             "group": "aespa",
@@ -1070,7 +1070,7 @@
    ],
     "PFIKH": [
         {
-            "name": " **P1Harmony** Keeho ",
+            "name": "<:1a:1248301357635735686> **P1Harmony** Keeho ",
             "song": "Fall In Love Again",
             "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445838252281996/PFIKH.png?ex=6621285f&is=660eb35f&hm=398f2ba93f242d61f7ff25908fc6da70854652bfd57ae124715bfa13c3b4901c&",
             "group": "P1harmony",
@@ -1080,7 +1080,7 @@
    ],
     "PFITO": [
         {
-            "name": " **P1Harmony** Theo",
+            "name": "<:1a:1248301357635735686> **P1Harmony** Theo",
             "song": "Fall In Love Again",
             "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445838827032596/PFITH.png?ex=6621285f&is=660eb35f&hm=a5edf7624894eead6f9d988c78d69d900c859a5fac0fcae98b71c804f5222d38&",
             "group": "P1harmony",
@@ -1090,7 +1090,7 @@
    ],
     "PFIJU": [
         {
-            "name": " **P1Harmony** Jiung",
+            "name": "<:1a:1248301357635735686> **P1Harmony** Jiung",
             "song": "Fall In Love Again",
             "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445839657373748/PFIJU.png?ex=6621285f&is=660eb35f&hm=62d69bb698e94a018ca033fd98fbed3309a6b17e8d92c51bfabac17ff42c4e71&",
             "group": "P1harmony",
@@ -1100,7 +1100,7 @@
    ],
     "PFIIT": [
         {
-            "name": " **P1Harmony** Intak",
+            "name": "<:1a:1248301357635735686> **P1Harmony** Intak",
             "song": "Fall In Love Again",
             "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445840802549912/PFIIT.png?ex=66212860&is=660eb360&hm=b88775cc295fee7a420d00bebea87f17b60905d1d96abdfdb32ef50e30e309db&",
             "group": "P1harmony",
@@ -1110,7 +1110,7 @@
    ],
     "PFISO": [
         {
-            "name": " **P1Harmony** Soul",
+            "name": "<:1a:1248301357635735686> **P1Harmony** Soul",
             "song": "Fall In Love Again",
             "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445841616240710/PFISO.png?ex=66212860&is=660eb360&hm=0d3337e4731155ca1d224aba10e581883d695dfdff22011f79ff05e3e1a90b6a&",
             "group": "P1harmony",
@@ -1120,7 +1120,7 @@
    ],
     "PFIJS": [
         {
-            "name": " **P1Harmony** Jongseob",
+            "name": "<:1a:1248301357635735686> **P1Harmony** Jongseob",
             "song": "Fall In Love Again",
             "image": "https://cdn.discordapp.com/attachments/1225445710342914139/1225445842593386646/PFIJS.png?ex=66212860&is=660eb360&hm=a62eaf5c269bbb3a98d0668955c44fb88aef7e86542005f20939e248a459af32&",
             "group": "P1harmony",
@@ -1130,7 +1130,7 @@
    ],
     "TDJSB": [
         {
-            "name": " **TOMORROW X TOGETHER** Soobin",
+            "name": "<:1a:1248301357635735686> **TOMORROW X TOGETHER** Soobin",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260070351409232/TDJSB.png?ex=66207b5d&is=660e065d&hm=ff5c0bae7ab74b2344cdfb287e1f49ac93760b684994c92ae9b6e070802efd76&",
             "group": "Tomorrow X Together",
@@ -1140,7 +1140,7 @@
    ],
     "TDJYJ": [
         {
-            "name": " **TOMORROW X TOGETHER** Yeonjun",
+            "name": "<:1a:1248301357635735686> **TOMORROW X TOGETHER** Yeonjun",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260070862979124/TDJYJ.png?ex=66207b5d&is=660e065d&hm=cfcb3aea8f990c6b42fd9b4f6b7bae9170e9afc90a6f0e73d48dfc630c6b0a77&",
             "group": "Tomorrow X Together",
@@ -1150,7 +1150,7 @@
    ],
     "TDJBG": [
         {
-            "name": " **TOMORROW X TOGETHER** Beomgyu",
+            "name": "<:1a:1248301357635735686> **TOMORROW X TOGETHER** Beomgyu",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260071454244944/TDJBG.png?ex=66207b5d&is=660e065d&hm=f7be2e2a9011cd0dcb346a2ffbeacc7dab8834f44f61cc3652e5c084f73153e7&",
             "group": "Tomorrow X Together",
@@ -1160,7 +1160,7 @@
    ],
     "TDJTH": [
         {
-            "name": " **Tomorrow X Together** Taehyun",
+            "name": "<:1a:1248301357635735686> **Tomorrow X Together** Taehyun",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260071941050458/TDJTH.png?ex=66207b5d&is=660e065d&hm=3635928129702bc28c8ede2e74c5f2d8bd8c5841d1c8fd769ae0b436425ffc68&",
             "group": "Tomorrow X Together",
@@ -1170,7 +1170,7 @@
    ],
     "TDJHK": [
         {
-            "name": " **TOMORROW X TOGETHER** Huening Kai",
+            "name": "<:1a:1248301357635735686> **TOMORROW X TOGETHER** Huening Kai",
             "song": "Deja Vu",
             "image": "https://cdn.discordapp.com/attachments/1225259969029603399/1225260073039822929/TDJHK.png?ex=66207b5d&is=660e065d&hm=22b063454a118f102186e3bf70e19ee208d03d67f8c0b9ab6d95ec7428d5f06e&",
             "group": "Tomorrow X Together",
@@ -1180,7 +1180,7 @@
    ],
     "KMTJL": [
         {
-            "name": " **KISS OF LIFE** Julie",
+            "name": "<:1a:1248301357635735686> **KISS OF LIFE** Julie",
             "song": "Midas Touch",
             "image": "https://cdn.discordapp.com/attachments/1225246302888263722/1225246421117046866/KMTJL.png?ex=66206ea6&is=660df9a6&hm=f7c409bce08a5ebd37ef7c2bd984a97ced5a1e7ab8bbcd70e169c0db8ee28ab5&",
             "group": "KISS OF LIFE",
@@ -1190,7 +1190,7 @@
    ],
     "KMTNT": [
         {
-            "name": " **KISS OF LIFE** Natty",
+            "name": "<:1a:1248301357635735686> **KISS OF LIFE** Natty",
             "song": "Midas Touch",
             "image": "https://cdn.discordapp.com/attachments/1225246302888263722/1225246421704245320/KMTNT.png?ex=66206ea6&is=660df9a6&hm=c7ae4620de85400118bb886acbe4cf84ab368221f54b1d24bdbfaadbd474d7ff&",
             "group": "KISS OF LIFE",
@@ -1200,7 +1200,7 @@
    ],
     "KMTHN": [
         {
-            "name": " **KISS OF LIFE** Haneul",
+            "name": "<:1a:1248301357635735686> **KISS OF LIFE** Haneul",
             "song": "Midas Touch",
             "image": "https://cdn.discordapp.com/attachments/1225246302888263722/1225246422853484625/KMTHN.png?ex=66206ea7&is=660df9a7&hm=30f1c2e35a51d58c7ef79d86716aa8c0f5bbc8c80c052995ae3c58b21bb4da7e&",
             "group": "KISS OF LIFE",
@@ -1210,7 +1210,7 @@
    ],
     "KMTBE": [
         {
-            "name": " **KISS OF LIFE** Belle",
+            "name": "<:1a:1248301357635735686> **KISS OF LIFE** Belle",
             "song": "Midas Touch",
             "image": "https://cdn.discordapp.com/attachments/1225246302888263722/1225246422320812082/KMTBL.png?ex=66206ea7&is=660df9a7&hm=e62b6d408af89422b8ad924d3f7eb1858389eecfefeac7705035a555f62503f1&",
             "group": "KISS OF LIFE",
@@ -1220,7 +1220,7 @@
     ],
     "WUNSA": [
         {
-            "name": " **WJSN** SeolA",
+            "name": "<:1a:1248301357635735686> **WJSN** SeolA",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232530592858112/WJSN_Unnatural_20240407020804.png?ex=66240509&is=66119009&hm=b8b08315ef70c316431c530b2474f8e4de00547311881bbd5bf26c43b7578e41&",
             "group": "WJSN",
@@ -1230,7 +1230,7 @@
     ],
     "WUNBN": [
         {
-            "name": " **WJSN** Bona",
+            "name": "<:1a:1248301357635735686> **WJSN** Bona",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232530936659998/WJSN_Unnatural_20240407020811.png?ex=66240509&is=66119009&hm=05562b70a9fea31ca13b14ac8cdea6d1918f579770d1cb9f725f2f3a9e5181c7&",
             "group": "WJSN",
@@ -1240,7 +1240,7 @@
     ],
     "WUNEX": [
         {
-            "name": " **WJSN** Exy",
+            "name": "<:1a:1248301357635735686> **WJSN** Exy",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232531427266741/WJSN_Unnatural_20240407020759.png?ex=66240509&is=66119009&hm=c37ddb6a2bb3f688667dd3ae78ce3d0ce7667ecab8ba2b3c31fa691bff210b1c&",
             "group": "WJSN",
@@ -1250,7 +1250,7 @@
     ],
     "WUNSB": [
         {
-            "name": " **WJSN** Soobin",
+            "name": "<:1a:1248301357635735686> **WJSN** Soobin",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232531796623420/WJSN_Unnatural_20240407020841.png?ex=66240509&is=66119009&hm=542473a078a3a0ab3b86a5dac705115c5959122297ad308c7dec4566f9e0b52c&",
             "group": "WJSN",
@@ -1260,7 +1260,7 @@
     ],
     "WUNLD": [
         {
-            "name": " **WJSN** Luda",
+            "name": "<:1a:1248301357635735686> **WJSN** Luda",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232532266254346/WJSN_Unnatural_20240407020817.png?ex=66240509&is=66119009&hm=11376f0b07034b453744a5d10532a69431b672f88e315dff0cc75f3cd143fffb&",
             "group": "WJSN",
@@ -1270,7 +1270,7 @@
     ],
     "WUNDW": [
         {
-            "name": " **WJSN** Dawon",
+            "name": "<:1a:1248301357635735686> **WJSN** Dawon",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232532597477418/WJSN_Unnatural_20240407020829.png?ex=6624050a&is=6611900a&hm=8c1fffe82403192c94b01215e32a441c8bdf2d5b38454a721c93e1a60994e210&",
             "group": "WJSN",
@@ -1280,7 +1280,7 @@
     ],
     "WUNES": [
         {
-            "name": " **WJSN** Eunseo",
+            "name": "<:1a:1248301357635735686> **WJSN** Eunseo",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232532933279754/WJSN_Unnatural_20240407020851.png?ex=6624050a&is=6611900a&hm=65ac9b2bc1b7a78f4a192bdae80791c1ce79ea81b9e8b6e296cf8e6c0bd012d3&",
             "group": "WJSN",
@@ -1290,7 +1290,7 @@
      ],
     "WUNYR": [
         {
-            "name": " **WJSN** Yeoreum",
+            "name": "<:1a:1248301357635735686> **WJSN** Yeoreum",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232533314830439/WJSN_Unnatural_20240407020751.png?ex=6624050a&is=6611900a&hm=b031680a14ef0e08499aece9b3d99338c777a6b949121cc0e9cf09aa52dbc92c&",
             "group": "WJSN",
@@ -1300,7 +1300,7 @@
     ],
     "WUNDY": [
         {
-            "name": " **WJSN** Dayoung",
+            "name": "<:1a:1248301357635735686> **WJSN** Dayoung",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232533780529252/WJSN_Unnatural_20240407020823.png?ex=6624050a&is=6611900a&hm=7aedf70e187586030766ef9650c48e51a754868d79e772eadc0ae661585c090f&",
             "group": "WJSN",
@@ -1310,7 +1310,7 @@
     ],
     "WUNYJ": [
         {
-            "name": " **WJSN** Yeonjung",
+            "name": "<:1a:1248301357635735686> **WJSN** Yeonjung",
             "song": "UNNATURAL",
             "image": "https://media.discordapp.net/attachments/1226232315550630072/1226232534157885440/WJSN_Unnatural_20240407020836.png?ex=6624050a&is=6611900a&hm=af44376f39ac8a11034ec49918a2de707b93c4e1261ce9d46771accbfda84fec&",
             "group": "WJSN",
@@ -1320,7 +1320,7 @@
     ],
     "TNTSY": [
         {
-            "name": " **THE BOYZ** Sangyeon",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Sangyeon",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226396490108988/THEBOYZ_NECTAR_20240407014415.png?ex=6623ff53&is=66118a53&hm=202fa11856f4a8e23d0d619f7f7b35ca61c8fafa53059e1028292f3548b3eec5&",
             "group": "THE BOYZ",
@@ -1330,7 +1330,7 @@
     ],
     "TNTJC": [
         {
-            "name": " **THE BOYZ** Jacob",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Jacob",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226396901281872/THEBOYZ_NECTAR_20240407014409.png?ex=6623ff53&is=66118a53&hm=3f861922f40f8eb732109ea86d95dd5c3b8cb8471c80daee28c8808934f37a0d&",
             "group": "THE BOYZ",
@@ -1340,7 +1340,7 @@
     ],
     "TNTYH": [
         {
-            "name": " **THE BOYZ** Younghoon",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Younghoon",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226397249405039/THEBOYZ_NECTAR_20240407014400.png?ex=6623ff53&is=66118a53&hm=310a57b9efa939d82da8396a017bf696a33da5a7a948c6d2567a043b19d58728&",
             "group": "THE BOYZ",
@@ -1350,7 +1350,7 @@
     ],
     "TNTHJ": [
         {
-            "name": " **THE BOYZ** Hyunjae",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Hyunjae",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226397572239401/THEBOYZ_NECTAR_20240407014351.png?ex=6623ff53&is=66118a53&hm=32fc51365a70d8981814d4cb3018c40a696dd9063225556d393d06c3b09aa411&",
             "group": "THE BOYZ",
@@ -1360,7 +1360,7 @@
     ],
     "TNTJY": [
         {
-            "name": " **THE BOYZ** Juyeon",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Juyeon",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226397920497754/THEBOYZ_NECTAR_20240407014344.png?ex=6623ff53&is=66118a53&hm=6c23169e119ba31f752be113bdd7c5f9fcb2fc815bef9a7ed85620932bd9af33&",
             "group": "THE BOYZ",
@@ -1370,7 +1370,7 @@
      ],
     "TNTKV": [
         {
-            "name": " **THE BOYZ** Kevin",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Kevin",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226428572598302/THEBOYZ_NECTAR_20240407014339.png?ex=6623ff5a&is=66118a5a&hm=179659badd1aaaddf23e22d1c04ad97732b95dc9210c989c76f94a9bf620ede2&",
             "group": "THE BOYZ",
@@ -1380,7 +1380,7 @@
     ],
     "TNTNE": [
         {
-            "name": " **THE BOYZ** New",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** New",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226428979314791/THEBOYZ_NECTAR_20240407014331.png?ex=6623ff5a&is=66118a5a&hm=43feff1c86323777b45c15921e90fc500ad96170c09dae73219cdb4b53ca5f2c&",
             "group": "THE BOYZ",
@@ -1390,7 +1390,7 @@
     ],
     "TNTJQ": [
         {
-            "name": " **THE BOYZ** Q",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Q",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226429348286484/THEBOYZ_NECTAR_20240407014325.png?ex=6623ff5a&is=66118a5a&hm=077d482c4d3b17dfe03b286bf8f313f01738f116339df512c30ac3d47aa869c2&",
             "group": "THE BOYZ",
@@ -1400,7 +1400,7 @@
     ],
     "TNTJH": [
         {
-            "name": " **THE BOYZ** Juhaknyeon",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Juhaknyeon",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226429709254666/THEBOYZ_NECTAR_20240407014320.png?ex=6623ff5b&is=66118a5b&hm=8569343bda2e19bca59a0bbb76b3bb5c07dc87635e67cc01a08cbf25c61142d7&",
             "group": "THE BOYZ",
@@ -1410,7 +1410,7 @@
     ],
     "TNTSW": [
         {
-            "name": " **THE BOYZ** Sunwoo",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Sunwoo",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226430048862278/THEBOYZ_NECTAR_20240407014314.png?ex=6623ff5b&is=66118a5b&hm=9c2c79d2e2669a111cdecda95741fafb428f48d88d69e516cc78af54645a7644&",
             "group": "THE BOYZ",
@@ -1420,7 +1420,7 @@
     ],
     "TNTER": [
         {
-            "name": " **THE BOYZ** Eric",
+            "name": "<:1a:1248301357635735686> **THE BOYZ** Eric",
             "song": "Nectar",
             "image": "https://media.discordapp.net/attachments/1226226172258680883/1226226430380085328/THEBOYZ_NECTAR_20240407014258.png?ex=6623ff5b&is=66118a5b&hm=95bbe160b0b390cfabc4cd610fd5b4d3fcb929c84a0bc4ffadaac2f89aac5ca6&",
             "group": "THE BOYZ",
@@ -1430,7 +1430,7 @@
    ],
     "BPVJS": [
         {
-            "name": " **BLACKPINK** Jisoo",
+            "name": "<:1a:1248301357635735686> **BLACKPINK** Jisoo",
             "song": "Pink Venom",
             "image": "https://media.discordapp.net/attachments/1226481089128828958/1226481337892995082/BPVJS.png?ex=6624ecc1&is=661277c1&hm=0edab85d023b538c11ebab633c4fde509aface7fa093144003ba5f3fbb1d3431&",
             "group": "BLACKPINK",
@@ -1440,7 +1440,7 @@
    ],
     "BPVJN": [
         {
-            "name": " **BLACKPINK** Jennie",
+            "name": "<:1a:1248301357635735686> **BLACKPINK** Jennie",
             "song": "Pink Venom",
             "image": "https://media.discordapp.net/attachments/1226481089128828958/1226481338555699291/BPVJN.png?ex=6624ecc2&is=661277c2&hm=e8cb207bf8df82dd4f1f10fa70941c037aa3a741aac0564a86e258417b9bacff&",
             "group": "BLACKPINK",
@@ -1450,7 +1450,7 @@
     ],
     "BPVLS": [
         {
-            "name": " **BLACKPINK** Lisa",
+            "name": "<:1a:1248301357635735686> **BLACKPINK** Lisa",
             "song": "Pink Venom",
             "image": "https://media.discordapp.net/attachments/1226481089128828958/1226481339662995507/BPVLS.png?ex=6624ecc2&is=661277c2&hm=e2c0729e6da36559e33baa625645b2a2a68178f8402b297818bebfcfd3ec933d&",
             "group": "BLACKPINK",
@@ -1460,7 +1460,7 @@
     ],
     "BPVRS": [
         {
-            "name": " **BLACKPINK** Rosé",
+            "name": "<:1a:1248301357635735686> **BLACKPINK** Rosé",
             "song": "Pink Venom",
             "image": "https://media.discordapp.net/attachments/1226481089128828958/1226481339105280000/BPVRS.png?ex=6624ecc2&is=661277c2&hm=80f0f89c4234b2acc3e3058f0e439eaa0f695331c5cba97307a34853148d52b4&",
             "group": "BLACKPINK",
@@ -1470,7 +1470,7 @@
      ],
     "TGCXY": [
         {
-            "name": " **TripleS LOVElution** Xinyu",
+            "name": "<:1a:1248301357635735686> **TripleS LOVElution** Xinyu",
             "song": "Girls' Capitalism",
             "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359921998696550/TGCXY.png?ex=66247bae&is=661206ae&hm=a8ef67eccb69a5d46e34a447d209f05cb9dd1460d11916018892175987841ee5&",
             "group": "TripleS Lovelution",
@@ -1480,7 +1480,7 @@
     ],
     "TGCSH": [
         {
-            "name": " **TripleS LOVElution** Sohyun",
+            "name": "<:1a:1248301357635735686> **TripleS LOVElution** Sohyun",
             "song": "Girls' Capitalism",
             "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359922493755504/TGCSH.png?ex=66247bae&is=661206ae&hm=c0052571e6f222fd92e15c94b1d059ee226a80cb94d17246d4d60faa81dcdc18&",
             "group": "TripleS Lovelution",
@@ -1490,7 +1490,7 @@
      ],
     "TGCDH": [
         {
-            "name": " **TripleS LOVElution** Dahyun",
+            "name": "<:1a:1248301357635735686> **TripleS LOVElution** Dahyun",
             "song": "Girls' Capitalism",
             "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359923089342584/TGCDH.png?ex=66247bae&is=661206ae&hm=4ddd92e74615ee77f128869185e9076d311c4e4a157063797d4bdd6cf33b66fa&",
             "group": "TripleS Lovelution",
@@ -1500,7 +1500,7 @@
     ],
     "TGCNE": [
         {
-            "name": " **TripleS LOVElution** Nien",
+            "name": "<:1a:1248301357635735686> **TripleS LOVElution** Nien",
             "song": "Girls' Capitalism",
             "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359923450056864/TGCNE.png?ex=66247bae&is=661206ae&hm=701e93d697de9cdf84fe375dbbd5d5b28beff74914cba1ef7fa02a486d8ff7e5&",
             "group": "TripleS Lovelution",
@@ -1510,7 +1510,7 @@
     ],
     "TGCSY": [
         {
-            "name": " **TripleS LOVElution** Seoyeon",
+            "name": "<:1a:1248301357635735686> **TripleS LOVElution** Seoyeon",
             "song": "Girls' Capitalism",
             "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359924083265556/TGCSY.png?ex=66247bae&is=661206ae&hm=4c1d922925a8f56ad8de1109a9b2e3bb1bf09689ad48dc7e7d047c39866068ac&",
             "group": "TripleS Lovelution",
@@ -1520,7 +1520,7 @@
     ],
     "TGCYB": [
         {
-            "name": " **TripleS LOVElution** Yubin",
+            "name": "<:1a:1248301357635735686> **TripleS LOVElution** Yubin",
             "song": "Girls' Capitalism",
             "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359924590907505/TGCYB.png?ex=66247bae&is=661206ae&hm=01072bf4b32d977f0cc76ed95acc64ef2f876435c8c4f6bd4ac6d1d19befff04&",
             "group": "TripleS Lovelution",
@@ -1530,7 +1530,7 @@
    ],
     "TGCKE": [
         {
-            "name": " **TripleS LOVElution** Kaede",
+            "name": "<:1a:1248301357635735686> **TripleS LOVElution** Kaede",
             "song": "Girls' Capitalism",
             "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359925089898627/TGCKD.png?ex=66247bae&is=661206ae&hm=05002ef5a66dfde7dfc852775d7d5bb813a5d818f957cd82fd71f9eb7850ead6&",
             "group": "TripleS Lovelution",
@@ -1540,7 +1540,7 @@
     ],
     "TGCHR": [
         {
-            "name": " **TripleS LOVElution** Hyerin",
+            "name": "<:1a:1248301357635735686> **TripleS LOVElution** Hyerin",
             "song": "Girls' Capitalism",
             "image": "https://media.discordapp.net/attachments/1226359695816785930/1226359925501067386/TGCHR.png?ex=66247bae&is=661206ae&hm=63437a21e50a7f3f487158b76863deddb042efbb635d075caaae9869c111b0da&",
             "group": "TripleS Lovelution",
@@ -1550,7 +1550,7 @@
     ],
     "EOFHS": [
         {
-            "name": "**ENHYPEN** Heeseung",
+            "name": "<:1a:1248301357635735686> **ENHYPEN** Heeseung",
             "song": "Orange Flower (You Complete Me)",
             "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404481361514546/EOFHS.png?ex=6624a52d&is=6612302d&hm=bed6d08de30699598f9f6a4c33bb547a092f58ae83241764ab4b1aafe73470eb&",
             "group": "ENHYPEN",
@@ -1560,7 +1560,7 @@
     ],
     "EOFJA": [
         {
-            "name": "**ENHYPEN** Jay",
+            "name": "<:1a:1248301357635735686> **ENHYPEN** Jay",
             "song": "Orange Flower (You Complete Me)",
             "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404481885798400/EOFJA.png?ex=6624a52d&is=6612302d&hm=5796698aa3e38fb2a56aecf1c357f71145c8a2ad72bde3328406d25563eb3e23&",
             "group": "ENHYPEN",
@@ -1570,7 +1570,7 @@
     ],
     "EOFJK": [
         {
-            "name": "**ENHYPEN** Jake",
+            "name": "<:1a:1248301357635735686> **ENHYPEN** Jake",
             "song": "Orange Flower (You Complete Me)",
             "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404482368147476/EOFJK.png?ex=6624a52e&is=6612302e&hm=46df6274af0ddff3f4408f9876c338dd246c4d84bedd4e47ecc332a95e9405eb&",
             "group": "ENHYPEN",
@@ -1580,7 +1580,7 @@
    ],
     "EOFSH": [
         {
-            "name": "**ENHYPEN** Sunghoon",
+            "name": "<:1a:1248301357635735686> **ENHYPEN** Sunghoon",
             "song": "Orange Flower (You Complete Me)",
             "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404482972123166/EOFSH.png?ex=6624a52e&is=6612302e&hm=e87824740a4df262d4ed9d3bc7a71755423ace1ebc631f505dc61c26e4bb835e&",
             "group": "ENHYPEN",
@@ -1590,7 +1590,7 @@
    ],
     "EOFSN": [
         {
-            "name": "**ENHYPEN** Sunoo",
+            "name": "<:1a:1248301357635735686> **ENHYPEN** Sunoo",
             "song": "Orange Flower (You Complete Me)",
             "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404483467317278/EOFSN.png?ex=6624a52e&is=6612302e&hm=2a1eeb2e641dc8447b2a12d5f1cf3b445495ab24243b23afa72cde3c4bdeb0d4&",
             "group": "ENHYPEN",
@@ -1600,7 +1600,7 @@
     ],
     "EOFJW": [
         {
-            "name": "**ENHYPEN** Jungwon",
+            "name": "<:1a:1248301357635735686> **ENHYPEN** Jungwon",
             "song": "Orange Flower (You Complete Me)",
             "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404484104851477/EOFJW.png?ex=6624a52e&is=6612302e&hm=210709cd9d34cc353c65a69fadecb99f4b0db5198ebce28df867b440aca2f5c5&",
             "group": "ENHYPEN",
@@ -1610,7 +1610,7 @@
     ],
     "EOFNK": [
         {
-            "name": "**ENHYPEN** Ni-ki",
+            "name": "<:1a:1248301357635735686> **ENHYPEN** Ni-ki",
             "song": "Orange Flower (You Complete Me)",
             "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1226404484612100208/EOFNK.png?ex=6624a52e&is=6612302e&hm=448c774d55e490e55ff18aaaf0b827d7c9e9fad4ef4dc71fa826e1e545035b72&",
             "group": "ENHYPEN",
@@ -1620,7 +1620,7 @@
      ],
     "ECSSH": [
         {
-            "name": "**EXO** Suho",
+            "name": "<:1a:1248301357635735686> **EXO** Suho",
             "song": "Cream Soda",
             "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481847676964864/ECSSH.png?ex=6624ed3b&is=6612783b&hm=ccd3b533d84abc29bb5b5730a75cc1e26cc4e5dbeb8bd6b2ed0faccf20f01ebe&",
             "group": "EXO",
@@ -1630,7 +1630,7 @@
      ],
     "ECSXM": [
         {
-            "name": "**EXO** Xiumin",
+            "name": "<:1a:1248301357635735686> **EXO** Xiumin",
             "song": "Cream Soda",
             "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481848146989178/ECSXM.png?ex=6624ed3b&is=6612783b&hm=42b9b1e618b39575777caeb5b6801d464c82d2340764faa193471764d17e9708&",
             "group": "EXO",
@@ -1640,7 +1640,7 @@
      ],
     "ECSBH": [
         {
-            "name": "**EXO** Baekhyun",
+            "name": "<:1a:1248301357635735686> **EXO** Baekhyun",
             "song": "Cream Soda",
             "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481848662622278/ECSBH.png?ex=6624ed3b&is=6612783b&hm=ae42415234e7fd6116d490b7a7efc4aa950db64c87c0fb94cca8796f4a27fad7&",
             "group": "EXO",
@@ -1650,7 +1650,7 @@
      ],
     "ECSCH": [
         {
-            "name": "**EXO** Chen",
+            "name": "<:1a:1248301357635735686> **EXO** Chen",
             "song": "Cream Soda",
             "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481849283383356/ECSCH.png?ex=6624ed3b&is=6612783b&hm=ba6bb6f093957776846acd212a7bedf92787c0ca202c1f862ad82dc3bc3a61e1&",
             "group": "EXO",
@@ -1660,7 +1660,7 @@
     ],
     "ECSCY": [
         {
-            "name": "**EXO** Chanyeol",
+            "name": "<:1a:1248301357635735686> **EXO** Chanyeol",
             "song": "Cream Soda",
             "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481849820516392/ECSCY.png?ex=6624ed3b&is=6612783b&hm=fa8b6d2bed7b9b9226f47850a7e710dced06d2671af7c54053a9adefe3050747&",
             "group": "EXO",
@@ -1670,7 +1670,7 @@
     ],
     "ECSDO": [
         {
-            "name": "**EXO** D.O.",
+            "name": "<:1a:1248301357635735686> **EXO** D.O.",
             "song": "Cream Soda",
             "image": "https://media.discordapp.net/attachments/1226481359594197032/1228378972325412884/DOECS.png?ex=662bd411&is=66195f11&hm=c684fd0bd19e5372ac3598ecd84739ce34c293d25fba6f18c970c44ffeaebded&=&format=webp&quality=lossless&width=496&height=662",
             "group": "EXO",
@@ -1680,7 +1680,7 @@
     ],
     "ECSKA": [
         {
-            "name": "**EXO** Kai",
+            "name": "<:1a:1248301357635735686> **EXO** Kai",
             "song": "Cream Soda",
             "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481850793332846/ECSKA.png?ex=6624ed3c&is=6612783c&hm=bb9f2d442e3797fffca127d5007b8d38c76536fd1bdf40a906f6111bef4dd8e2&",
             "group": "EXO",
@@ -1690,7 +1690,7 @@
     ],
     "ECSSE": [
         {
-            "name": "**EXO** Sehun",
+            "name": "<:1a:1248301357635735686> **EXO** Sehun",
             "song": "Cream Soda",
             "image": "https://cdn.discordapp.com/attachments/1226481359594197032/1226481851258896394/ECSSE.png?ex=6624ed3c&is=6612783c&hm=57579d2c4d8a8fa7085af3c43446402790fda5b4ccbc4aece04749fba79d7296&",
             "group": "EXO",
@@ -1700,7 +1700,7 @@
     ],
     "LHKE": [
         {
-            "name": "**Soloist** KWON EUNBI",
+            "name": "<:1a:1248301357635735686> **Soloist** KWON EUNBI",
             "song": "Like Heaven",
             "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1225322252548046858/LHKE.png?ex=6620b546&is=660e4046&hm=2b410cc758d2dfa861f774ff7b74e930248c6a4c6b55f1f127a30494845a9740&",
             "group": "Soloist",
@@ -1710,7 +1710,7 @@
     ],
     "TATY": [
         {
-            "name": "**Soloist** Taeyong",
+            "name": "<:1a:1248301357635735686> **Soloist** Taeyong",
             "song": "TAP",
             "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1225450705909846181/TATY.png?ex=66212ce8&is=660eb7e8&hm=a666644ac239c4e56d72b775ba11b2fe792a5b706547dd6f4890845194cfae41&",
             "group": "Soloist",
@@ -1720,7 +1720,7 @@
     ],
     "STCE": [
         {
-            "name": "**Soloist** Cha Eunwoo",
+            "name": "<:1a:1248301357635735686> **Soloist** Cha Eunwoo",
             "song": "STAY",
             "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1226393439503908964/Soloist_20240407124913.png?ex=66249ae5&is=661225e5&hm=0259ec14bdf6658403cf51212ba99f99c2dd4c0be039def36a03c66c3a66fc83&",
             "group": "Soloist",
@@ -1730,7 +1730,7 @@
     ],
     "LWIU": [
         {
-            "name": "**Soloist** IU",
+            "name": "<:1a:1248301357635735686> **Soloist** IU",
             "song": "Love Wins All",
             "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1226395902537895966/Soloist_20240407125850.png?ex=66249d30&is=66122830&hm=125684437cc8ea56b81b2b9580e952a19d0554e63445e46fe1e458123d557a80&",
             "group": "Soloist",
@@ -1740,7 +1740,7 @@
     ],
     "OMYG": [
         {
-            "name": "**Soloist** Yugyeom",
+            "name": "<:1a:1248301357635735686> **Soloist** Yugyeom",
             "song": "1 Minute",
             "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1226482096466427965/1MYG.png?ex=6624ed76&is=66127876&hm=e4aeb687c5004a93f8f420f69bfa6727328faf6b779861996114ac3d2aa357c7&",
             "group": "Soloist",
@@ -1750,7 +1750,7 @@
     ],
     "TXJY": [
         {
-            "name": "**Soloist** JO YURI",
+            "name": "<:1a:1248301357635735686> **Soloist** JO YURI",
             "song": "TAXI",
             "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1226482121288319039/TXJY.png?ex=6624ed7c&is=6612787c&hm=66d3812211672e97d6acabd896b25a769faa0ec63b52c9e5d242c99d9426563b&",
             "group": "EXO",
