@@ -6095,6 +6095,166 @@
             "group": "Event",
             "type": "EVENTS",
             "code": "`HDCSI`"
+        }
+],
+    "NHSMJ": [
+        {
+            "name": "<:1b:1248301243705856142> **NewJeans** Minji",
+            "song": "How Sweet",
+            "image": "https://cdn.discordapp.com/attachments/1223674288327102515/1247031706360352799/NHSMJ.png?ex=666523c7&is=6663d247&hm=c8e645244457b0ec5d86b665064408ab58555aa7f15df234e8adfd290a42f54e&",
+            "group": "NewJeans",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`NHSMJ`"
+        }
+],
+    "NHSHN": [
+        {
+            "name": "<:1b:1248301243705856142> **NewJeans** Hanni",
+            "song": "How Sweet",
+            "image": "https://cdn.discordapp.com/attachments/1223674288327102515/1247031706960265297/NHSHN.png?ex=666523c7&is=6663d247&hm=470ab3b3b10b067e40b710239aace43c31c24b4929a68e4737b3dc376e6728f2&",
+            "group": "NewJeans",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`NHSHN`"
+        }
+],
+    "NHSDN": [
+        {
+            "name": "<:1b:1248301243705856142> **NewJeans** Danielle",
+            "song": "How Sweet",
+            "image": "https://cdn.discordapp.com/attachments/1223674288327102515/1247031707555725422/NHSDN.png?ex=666523c7&is=6663d247&hm=785de5d5dbca619dc37f262c777128aa4d1d7a8a45bfd5c01e337fafd2102fd2&",
+            "group": "NewJeans",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`NHSDN`"
+        }
+],
+    "NHSHR": [
+        {
+            "name": "<:1b:1248301243705856142> **NewJeans** Haerin",
+            "song": "How Sweet",
+            "image": "https://cdn.discordapp.com/attachments/1223674288327102515/1247031708096794634/NHSHR.png?ex=666523c7&is=6663d247&hm=1a11b4ff207b50a98c922bb1668b652795e3e6b101298ca8b6885fe1c4bb862b&",
+            "group": "NewJeans",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`NHSHR`"
+        }
+],
+    "NHSHI": [
+        {
+            "name": "<:1b:1248301243705856142> **NewJeans** Hyein",
+            "song": "How Sweet",
+            "image": "https://cdn.discordapp.com/attachments/1223674288327102515/1247031708700905522/NHSHI.png?ex=666523c8&is=6663d248&hm=3c18a0e8fbfc9aeba7ccd402a26c7582d377c99eddd8180bb8a37173367647c0&",
+            "group": "NewJeans",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`NHSHI`"
+        }
+],
+    "ZFPKJ": [
+        {
+            "name": "<:1b:1248301243705856142> **ZEROBASEONE** Kim Jiwoong",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102048357580840/ZFPKJ.png?ex=6665654a&is=666413ca&hm=c9a5558c5d9f8a903cf235d3e3cc6b039ee84f43663e633cf9c6e2efb795c46f&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPKJ`"
+        }
+],
+    "ZFPZH": [
+        {
+            "name": "<:1b:1248301243705856142> **ZEROBASEONE** Zhang Hao",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102048835604480/ZFPZH.png?ex=6665654a&is=666413ca&hm=3bb52aabf4a32bcd5275555c90ffa123d68e29030fee380bf4c7f666f3b9784b&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPZH`"
+        }
+],
+    "ZFPSH": [
+        {
+            "name": "<:1b:1248301243705856142> **ZEROBASEONE** Sung Hanbin",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102049313882125/ZFPSH.png?ex=6665654a&is=666413ca&hm=8a0a0c8b8a25d7aaed5172e084d8230aaca9dd94cf4f2f8460e43bfab0ce669b&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPSH`"
+        }
+],
+    "ZFPSM": [
+        {
+            "name": "<:1b:1248301243705856142> **ZEROBASEONE** Seok Matthew",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102049817067551/ZFPSM.png?ex=6665654a&is=666413ca&hm=35362493bbdd2d8cc5ded3387466859b4c05322ffcd4cd6d049f8687bd31f30b&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPSM`"
+        }
+],
+    "ZFPKT": [
+        {
+            "name": "<:1b:1248301243705856142> **ZEROBASEONE** Kim Taerae",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102050261794836/ZFPKT.png?ex=6665654a&is=666413ca&hm=5bb2dd0d9fc4b832587e472c79401326753652813083d0b10d0d0dad78d6c039&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPKT`"
+        }
+],
+    "ZFPRK": [
+        {
+            "name": " **ZEROBASEONE** Ricky",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102050827894804/ZFPRK.png?ex=6665654a&is=666413ca&hm=e49eb720c1443c0714081802b8eea5d7760a6d4a1670d08597cf5d9abf252fc8&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPRK`"
+        }
+],
+    "ZFPKG": [
+        {
+            "name": "<:1b:1248301243705856142> **ZEROBASEONE** Kim Gyuvin",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102051301720064/ZFPKG.png?ex=6665654b&is=666413cb&hm=dc5ce3c9aa60a548582f3ab06648c6b60934969e31adca28dcd7d6ee705f3ab1&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPKG`"
+        }
+],
+    "ZFPPG": [
+        {
+            "name": "<:1b:1248301243705856142> **ZEROBASEONE** Park Gunwook",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102051729670204/ZFPPG.png?ex=6665654b&is=666413cb&hm=3ff96239b1d44845c47d5291c0c34d6d504f0cbe3e2fc51e4273fe2f185d1b0f&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPPG`"
+        }
+],
+    "ZFPHY": [
+        {
+            "name": "<:1b:1248301243705856142> **ZEROBASEONE** Han Yujin",
+            "song": "Feel the POP",
+            "image": "https://cdn.discordapp.com/attachments/1223636125143269427/1247102052291837952/ZFPHY.png?ex=6665654b&is=666413cb&hm=b977e45ececddc9af9b45b26cfbb01be41848bf5597e9aa72f8f00a1adb5786f&",
+            "group": "ZEROBASEONE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ZFPHY`"
+        }
+],
+    "MLSJ": [
+        {
+            "name": "<:1b:1248301243705856142> **Soloist** Soojin",
+            "song": "Mona LIsa",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1248645303666475019/MLSJ.png?ex=666513cf&is=6663c24f&hm=bcf6855b4e468f32fdde3eaff4ee561656f15a48ec2bf61f3636404a5f531927&",
+            "group": "soloist",
+            "type": "K-POP Soloist",
+            "code": "`MLSJ`"
+        }
+],
+    "NVKD": [
+        {
+            "name": "<:1b:1248301243705856142> **Soloist** KANGDANIEL",
+            "song": "Nirvana",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1248526029358760007/NVKD.png?ex=66654d79&is=6663fbf9&hm=92233295550ee10037fafc1846cf098baa0034d18a9009e8785d723c8bd07896&",
+            "group": "soloist",
+            "type": "K-POP Soloist",
+            "code": "`NVKD`"
         }    
     ]
 }
