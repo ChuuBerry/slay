@@ -6255,6 +6255,96 @@
             "group": "soloist",
             "type": "K-POP Soloist",
             "code": "`NVKD`"
+        }
+],
+    "ASMKY": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** K",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093821653909544/ASMKY.png?ex=66655da0&is=66640c20&hm=84720982c1fcc43d6bc27b76abd83442fa93bf776ec61b68fb2f7233893117cc&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMKY`"
+        }
+],
+    "ASMFM": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** Fuma",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093822085791754/ASMFM.png?ex=66655da1&is=66640c21&hm=8d96c8b5a9e1ea7256b87252d7e810f0fb2b2a48482586bc0fb9d096a5519bd7&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMFM`"
+        }
+],
+    "ASMNC": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** Nicholas",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093822471536710/ASMNC.png?ex=66655da1&is=66640c21&hm=a9ed38959e4453621a4bf42553a770d00d1141c71f565b02c692cb15f506a382&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMNC`"
+        }
+],
+    "ASMEJ": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** EJ",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093822958206986/ASMEJ.png?ex=66655da1&is=66640c21&hm=f5c1e7d42811d64864472b4c385fc7dbe67500e0f3c303d99a93bdaad68b1d61&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMEJ`"
+        }
+],
+    "ASMYM": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** Yuma",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093823440420904/ASMYM.png?ex=66655da1&is=66640c21&hm=5c8a9f32b9fa0b049c6f9f8fc224bd8d4db3d45edfbf70c9eac9f53156a8b6a3&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMYM`"
+        }
+],
+    "ASMJO": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** Jo",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093823793004594/ASMJO.png?ex=66655da1&is=66640c21&hm=75fc2bef9c8952be0248d4f966a461fcfab8ed5973f3a64e2d25d26bc20cb14e&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMJO`"
+        }
+],
+    "ASMHR": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** Harua",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093824287801374/ASMHR.png?ex=66655da1&is=66640c21&hm=c9a0ce984ea05f218e56e1dc82294f943b383a8765e0137f598ef1e702fb9b24&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMHR`"
+        }
+],
+    "ASMTK": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** Taki",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093824677875744/ASMTK.png?ex=66655da1&is=66640c21&hm=16a38605e20af085da0e97757d53860fda51dea5f879f91a813333a38df858a1&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMTK`"
+        }
+],
+    "ASMMK": [
+        {
+            "name": "<:1a:1248301357635735686> **&TEAM** Maki",
+            "song": "五月雨 (Samidare)",
+            "image": "https://cdn.discordapp.com/attachments/1247093152096059412/1247093825156153375/ASMMK.png?ex=66655da1&is=66640c21&hm=8ebb6b5303cc92dbd15b403c46e3654b047ed9693b8ca1325367edb82ac41d6f&",
+            "group": "&TEAM",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASMMK`"
         }    
     ]
 }
