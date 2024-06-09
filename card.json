@@ -6345,6 +6345,136 @@
             "group": "&TEAM",
             "type": "K-POP BOY GROUPS",
             "code": "`ASMMK`"
-        }    
+        }
+],
+    "XWUCS": [
+        {
+            "name": "<:1a:1248301357635735686> **XG** Chisa",
+            "song": "Woke Up",
+            "image": "https://cdn.discordapp.com/attachments/1247339891818369045/1247340519227523132/XWUCS.png?ex=66664362&is=6664f1e2&hm=1a94216301c312f3b097ac7e0e4ebf18bc5ac31fba0eae47dd04de7ab705a9e1&",
+            "group": "XG",
+            "type": "J-POP GIRL GROUPS",
+            "code": "`XWUCS`"
+        }
+],
+    "XWUHN": [
+        {
+            "name": "<:1a:1248301357635735686> **XG** Hinata",
+            "song": "Woke Up",
+            "image": "https://cdn.discordapp.com/attachments/1247339891818369045/1247340519881703434/XWUHN.png?ex=66664362&is=6664f1e2&hm=9722da7c92bb6053fb0af1ee421c55d0a6937f6c5d994f90555dd8dd8a32f416&",
+            "group": "XG",
+            "type": "J-POP GIRL GROUPS",
+            "code": "`XWUHN`"
+        }
+],
+    "XWUJR": [
+        {
+            "name": "<:1a:1248301357635735686> **XG** Jurin",
+            "song": "Woke Up",
+            "image": "https://cdn.discordapp.com/attachments/1247339891818369045/1247340520687013980/XWUJR.png?ex=66664362&is=6664f1e2&hm=71207ac9b7ea4ffcce2d799131dd408063049fa857a3804a2b1c09b855b83847&",
+            "group": "XG",
+            "type": "J-POP GIRL GROUPS",
+            "code": "`XWUJR`"
+        }
+],
+    "XWUHV": [
+        {
+            "name": "<:1a:1248301357635735686> **XG** Harvey",
+            "song": "Woke Up",
+            "image": "https://cdn.discordapp.com/attachments/1247339891818369045/1247340521408561255/XWUHV.png?ex=66664362&is=6664f1e2&hm=68345b214244c5d3c8ded9e68878dda16507e3bbdc50b69b2e91f5ca026410c1&",
+            "group": "XG",
+            "type": "J-POP GIRL GROUPS",
+            "code": "`XWUHV`"
+        }
+],
+    "XWUJA": [
+        {
+            "name": "<:1a:1248301357635735686> **XG** Juria",
+            "song": "Woke Up",
+            "image": "https://cdn.discordapp.com/attachments/1247339891818369045/1247340521899167874/XWUJA.png?ex=66664362&is=6664f1e2&hm=bd85b9e0fbe657634fd013ef14727dcab9c8d624db8a14861a10b249de00a5e3&",
+            "group": "XG",
+            "type": "J-POP GIRL GROUPS",
+            "code": "`XWUJA`"
+        }
+],
+    "XWUMY": [
+        {
+            "name": "<:1a:1248301357635735686> **XG** Maya",
+            "song": "Woke Up",
+            "image": "https://cdn.discordapp.com/attachments/1247339891818369045/1247340522507468800/XWUMY.png?ex=66664363&is=6664f1e3&hm=c87adbf165d69ae01d10e00f925a8b5a4d49019252e5457826ed60a247721bfd&",
+            "group": "XG",
+            "type": "J-POP GIRL GROUPS",
+            "code": "`XWUMY`"
+        }
+],
+    "XWUCC": [
+        {
+            "name": "<:1a:1248301357635735686> **XG** Cocona",
+            "song": "Woke Up",
+            "image": "https://cdn.discordapp.com/attachments/1247339891818369045/1247340523002527785/XWUCC.png?ex=66664363&is=6664f1e3&hm=3999358ed74e94eff28552fea7d7a5b29f5cae0cdc65ed9b7dd498e80e9433a0&",
+            "group": "XG",
+            "type": "J-POP GIRL GROUPS",
+            "code": "`XWUCC`"
+        }
+],
+    "EZBEU": [
+        {
+            "name": "<:1a:1248301357635735686 **EVERGLOW** E:U",
+            "song": "Zombie",
+            "image": "https://cdn.discordapp.com/attachments/1247360019230621696/1247360331924111441/EZBEU.png?ex=666655d5&is=66650455&hm=a7b6b25088f4c5fa4575e05ae0c5b62abf4a4099baeaa6e60395294642140ff4&",
+            "group": "EVERGLOW",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`EZBEU`"
+        }
+],
+    "EZBSH": [
+        {
+            "name": "<:1a:1248301357635735686 **EVERGLOW** Sihyeon",
+            "song": "Zombie",
+            "image": "https://cdn.discordapp.com/attachments/1247360019230621696/1247360332968628365/EZBSH.png?ex=666655d6&is=66650456&hm=c94753d951ec11345b9a499c83a6f3d67bd3c2be3ff9a4eaf2d546fee053a80e&",
+            "group": "EVERGLOW",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`EZBSH`"
+        }
+],
+    "EZBMA": [
+        {
+            "name": "<:1a:1248301357635735686 **EVERGLOW** Mia",
+            "song": "Zombie",
+            "image": "https://cdn.discordapp.com/attachments/1247360019230621696/1247360333404831785/EZBMA.png?ex=666655d6&is=66650456&hm=f3424dfcb5f369edc7b75f4e9cb14ab580c9b2b34b7021830b61b9c67e892bed&",
+            "group": "EVERGLOW",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`EZBMA`"
+        }
+],
+    "EZBOD": [
+        {
+            "name": "<:1a:1248301357635735686 **EVERGLOW** Onda",
+            "song": "Zombie",
+            "image": "https://cdn.discordapp.com/attachments/1247360019230621696/1247360333849559101/EZBOD.png?ex=666655d6&is=66650456&hm=620380ff4e7ce8ab4f4c0f6689dbfacbcba6087a82b61f185a4def065b2d4625&",
+            "group": "EVERGLOW",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`EZBOD`"
+        }
+],
+    "EZBAS": [
+        {
+            "name": "<:1a:1248301357635735686 **EVERGLOW** Aisha",
+            "song": "Zombie",
+            "image": "https://cdn.discordapp.com/attachments/1247360019230621696/1247360334281310258/EZBAS.png?ex=666655d6&is=66650456&hm=21a15f1d89dd7d001d6d2468ada5f2aee8322d351f9b45b98bbe68a2a6fa32d4&",
+            "group": "EVERGLOW",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`EZBAS`"
+        }
+],
+    "EZBYR": [
+        {
+            "name": "<:1a:1248301357635735686 **EVERGLOW** Yiren",
+            "song": "Zombie",
+            "image": "https://cdn.discordapp.com/attachments/1247360019230621696/1247360334797475860/EZBYR.png?ex=666655d6&is=66650456&hm=54eeaf486e484a6c33125324fd1091954480f093586f8cea7228378db5943483&",
+            "group": "EVERGLOW",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`EZBYR`"
+        }     
     ]
 }
