@@ -6475,6 +6475,376 @@
             "group": "EVERGLOW",
             "type": "K-POP GIRL GROUPS",
             "code": "`EZBYR`"
+        }
+],
+    "XLTGI": [
+        {
+            "name": "<:1a:1248301357635735686> **Xdinary Heroes** Gunil",
+            "song": "Little Things",
+            "image": "https://cdn.discordapp.com/attachments/1243945053207007262/1243945221654319204/XLTGI.png?ex=666869c4&is=66671844&hm=1c9231ccd3537ea7593986489e88ae9e3b62d5c1fb431b0bca9bdf0a50479533&",
+            "group": "Xdinary Heroes",
+            "type": "K-POP BOY GROUPS",
+            "code": "`XLTGI`"
+        }
+],
+    "XLTJS": [
+        {
+            "name": "<:1a:1248301357635735686> **Xdinary Heroes** Jungsu",
+            "song": "Little Things",
+            "image": "https://cdn.discordapp.com/attachments/1243945053207007262/1243945222652563486/XLTGO.png?ex=666869c4&is=66671844&hm=2b39da6b26f12560e869c2ce742f612a9a44932dc74395fe66489bf739046e88&",
+            "group": "Xdinary Heroes",
+            "type": "K-POP BOY GROUPS",
+            "code": "`XLTJS`"
+        }
+],
+    "XLTGO": [
+        {
+            "name": "<:1a:1248301357635735686> **Xdinary Heroes** Gaon",
+            "song": "Little Things",
+            "image": "https://cdn.discordapp.com/attachments/1243945053207007262/1243945222652563486/XLTGO.png?ex=666869c4&is=66671844&hm=2b39da6b26f12560e869c2ce742f612a9a44932dc74395fe66489bf739046e88&",
+            "group": "Xdinary Heroes",
+            "type": "K-POP BOY GROUPS",
+            "code": "`XLTGO`"
+        }
+],
+    "XLTOD": [
+        {
+            "name": "<:1a:1248301357635735686> **Xdinary Heroes** O.de",
+            "song": "Little Things",
+            "image": "https://cdn.discordapp.com/attachments/1243945053207007262/1243945223290228886/XLTOD.png?ex=666869c4&is=66671844&hm=c8e22c32faec9c2d472c429340a26b9b36077ce6094af6091365d349b231a937&",
+            "group": "Xdinary Heroes",
+            "type": "K-POP BOY GROUPS",
+            "code": "`XLTOD`"
+        }
+],
+    "XLTJH": [
+        {
+            "name": "<:1a:1248301357635735686> **Xdinary Heroes** Junhan",
+            "song": "Little Things",
+            "image": "https://cdn.discordapp.com/attachments/1243945053207007262/1243945223789219941/XLTJH.png?ex=666869c4&is=66671844&hm=9a20f2f28798abf7ab723c2f933d1a8d70eb161a2dc836429e5d6a10aaf0b40b&",
+            "group": "Xdinary Heroes",
+            "type": "K-POP BOY GROUPS",
+            "code": "`XLTJH`"
+        }
+],
+    "XLTJY": [
+        {
+            "name": "<:1a:1248301357635735686> **Xdinary Heroes** Jooyeon",
+            "song": "Little Things",
+            "image": "https://cdn.discordapp.com/attachments/1243945053207007262/1243945224343126036/XLTJY.png?ex=666869c4&is=66671844&hm=568660958709480c2d536d825e1db7a637ed29af4cef0efe4baf6ae5084c151c&",
+            "group": "Xdinary Heroes",
+            "type": "K-POP BOY GROUPS",
+            "code": "`XLTJY`"
+        }
+],
+    "PW4NA": [
+        {
+            "name": "<:1a:1248301357635735686> **PLAVE** Noah",
+            "song": "Way 4 Luv",
+            "image": "https://cdn.discordapp.com/attachments/1248479670144471080/1248480308773257248/PW4NA.png?ex=66686ea5&is=66671d25&hm=02c051cf90477a9eb73ae0e632f91df9ba9d9595e7c4d67be81f01920511d9a7&",
+            "group": "PLAVE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`PW4NA`"
+        }
+],
+    "PW4YJ": [
+        {
+            "name": "<:1a:1248301357635735686> **PLAVE** Yejun",
+            "song": "Way 4 Luv",
+            "image": "https://cdn.discordapp.com/attachments/1248479670144471080/1248480309201080361/PW4YJ.png?ex=66686ea5&is=66671d25&hm=da787721f0fbd970a167a744e5a59ef3523ba670c0edb29392b95f8dca3f3f3d&",
+            "group": "PLAVE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`PW4YJ`"
+        }
+],
+    "PW4BB": [
+        {
+            "name": "<:1a:1248301357635735686> **PLAVE** Bamby",
+            "song": "Way 4 Luv",
+            "image": "https://cdn.discordapp.com/attachments/1248479670144471080/1248480309813706793/PW4BB.png?ex=66686ea5&is=66671d25&hm=05e9bf9d93d5539ff1d20b4de6561d32648ae5454cfe5d357fe557e13a5c4b76&",
+            "group": "PLAVE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`PW4BB`"
+        }
+],
+    "PW4EH": [
+        {
+            "name": "<:1a:1248301357635735686> **PLAVE** Eunho",
+            "song": "Way 4 Luv",
+            "image": "https://cdn.discordapp.com/attachments/1248479670144471080/1248480310342193152/PW4EH.png?ex=66686ea5&is=66671d25&hm=8e4666b6b91584a13106bf380d84ae7dc1880d521a9706e0176fa041de9ef1af&",
+            "group": "PLAVE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`PW4EH`"
+        }
+],
+    "PW4HM": [
+        {
+            "name": "<:1a:1248301357635735686> **PLAVE** Hamin",
+            "song": "Way 4 Luv",
+            "image": "https://cdn.discordapp.com/attachments/1248479670144471080/1248480310790717502/PW4HM.png?ex=66686ea5&is=66671d25&hm=88c9af865aaacb255ae4b93dd3c71bdb02221e181a402d556e7b7f9918657cbb&",
+            "group": "PLAVE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`PW4HM`"
+        }
+],
+    "GBRDY": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Daeyeol",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057349122855015/GBRDY.png?ex=66688769&is=666735e9&hm=5671e656b473412cc3ba7a4e9760015651229551c224bd4adbf3df617e8eeeea&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRDY`"
+        }
+],
+    "GBRSY": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Y",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057349596676187/GBRSY.png?ex=66688769&is=666735e9&hm=26bfd161ba8100d4b386047361beeffd1548640d7d53a7f00e2671979991e26c&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRSY`"
+        }
+],
+    "GBRJJ": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Jangjun",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057349999464538/GBRJJ.png?ex=66688769&is=666735e9&hm=cd66f343f7e0a3aa331fea770a4be459228a838b2c44bb9ea2397d01dc7b5daf&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRJJ`"
+        }
+],
+    "GBRTA": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Tag",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057350481678347/GBRTA.png?ex=66688769&is=666735e9&hm=b44af896046705641a8bb0141955e9e0361bf379ed4ca6dd60a944b208517853&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRTA`"
+        }
+],
+    "GBRSM": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Seungmin",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057350964154398/GBRSM.png?ex=66688769&is=666735e9&hm=78b06549ff2be06d1c39ee989c486412fb68eb7f44cab40331161d7963f32487&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRSM`"
+        }
+],
+    "GBRJH": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Jaehyun",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057569038733353/GBRJH.png?ex=6668879d&is=6667361d&hm=6fa2b2a2acc7fe65411bb7591d206ff8130693dcd1c8e93d8c9fd40af2c7333a&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRJH`"
+        }
+],
+    "GBRJB": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Jibeom",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057569432731678/GBRJB.png?ex=6668879d&is=6667361d&hm=fd31353d524189467b7a550336d51b1b78098e6c9f740c55aa8ee6c02c97399e&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRJB`"
+        }
+],
+    "GBRDH": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Donghyun",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057570175258746/GBRDH.png?ex=6668879d&is=6667361d&hm=2919d810a0b11f6ec6461be20220d5ed63d091746abf5348d4a885b99ee075ad&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRDH`"
+        }
+],
+    "GBRJC": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Joochan",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057570666119190/GBRJC.png?ex=6668879e&is=6667361e&hm=f60b4186c83b74964c838f6aa60e88c7b95416e14ac2c2d2de8560871dd6affa&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRJC`"
+        }
+],
+    "GBRBM": [
+        {
+            "name": "<:1a:1248301357635735686> **GOLDEN CHILD** Bomin",
+            "song": "Breathe",
+            "image": "https://cdn.discordapp.com/attachments/1247057063528628315/1247057571244802129/GBRBM.png?ex=6668879e&is=6667361e&hm=094209f563a1fd5e3b60a64c00a32140816334fcbcd0e3b32ec3676885279387&",
+            "group": "GOLDEN CHILD",
+            "type": "K-POP BOY GROUPS",
+            "code": "`GBRBM`"
+        }
+],
+    "DLMBN": [
+        {
+            "name": "<:1a:1248301357635735686> **DreamNote** Boni",
+            "song": "Lemonade",
+            "image": "https://cdn.discordapp.com/attachments/1247124761537155102/1247124940138745946/DLMBN.png?ex=6668c65c&is=666774dc&hm=15bd86e4698f5d053d943c84f77b9d7a071bead668a99919e345f9beffb108ba&",
+            "group": "DreamNote",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`DLMBN`"
+        }
+],
+    "DLMYI": [
+        {
+            "name": "<:1a:1248301357635735686> **DreamNote** Youi",
+            "song": "Lemonade",
+            "image": "https://cdn.discordapp.com/attachments/1247124761537155102/1247124940658970646/DLMYI.png?ex=6668c65c&is=666774dc&hm=dfb6efdd8c22a7fea9983dcf926155f8f18407fac22abde02ef804c79c5a0442&",
+            "group": "DreamNote",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`DLMYI`"
+        }
+],
+    "DLMLR": [
+        {
+            "name": "<:1a:1248301357635735686> **DreamNote** Lara",
+            "song": "Lemonade",
+            "image": "https://cdn.discordapp.com/attachments/1247124761537155102/1247124941095309443/DLMLR.png?ex=6668c65c&is=666774dc&hm=0c90b8d074b8494dce3bf7afff600ac11eddc10d43e6b0d9c9b01b7c2c206e16&",
+            "group": "DreamNote",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`DLMLR`"
+        }
+],
+    "DLMMS": [
+        {
+            "name": "<:1a:1248301357635735686> **DreamNote** Miso",
+            "song": "Lemonade",
+            "image": "https://cdn.discordapp.com/attachments/1247124761537155102/1247124941510414387/DLMMS.png?ex=6668c65c&is=666774dc&hm=b22986db66867cb40bc1bbe13c93e6cac4690520580f9b870d39ce2e4bc3897b&",
+            "group": "DreamNote",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`DLMMS`"
+        }
+],
+    "DLMSM": [
+        {
+            "name": "<:1a:1248301357635735686> **DreamNote** Sumin",
+            "song": "Lemonade",
+            "image": "https://cdn.discordapp.com/attachments/1247124761537155102/1247124942055669821/DLMSM.png?ex=6668c65c&is=666774dc&hm=8c78da4c96ce041d91ffbb5098023453741587742e0afc2d241fa95e32fa1e91&",
+            "group": "DreamNote",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`DLMSM`"
+        }
+],
+    "DLMEJ": [
+        {
+            "name": "<:1a:1248301357635735686> **DreamNote** Eunjo",
+            "song": "Lemonade",
+            "image": "https://cdn.discordapp.com/attachments/1247124761537155102/1247124942479163484/DLMEJ.png?ex=6668c65c&is=666774dc&hm=f3fb1720862e922f5a740f6a2a530b6fc6db1972b4ea604f258525149c89b0ab&",
+            "group": "DreamNote",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`DLMEJ`"
+        }
+],
+    "PBBGE": [
+        {
+            "name": "<:1a:1248301357635735686> **PURPLE KISS** Goeun",
+            "song": "BBB",
+            "image": "https://cdn.discordapp.com/attachments/1248526283864932505/1248526585469079563/PBBGE.png?ex=666899be&is=6667483e&hm=55709ab51f3ddaaf9b0f0c7ade597481788b2096fdceb99ac236ae4cf6ff0eb3&",
+            "group": "PURPLE KISS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`PBBGE`"
+        }
+],
+    "PBBDS": [
+        {
+            "name": "<:1a:1248301357635735686> **PURPLE KISS** Dosie",
+            "song": "BBB",
+            "image": "https://cdn.discordapp.com/attachments/1248526283864932505/1248526585892569160/PBBDS.png?ex=666899be&is=6667483e&hm=914d7e86b35a82517d2563ec4b468e9fca75872e3243d921c902b8a5bb3eeb75&",
+            "group": "PURPLE KISS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`PBBDS`"
+        }
+],
+    "PBBIR": [
+        {
+            "name": "<:1a:1248301357635735686> **PURPLE KISS** Ireh",
+            "song": "BBB",
+            "image": "https://cdn.discordapp.com/attachments/1248526283864932505/1248526586370588692/PBBIR.png?ex=666899be&is=6667483e&hm=fb90f823e3ea43b6fc5d7a88eddd2d4b7aec151f1ffd35415133b6951251b48a&",
+            "group": "PURPLE KISS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`PBBIR`"
+        }
+],
+    "PBBYK": [
+        {
+            "name": "<:1a:1248301357635735686> **PURPLE KISS** Yuki",
+            "song": "BBB",
+            "image": "https://cdn.discordapp.com/attachments/1248526283864932505/1248526586769313842/PBBYK.png?ex=666899be&is=6667483e&hm=39bf96cc0aa6e1bb7afe3e23674ec0451775a0049acfaaebc02dafc4827f4e99&",
+            "group": "PURPLE KISS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`PBBYK`"
+        }
+],
+    "PBBCI": [
+        {
+            "name": "<:1a:1248301357635735686> **PURPLE KISS** Chaein",
+            "song": "BBB",
+            "image": "https://cdn.discordapp.com/attachments/1248526283864932505/1248526587259912283/PBBCI.png?ex=666899be&is=6667483e&hm=780ca254abaf81daf0bda80206c6f2aa96dc0492994eb3f46862c09c12510d33&",
+            "group": "PURPLE KISS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`PBBCI`"
+        }
+],
+    "PBBSW": [
+        {
+            "name": "<:1a:1248301357635735686> **PURPLE KISS** Swan",
+            "song": "BBB",
+            "image": "https://cdn.discordapp.com/attachments/1248526283864932505/1248526587662438410/PBBSW.png?ex=666899bf&is=6667483f&hm=85154379995298c73c419527f3326f05eaa8f0b9f5894081922d62ce42e47911&",
+            "group": "PURPLE KISS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`PBBSW`"
+        }
+],
+    "LOYV": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** Yves",
+            "song": "LOOP",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1248532760365105173/LOYV.png?ex=66689f7e&is=66674dfe&hm=0d22b9863be3520ef6647ea50995f85522434c72728e66456fb34787c8825579&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`LOYV`"
+        }
+],
+    "SPZC": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** Zico",
+            "song": "SPOT!",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1248542451564548136/SPZC.png?ex=6668a885&is=66675705&hm=5c388353adcca67018b34e6e45771e7957bab002dc09279e7b3a6c9831593303&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`SPZC`"
+        }
+],
+    "SPJN": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** Jennie",
+            "song": "SPOT!",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1248542476818710580/SPJN.png?ex=6668a88b&is=6667570b&hm=c6c98ff199eea5e78089e75b8060c0941abae30f1097cc8cab2ae9d6c00bc1a4&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`SPJN`"
+        }
+],
+    "TRTM": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** Taemin",
+            "song": "The Rizzness",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1248546640810213427/TRTM.png?ex=6668ac6c&is=66675aec&hm=6d98fdbecc673525956c44ce06b60539e920dd08c4bc594fc11e0dde8c2b4f59&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`TRTM`"
         }     
     ]
 }
