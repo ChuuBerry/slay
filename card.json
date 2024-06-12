@@ -6845,6 +6845,16 @@
             "group": "Soloist",
             "type": "K-POP SOLOISTS",
             "code": "`TRTM`"
-        }     
+        }
+    ],
+    "ESPRESSO": [
+        {
+            "name": "<:dearcrush:1244309512022786158> **SABRINA CARPENTER**",
+            "song": "ESPRESSO",
+            "image": "https://cdn.discordapp.com/attachments/1243167561026244740/1250444333078024274/ESPRESSO.png?ex=666af689&is=6669a509&hm=7454c417ed25faf4e5e6c981321b5ef5c775d89f5e2c66e61e412c9aa904fabf&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`ESPRESSO`"
+        }      
     ]
 }
