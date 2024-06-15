@@ -6491,7 +6491,7 @@
         {
             "name": "<:1a:1248301357635735686> **Xdinary Heroes** Jungsu",
             "song": "Little Things",
-            "image": "https://cdn.discordapp.com/attachments/1243945053207007262/1243945222652563486/XLTGO.png?ex=666869c4&is=66671844&hm=2b39da6b26f12560e869c2ce742f612a9a44932dc74395fe66489bf739046e88&",
+            "image": "https://cdn.discordapp.com/attachments/1243945053207007262/1243945222124339220/XLTJS.png?ex=666dafc4&is=666c5e44&hm=05d220f1b7573ab55a0fc7783ec430aae26fde3e8444931b3277b3d34d7f806b&",
             "group": "Xdinary Heroes",
             "type": "K-POP BOY GROUPS",
             "code": "`XLTJS`"
@@ -6855,6 +6855,246 @@
             "group": "Event",
             "type": "EVENTS",
             "code": "`ESPRESSO`"
+        }
+   ],
+    "VLBS": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Brimstone",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336620120997938/VLBS.png?ex=666e358a&is=666ce40a&hm=c83b7ba136ef94c8a910926813de8bac6bc5cfb109e25eb1bf9aea9f9f189dbb&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLBS`"
+        }
+    ],
+    "VLVP": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Viper",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336637296934952/VLVP.png?ex=666e358f&is=666ce40f&hm=4b9d48e4c6d7e001883cb3bfbe8afd66f798e4e5138e1ae27be7d547f8301f9c&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLVP`"
+        }
+    ],
+    "VLOM": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Omen",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336650798399508/VLOM.png?ex=666e3592&is=666ce412&hm=149a41c4e7b043e89e6b5dbe22be6e24a7acfe0a505a98eba4a49e05ea63c55e&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLOM`"
+        }
+    ],
+    "VLKJ": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Killjoy",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336666984218654/VLKJ.png?ex=666e3596&is=666ce416&hm=6e09154c0f19e6de4fa42e5e70842d169c21ccde5342634dd6c82dc8a29713a7&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLKJ`"
+        }
+    ],
+    "VLCP": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Cypher",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336686617624749/VLCP.png?ex=666e359a&is=666ce41a&hm=55031dd97ac4a017688d011bc5c931e913d7abcb137f1265036f0e1c291293ec&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLCP`"
+        }
+    ],
+    "VLSV": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Sova",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336702073507950/VLSV.png?ex=666e359e&is=666ce41e&hm=2648e9c660d43ad2520a58bf3ed98b76957e51ceab40907cd199acfc0c74da61&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLSV`"
+        }
+    ],
+    "VLSA": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Sage",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336718678884492/VLSA.png?ex=666e35a2&is=666ce422&hm=b02d79a24e1be8e5fd262edefae351d281ce80b6f5a596d087297ac554352e65&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLSA`"
+        }
+    ],
+    "VLPN": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Phoenix",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336737347862598/VLPN.png?ex=666e35a6&is=666ce426&hm=47a10cf452c315b7a8e30789c25a108ce58edb368787372eacc5b507ac20a0fc&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLPN`"
+        }
+    ],
+    "VLJE": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Jett",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336753168519279/VLJE.png?ex=666e35aa&is=666ce42a&hm=d1ef11d33b60d471695957ff0c7af728cbd8bf94c8112c711095a7fcadedb60c&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLJE`"
+        }
+    ],
+    "VLRN": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Reyna",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336769723568138/VLRN.png?ex=666e35ae&is=666ce42e&hm=d562c24805e764402e2aad14b9e5a1863213ecabbfbfceb4a024a65b9a56264d&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLRN`"
+        }
+    ],
+    "VLRA": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Raze",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336786672619570/VLRA.png?ex=666e35b2&is=666ce432&hm=b216e5c432bbf991ba9265a6b0a66390722331ad36e77451ae318f248660a4e9&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLRA`"
+        }
+    ],
+    "VLBR": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Breach",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336805639258184/VLBR.png?ex=666e35b7&is=666ce437&hm=8ce19a83575ba2ac3bd318e97f9305bed9ecda42b5a2ee1b691401702327f6e8&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLBR`"
+        }
+    ],
+    "VLSK": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Skye",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336825667321888/VLSK.png?ex=666e35bb&is=666ce43b&hm=874af3b9ec73db2dd569c8710a1c3e33f2b1a83d19ec5ce987358b355a05cdc8&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLSK`"
+        }
+    ],
+    "VLYR": [
+        {
+            "name": " **VALORANT** Yoru",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336845141475341/VLYR.png?ex=666e35c0&is=666ce440&hm=24c8152eec1961015236c683cdcccb230c80f4b35b80f92915428ffec422d9fd&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLYR`"
+        }
+    ],
+    "VLAT": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Astro",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336937466499214/VLAT.png?ex=666e35d6&is=666ce456&hm=d693b0dbc9ab70132c761aaf2eb142c8bd0e46202f0379c5f36d4867adf9cfa5&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLAT`"
+        }
+    ],
+    "VLKO": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Kay/o",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336955971764345/VLKO.png?ex=666e35db&is=666ce45b&hm=4a0c6657d58b0d98a7f6c8edad171961d671de445951c2991e8454def300acd8&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLKO`"
+        }
+    ],
+    "VLCB": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Chamber",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336973650628678/VLCB.png?ex=666e35df&is=666ce45f&hm=5df9b5347b7d3d30efd1e0bbc96f0145f2795449754ca8661cf6c011c588f446&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLCB`"
+        }
+    ],
+    "VLNO": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Neon",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251336987084984342/VLNO.png?ex=666e35e2&is=666ce462&hm=abcc5a66c16bdec1707d284aa8852ab777f6a81806960cd606fe7876f180d907&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLNO`"
+        }
+    ],
+    "VLFA": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Fade",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251337000108163193/VLFA.png?ex=666e35e5&is=666ce465&hm=ac0d4f64b24a124258140e7503837f1c15f974332b7fbf5e3a29369f39ce5837&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLFA`"
+        }
+    ],
+    "VLHB": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Harbor",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251337017288036515/VLHB.png?ex=666e35e9&is=666ce469&hm=5ac6aa79afce2b78fe490b65f8d707b6f9bd6c0850bb3d1439fd497fb277c1fe&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLHB`"
+        }
+    ],
+    "VLGK": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Gekko",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251337034673422346/VLGK.png?ex=666e35ed&is=666ce46d&hm=f2b755b07b1968a34dcac74ba573b903defdd3de1dcaf3bded164d1636295edc&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLGK`"
+        }
+    ],
+    "VLDL": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Deadlock",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251337051136327680/VLDL.png?ex=666e35f1&is=666ce471&hm=8451ac05651e35cc04ed1aed12e7177f50280310b6620f1c663c496ae6ae8458&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLDL`"
+        }
+    ],
+    "VLIS": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Iso",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251337100339449947/VLIS.png?ex=666e35fd&is=666ce47d&hm=d73c1bab16f5ccf16a5253f66c7fbdc47e4e2436df56b97dc9ff9496d402976f&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLIS`"
+        }
+    ],
+    "VLCL": [
+        {
+            "name": "<:valorant:1251335921555734528> **VALORANT** Clove",
+            "song": "VALORANT",
+            "image": "https://cdn.discordapp.com/attachments/1246742316614684683/1251337117770973245/VLCL.png?ex=666e3601&is=666ce481&hm=c7ef745d75d50bd2ba3609848b9f77f609dbb6ddd2981b521c75d24dbae4e6e9&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`VLCL`"
         }      
     ]
 }
