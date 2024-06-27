@@ -7595,6 +7595,96 @@
             "group": "ONF",
             "type": "K-POP BOY GROUPS",
             "code": "`OBMYU`"
+        }
+],
+    "ECKKE": [
+        {
+            "name": "<:1a:1248301357635735686> **EL7Z UP** Kei",
+            "song": "Cheeky",
+            "image": "https://cdn.discordapp.com/attachments/1255844946817187891/1255845111804330075/ECKKE.png?ex=667e9c67&is=667d4ae7&hm=0aa37fba05f1d12c6f14d8aeb8fbdb8265c8b863e3d8a8c22c3edf7329e257e7&",
+            "group": "EL7Z UP",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`ECKKE`"
+        }
+],
+    "ECKYE": [
+        {
+            "name": "<:1a:1248301357635735686> **EL7Z UP** Yeeun",
+            "song": "Cheeky",
+            "image": "https://cdn.discordapp.com/attachments/1255844946817187891/1255845112169369733/ECKYE.png?ex=667e9c67&is=667d4ae7&hm=d2b4f32ab58784edd5fd3cf4f254794c8c91567072696baf5a7b47c5cd5cd47b&",
+            "group": "EL7Z UP",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`ECKYE`"
+        }
+],
+    "ECKYR": [
+        {
+            "name": "<:1a:1248301357635735686> **EL7Z UP** Yeoreum",
+            "song": "Cheeky",
+            "image": "https://cdn.discordapp.com/attachments/1255844946817187891/1255845112655777792/ECKYR.png?ex=667e9c67&is=667d4ae7&hm=31450c73cca54b337b8193628d0218a21bba69a7dce770544eb77b8fe8b2a19e&",
+            "group": "EL7Z UP",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`ECKYR`"
+        }
+],
+    "ECKYH": [
+        {
+            "name": "<:1a:1248301357635735686> **EL7Z UP** Yeonhee",
+            "song": "Cheeky",
+            "image": "https://cdn.discordapp.com/attachments/1255844946817187891/1255845113326731284/ECKYH.png?ex=667e9c67&is=667d4ae7&hm=184e89d3a0e85d30488e0bbf60d1fa5b3f7dff3b304c3267875c713277f83478&",
+            "group": "EL7Z UP",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`ECKYH`"
+        }
+],
+    "ECKNN": [
+        {
+            "name": "<:1a:1248301357635735686> **EL7Z UP** Nana",
+            "song": "Cheeky",
+            "image": "https://cdn.discordapp.com/attachments/1255844946817187891/1255845113796755537/ECKNN.png?ex=667e9c67&is=667d4ae7&hm=3238f0bd5ffe5c53277c15899d3fe08e9eedf0f164a9a2d042c0c36ff071f917&",
+            "group": "EL7Z UP",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`ECKNN`"
+        }
+],
+    "ECKHS": [
+        {
+            "name": "<:1a:1248301357635735686> **EL7Z UP** Hwiseo",
+            "song": "Cheeky",
+            "image": "https://cdn.discordapp.com/attachments/1255844946817187891/1255845114446610464/ECKHS.png?ex=667e9c67&is=667d4ae7&hm=f908fc8daa5d5156776ba497dab76f2001a71511dc539ec7983eef6145be59f6&",
+            "group": "EL7Z UP",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`ECKHS`"
+        }
+],
+    "ECKYK": [
+        {
+            "name": "<:1a:1248301357635735686> **EL7Z UP** Yuki",
+            "song": "Cheeky",
+            "image": "https://cdn.discordapp.com/attachments/1255844946817187891/1255845114849529916/ECKYK.png?ex=667e9c67&is=667d4ae7&hm=f25125582e1d393e74c9dffc563ae014e637fea86539159565a9197198f6dbdf&",
+            "group": "EL7Z UP",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`ECKYK`"
+        }
+],
+    "IHWO": [
+        {
+            "name": "<:1b:1248301243705856142> **Soloist** WOODZ",
+            "song": "I Hate You",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1255844848829861918/IHWO.png?ex=667e9c28&is=667d4aa8&hm=bc56ec2ef9f1a355a39d16f4fdbf5a2f87f6a27bb28cc9109445849ec44df61f&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`IHWO`"
+        }
+],
+    "DNYN": [
+        {
+            "name": "<:1b:1248301243705856142> **Soloist** YENA",
+            "song": "DNA",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1255844835546366034/DNYN.png?ex=667e9c25&is=667d4aa5&hm=4a76a3c5a60a84dc77f4e64633a854bb2538645be97f3cbf2d6e4f8d95aca10a&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`DNYN`"
         }      
     ]
 }
