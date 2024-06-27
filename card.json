@@ -7095,6 +7095,506 @@
             "group": "Event",
             "type": "EVENTS",
             "code": "`VLCL`"
+        }
+],
+    "ABNY": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** NAYEON",
+            "song": "ABCD",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1255512679116836986/ABNA.png?ex=667e0f8c&is=667cbe0c&hm=2b36868164d2bf93f5767647b344c425751ede7b689bb75bdf6eae276893233c&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`ABNY`"
+        }
+],
+    "BSHJ": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** HYUNJUN",
+            "song": "Backseat",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1255512700394672188/BSHJ.png?ex=667e0f92&is=667cbe12&hm=14b6fdd687418fa8180af063342e8ad5879427cee2c4a51b8007e982dfd76209&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`BSHJ`"
+        }
+],
+    "FRYQ": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** YUQI",
+            "song": "FREAK",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1255512719684272279/FRYQ.png?ex=667e0f96&is=667cbe16&hm=2472af4cf734d33f25d587d512a839c7dd1d51680d8f1b7fd4a9280016eb2f8b&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`FRYQ`"
+        }
+],
+    "LLDY": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** DOYOUNG",
+            "song": "Little Light",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1255512738592063520/LLDY.png?ex=667e0f9b&is=667cbe1b&hm=6149d4226ecd34e23b452c1c7d2496f0340c99b56ab482be9dae855b1638f04b&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`LLDY`"
+        }
+],
+    "BPBMS": [
+        {
+            "name": "<:1a:1248301357635735686> **Billlie** Moon Sua",
+            "song": "Patbingsu",
+            "image": "https://cdn.discordapp.com/attachments/1255702237292920874/1255702467404894318/BPBMS.png?ex=667e178e&is=667cc60e&hm=95adf524586a3a7378c8d09b3bc11c98060fe72f72c5abd7bbbcbe54a67a2897&",
+            "group": "Billlie",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BPBMS`"
+        }
+],
+    "BPBHR": [
+        {
+            "name": "<:1a:1248301357635735686> **Billlie** Haram",
+            "song": "Patbingsu",
+            "image": "https://cdn.discordapp.com/attachments/1255702237292920874/1255702468352807003/BPBHR.png?ex=667e178e&is=667cc60e&hm=36f17d607c9e123f797342af64cd452b6f5f7f8aad6387aeb61b6fefa5e47520&",
+            "group": "Billlie",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BPBHR`"
+        }
+],
+    "BPBTK": [
+        {
+            "name": "<:1a:1248301357635735686> **Billlie** Tsuki",
+            "song": "Patbingsu",
+            "image": "https://cdn.discordapp.com/attachments/1255702237292920874/1255702468927553610/BPBTK.png?ex=667e178e&is=667cc60e&hm=a9337887f2032a9ce4668830482d2ccffaef20cc8fff1c3218766f27b4f03bc6&",
+            "group": "Billlie",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BPBTK`"
+        }
+],
+    "BPBSO": [
+        {
+            "name": "<:1a:1248301357635735686> **Billlie** Sheon",
+            "song": "Patbingsu",
+            "image": "https://cdn.discordapp.com/attachments/1255702237292920874/1255702469367959612/BPBSO.png?ex=667e178e&is=667cc60e&hm=621aa1a9f491bb2d12d837c540140eef861a0a2c0e6d8ce5ff46f27ddfb54663&",
+            "group": "Billlie",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BPBSO`"
+        }
+],
+    "BPBSY": [
+        {
+            "name": "<:1a:1248301357635735686> **Billlie** Siyoon",
+            "song": "Patbingsu",
+            "image": "https://cdn.discordapp.com/attachments/1255702237292920874/1255702469863018578/BPBSY.png?ex=667e178e&is=667cc60e&hm=6f43c4dda6f88b6deca0ae9ffb9d995933b8fb25e7931b91eacba63a5ca74aaf&",
+            "group": "Billlie",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BPBSY`"
+        }
+],
+    "BPBHN": [
+        {
+            "name": "<:1a:1248301357635735686> **Billlie** Haruna",
+            "song": "Patbingsu",
+            "image": "https://cdn.discordapp.com/attachments/1255702237292920874/1255702470340902964/BPBHN.png?ex=667e178e&is=667cc60e&hm=1e07dd66fcdd6994974e0e1cdfd6dd7f16458e870cd891ade35ac62874c93001&",
+            "group": "Billlie",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BPBHN`"
+        }
+],
+    "BPBSH": [
+        {
+            "name": "<:1a:1248301357635735686> **Billlie** Suhyeon",
+            "song": "Patbingsu",
+            "image": "https://cdn.discordapp.com/attachments/1255702237292920874/1255702467912531988/BPBSH.png?ex=667e178e&is=667cc60e&hm=afc249fa177ed4ab0fc9371e6279ee17440f860a93fe3ef4dcf2f23fd5f96e6b&",
+            "group": "Billlie",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BPBSH`"
+        }
+],
+    "USWHJ": [
+        {
+            "name": "<:1a:1248301357635735686> **UNIS** Hyeonju",
+            "song": "Super Woman",
+            "image": "https://cdn.discordapp.com/attachments/1254774606456426597/1254774785544818780/USWHJ.png?ex=667e0355&is=667cb1d5&hm=cc005851c44dc23cc7a4ae722fe2f61f39be79ab4e63acd3c1662b1ac89a77ef&",
+            "group": "UNIS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`USWHJ`"
+        }
+],
+    "USWNN": [
+        {
+            "name": "<:1a:1248301357635735686> **UNIS** Nana",
+            "song": "Super Woman",
+            "image": "https://cdn.discordapp.com/attachments/1254774606456426597/1254774785909456997/USWNN.png?ex=667e0355&is=667cb1d5&hm=a3715fb93096f6349ff1280a46adef09c49e28e166a2d3a674c6167674979915&",
+            "group": "UNIS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`USWNN`"
+        }
+],
+    "USWGL": [
+        {
+            "name": "<:1a:1248301357635735686> **UNIS** Gehlee",
+            "song": "Super Woman",
+            "image": "https://cdn.discordapp.com/attachments/1254774606456426597/1254774786349862974/USWGL.png?ex=667e0355&is=667cb1d5&hm=c96870f58e575fd2bd2d50d97e42ce4ee4fbbf34635115010b9cf779428e09dd&",
+            "group": "UNIS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`USWGL`"
+        }
+],
+    "USWYN": [
+        {
+            "name": "<:1a:1248301357635735686> **UNIS** Yoona",
+            "song": "Super Woman",
+            "image": "https://cdn.discordapp.com/attachments/1254774606456426597/1254774786832470091/USWYN.png?ex=667e0355&is=667cb1d5&hm=0018730f5ad891a4182cd0b4746d99da671bd3eef4a5d17d29dfc4c1193fcc83&",
+            "group": "UNIS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`USWYN`"
+        }
+],
+    "USWKT": [
+        {
+            "name": "<:1a:1248301357635735686> **UNIS** Kotoko",
+            "song": "Super Woman",
+            "image": "https://cdn.discordapp.com/attachments/1254774606456426597/1254774787268542537/USWKT.png?ex=667e0355&is=667cb1d5&hm=8952ab1b013065c6e509b03dcecc832f4d8cc7f8826864d8c5b91b126c6f97fb&",
+            "group": "UNIS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`USWKT`"
+        }
+],
+    "USWYH": [
+        {
+            "name": "<:1a:1248301357635735686> **UNIS** Yunha",
+            "song": "Super Woman",
+            "image": "https://cdn.discordapp.com/attachments/1254774606456426597/1254774787713273886/USWYH.png?ex=667e0355&is=667cb1d5&hm=92e1684fe743e7f357f914e9961fae043cedd87f15caa19c36800cb46c7157d3&",
+            "group": "UNIS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`USWYH`"
+        }
+],
+    "USWEL": [
+        {
+            "name": "<:1a:1248301357635735686> **UNIS** Elisia",
+            "song": "Super Woman",
+            "image": "https://cdn.discordapp.com/attachments/1254774606456426597/1254774788128243763/USWEL.png?ex=667e0356&is=667cb1d6&hm=ffffcfaae22fa366088df90e7424fc22e61988ca3f6a70d67a84a2daa0642dba&",
+            "group": "UNIS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`USWEL`"
+        }
+],
+    "USWSW": [
+        {
+            "name": "<:1a:1248301357635735686> **UNIS** Seowon",
+            "song": "Super Woman",
+            "image": "https://cdn.discordapp.com/attachments/1254774606456426597/1254774788610592808/USWSW.png?ex=667e0356&is=667cb1d6&hm=a42f7c2e19bb0b65cbb7c00ce877e16bcc752ebcd25c88488eba6f6a91e8c536&",
+            "group": "UNIS",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`USWSW`"
+        }
+],
+    "IACAY": [
+        {
+            "name": "<:1b:1248301243705856142> **IVE** An Yujin",
+            "song": "Accendio",
+            "image": "https://cdn.discordapp.com/attachments/1223678324694585384/1250279264260198400/Bot_Template2_20240612104245.png?ex=667e234d&is=667cd1cd&hm=47a5ef3bdaebe3c6765c9cf8399be7992f3cc8968caa82edc2d46d053cedef1b&",
+            "group": "IVE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IACAY`"
+        }
+],
+    "IACGE": [
+        {
+            "name": "<:1b:1248301243705856142> **IVE** Gaeul",
+            "song": "Accendio",
+            "image": "https://cdn.discordapp.com/attachments/1223678324694585384/1250279264557989898/Bot_Template2_20240612104232.png?ex=667e234d&is=667cd1cd&hm=2beef5f34b29f99255e8cda71b94c807d7e724705ee337181e3154232c1c67e9&",
+            "group": "IVE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IACGE`"
+        }
+],
+    "IACRE": [
+        {
+            "name": "<:1b:1248301243705856142> **IVE** Rei",
+            "song": "Accendio",
+            "image": "https://cdn.discordapp.com/attachments/1223678324694585384/1250279264851329024/Bot_Template2_20240612104225.png?ex=667e234d&is=667cd1cd&hm=350a34105c55ad7f49c88672bf23a5cac51c222a25a12fd7d5e695f7e6376061&",
+            "group": "IVE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IACRE`"
+        }
+],
+    "IACJW": [
+        {
+            "name": "<:1b:1248301243705856142> **IVE** Jang Wonyoung",
+            "song": "Accendio",
+            "image": "https://cdn.discordapp.com/attachments/1223678324694585384/1250279265157779527/Bot_Template2_20240612104219.png?ex=667e234d&is=667cd1cd&hm=e88bbf3ed8294bf69e5a09cf4051a7d871851fde8b0d2dc3941c6785f14aa134&",
+            "group": "IVE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IACJW`"
+        }
+],
+    "IACLI": [
+        {
+            "name": "<:1b:1248301243705856142> **IVE** Liz",
+            "song": "Accendio",
+            "image": "https://cdn.discordapp.com/attachments/1223678324694585384/1250279265467895808/Bot_Template2_20240612104211.png?ex=667e234d&is=667cd1cd&hm=eb5d740649dab560cae30588b2dc11c8b45fd4e39727cb4b839816dcb02bf756&",
+            "group": "IVE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IACLI`"
+        }
+],
+    "IACLS": [
+        {
+            "name": "<:1b:1248301243705856142> **IVE** Leeseo",
+            "song": "Accendio",
+            "image": "https://cdn.discordapp.com/attachments/1223678324694585384/1250279265769881620/Bot_Template2_20240612104203.png?ex=667e234e&is=667cd1ce&hm=85b969e4c14c1fc670f3f39cd8b2b6d9ad837cf65322827e10478e49d31e3938&",
+            "group": "IVE",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`IACLS`"
+        }
+],
+    "ADYTM": [
+        {
+            "name": "<:1a:1248301357635735686> **ALAMAT** Tomás",
+            "song": "Dayang",
+            "image": "https://cdn.discordapp.com/attachments/1255702509490798664/1255702659751612467/ADYTM.png?ex=667e17bb&is=667cc63b&hm=0d409c20bbb8fc43291461c139be376134f49b81eeb304083d165b624a3c392a&",
+            "group": "ALAMAT",
+            "type": "P-POP BOY GROUPS",
+            "code": "`ADYTM`"
+        }
+],
+    "ADYRJ": [
+        {
+            "name": "<:1a:1248301357635735686> **ALAMAT** R-JI",
+            "song": "Dayang",
+            "image": "https://cdn.discordapp.com/attachments/1255702509490798664/1255702660145872977/ADYRJ.png?ex=667e17bc&is=667cc63c&hm=d34eec40706e52794e762881a6e824080aca43181c80163ca140bb54e60fd089&",
+            "group": "ALAMAT",
+            "type": "P-POP BOY GROUPS",
+            "code": "`ADYRJ`"
+        }
+],
+    "ADYTN": [
+        {
+            "name": "<:1a:1248301357635735686> **ALAMAT** Taneo",
+            "song": "Dayang",
+            "image": "https://cdn.discordapp.com/attachments/1255702509490798664/1255702660628086846/ADYTN.png?ex=667e17bc&is=667cc63c&hm=ab783db79ca07f4e47e1a66f0817bcf620f97b7cdefcbca67eab34ae60dfa188&",
+            "group": "ALAMAT",
+            "type": "P-POP BOY GROUPS",
+            "code": "`ADYTN`"
+        }
+],
+    "ADYAL": [
+        {
+            "name": "<:1a:1248301357635735686> **ALAMAT** Alas",
+            "song": "Dayang",
+            "image": "https://cdn.discordapp.com/attachments/1255702509490798664/1255702661093789727/ADYAL.png?ex=667e17bc&is=667cc63c&hm=220ffd4a356610bd96d442e215cbd48fd37b71dc63096d0b45b2f5048c14491b&",
+            "group": "ALAMAT",
+            "type": "P-POP BOY GROUPS",
+            "code": "`ADYAL`"
+        }
+],
+    "ADYMO": [
+        {
+            "name": "<:1a:1248301357635735686> **ALAMAT** Mo",
+            "song": "Dayang",
+            "image": "https://cdn.discordapp.com/attachments/1255702509490798664/1255702661513351199/ADYMO.png?ex=667e17bc&is=667cc63c&hm=fa15551bafb9fb5118818f31be33aeb9ee9ffaf15d213557885c0cc2dbe1b45e&",
+            "group": "ALAMAT",
+            "type": "P-POP BOY GROUPS",
+            "code": "`ADYMO`"
+        }
+],
+    "ADYJA": [
+        {
+            "name": "<:1a:1248301357635735686> **ALAMAT** Jao",
+            "song": "Dayang",
+            "image": "https://cdn.discordapp.com/attachments/1255702509490798664/1255702661940908032/ADYJA.png?ex=667e17bc&is=667cc63c&hm=0c092d574a1b08725a66a76235baeb64d1b6a2953ee40201dd5361fb62015bcb&",
+            "group": "ALAMAT",
+            "type": "P-POP BOY GROUPS",
+            "code": "`ADYJA`"
+        }
+],
+    "AWOSH": [
+        {
+            "name": "<:1b:1248301243705856142> **ATEEZ** Seonghwa",
+            "song": "WORK",
+            "image": "https://cdn.discordapp.com/attachments/1161522169298288742/1251126261678608394/Bot_Template_20240614184739.png?ex=667dec61&is=667c9ae1&hm=ed252748e7df55722d61c0c4224c5a09925cd7159ba46048e0ba6461da727810&",
+            "group": "ATEEZ",
+            "type": "K-POP BOY GROUPS",
+            "code": "`AWOSH`"
+        }
+],
+    "AWOHJ": [
+        {
+            "name": "<:1b:1248301243705856142> **ATEEZ** Hongjoong",
+            "song": "WORK",
+            "image": "https://cdn.discordapp.com/attachments/1161522169298288742/1251126262026600539/Bot_Template_20240614184747.png?ex=667dec61&is=667c9ae1&hm=485e76c3ed2219be9e0fd6257aaad0c5e97a69e8b3c7b4a54ece3c4e3f085432&",
+            "group": "ATEEZ",
+            "type": "K-POP BOY GROUPS",
+            "code": "`AWOHJ`"
+        }
+],
+    "AWOYH": [
+        {
+            "name": "<:1b:1248301243705856142> **ATEEZ** Yunho",
+            "song": "WORK",
+            "image": "https://cdn.discordapp.com/attachments/1161522169298288742/1251126262311944202/Bot_Template_20240614184753.png?ex=667dec61&is=667c9ae1&hm=ef96dc84d669f665a518655709267cd83fde9327bb48be2802b6738f777fe24a&",
+            "group": "ATEEZ",
+            "type": "K-POP BOY GROUPS",
+            "code": "`AWOYH`"
+        }
+],
+    "AWOYS": [
+        {
+            "name": "<:1b:1248301243705856142> **ATEEZ** Yeosang",
+            "song": "WORK",
+            "image": "https://cdn.discordapp.com/attachments/1161522169298288742/1251126262630453248/Bot_Template_20240614184800.png?ex=667dec61&is=667c9ae1&hm=4bc09bd0e4c413d3b9d99941dc157f5523c7a31be021ac290c887884023beada&",
+            "group": "ATEEZ",
+            "type": "K-POP BOY GROUPS",
+            "code": "`AWOYS`"
+        }
+],
+    "AWOSA": [
+        {
+            "name": "<:1b:1248301243705856142> **ATEEZ** San",
+            "song": "WORK",
+            "image": "https://cdn.discordapp.com/attachments/1161522169298288742/1251126262924181514/Bot_Template_20240614184805.png?ex=667dec61&is=667c9ae1&hm=4235401e8958f6bd3b7db22ee5cfaa1360f52edfa5963e5cd785656aaf3f354e&",
+            "group": "ATEEZ",
+            "type": "K-POP BOY GROUPS",
+            "code": "`AWOSA`"
+        }
+],
+    "AWOMG": [
+        {
+            "name": "<:1b:1248301243705856142> **ATEEZ** Mingi",
+            "song": "WORK",
+            "image": "https://cdn.discordapp.com/attachments/1161522169298288742/1251126263288954920/Bot_Template_20240614184811.png?ex=667dec61&is=667c9ae1&hm=20f66154db47b02b680494c46a3ad6e6ece08cc4084a1ce089fd50b8da1da9c2&",
+            "group": "ATEEZ",
+            "type": "K-POP BOY GROUPS",
+            "code": "`AWOMG`"
+        }
+],
+    "AWOWY": [
+        {
+            "name": "<:1b:1248301243705856142> **ATEEZ** Wooyoung",
+            "song": "WORK",
+            "image": "https://cdn.discordapp.com/attachments/1161522169298288742/1251126263729623080/Bot_Template_20240614184816.png?ex=667dec62&is=667c9ae2&hm=592c206138744d8f06115727c6b4c259956d553646bc8be806d9e05d0bc29c8c&",
+            "group": "ATEEZ",
+            "type": "K-POP BOY GROUPS",
+            "code": "`AWOWY`"
+        }
+],
+    "AWOJH": [
+        {
+            "name": "<:1b:1248301243705856142> **ATEEZ** Jongho",
+            "song": "WORK",
+            "image": "https://cdn.discordapp.com/attachments/1161522169298288742/1251126264148922439/Bot_Template_20240614184831.png?ex=667dec62&is=667c9ae2&hm=9543736bdeb1701e9a7c7ad6bdd3dd89abe16de5b4ea8428515e5400e18853a9&",
+            "group": "ATEEZ",
+            "type": "K-POP BOY GROUPS",
+            "code": "`AWOJH`"
+        }
+],
+    "OBAYH": [
+        {
+            "name": "<:1a:1248301357635735686> **ONEWE** Yonghoon",
+            "song": "Beautiful Ashes",
+            "image": "https://cdn.discordapp.com/attachments/1254387469428981920/1254387536436920320/ONEWE_20240623184705.png?ex=667dec2e&is=667c9aae&hm=5b65cb11b654334e132940adcacfc9c5925e717f621fb0341c9852677eba764f&",
+            "group": "ONEWE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBAYH`"
+        }
+],
+    "OBAKH": [
+        {
+            "name": "<:1a:1248301357635735686> **ONEWE** Kanghyun",
+            "song": "Beautiful Ashes",
+            "image": "https://cdn.discordapp.com/attachments/1254387469428981920/1254387536780988477/ONEWE_20240623184711.png?ex=667dec2e&is=667c9aae&hm=5cc459e535b733aee962ff80adbfccc73f5f483685c12eb05df5322290c04d59&",
+            "group": "ONEWE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBAKH`"
+        }
+],
+    "OBAHR": [
+        {
+            "name": "<:1a:1248301357635735686> **ONEWE** Harin",
+            "song": "Beautiful Ashes",
+            "image": "https://cdn.discordapp.com/attachments/1254387469428981920/1254387537137500160/ONEWE_20240623184719.png?ex=667dec2e&is=667c9aae&hm=f3d32079cb0a9caf3e5b6e9ddfd3cbc55e718e72e6e5374d18cce032bea08865&",
+            "group": "ONEWE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBAHR`"
+        }
+],
+    "OBADM": [
+        {
+            "name": "<:1a:1248301357635735686> **ONEWE** Dongmyeong",
+            "song": "Beautiful Ashes",
+            "image": "https://cdn.discordapp.com/attachments/1254387469428981920/1254387537447747645/ONEWE_20240623184725.png?ex=667dec2e&is=667c9aae&hm=5a90642e37cb5dea4bebb839b594e33a3d7379bceccdfc5a8052e456b341aa4d&",
+            "group": "ONEWE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBADM`"
+        }
+],
+    "OBAGU": [
+        {
+            "name": "<:1a:1248301357635735686> **ONEWE** GIuk",
+            "song": "Beautiful Ashes",
+            "image": "https://cdn.discordapp.com/attachments/1254387469428981920/1254387537867313194/ONEWE_20240623184731.png?ex=667dec2e&is=667c9aae&hm=675f2c33131654d3bb95f79292de979d2d0666e49403b51f4ac3e606c669ffd4&",
+            "group": "ONEWE",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBAGU`"
+        }
+],
+    "OBMHJ": [
+        {
+            "name": "<:1a:1248301357635735686> **ONF** Hyojin",
+            "song": "Bye My Monster",
+            "image": "https://cdn.discordapp.com/attachments/1253719237336367215/1253719390747365497/OBMHJ.png?ex=667e20eb&is=667ccf6b&hm=204567ae54337d874bf573af75c529ad3f8bf8abf64cbebae7ac9ec0ae73a94b&",
+            "group": "ONF",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBMHJ`"
+        }
+],
+    "OBMET": [
+        {
+            "name": "<:1a:1248301357635735686> **ONF** E-Tion",
+            "song": "Bye My Monster",
+            "image": "https://cdn.discordapp.com/attachments/1253719237336367215/1253719391170859058/OBMET.png?ex=667e20eb&is=667ccf6b&hm=df11727211619525394caeb7e4bf8b014385693e101b77f232a2664218491a1f&",
+            "group": "ONF",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBMET`"
+        }
+],
+    "OBMSJ": [
+        {
+            "name": "<:1a:1248301357635735686> **ONF** Seungjun",
+            "song": "Bye My Monster",
+            "image": "https://cdn.discordapp.com/attachments/1253719237336367215/1253719391712051271/OBMSJ.png?ex=667e20eb&is=667ccf6b&hm=c76be9b9d5ec16f17c06ca633a82e6c586a0c83854464783be013176ac3021f9&",
+            "group": "ONF",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBMSJ`"
+        }
+],
+    "OBMWA": [
+        {
+            "name": "<:1a:1248301357635735686> **ONF** Wyatt",
+            "song": "Bye My Monster",
+            "image": "https://cdn.discordapp.com/attachments/1253719237336367215/1253719392169099315/OBMWA.png?ex=667e20ec&is=667ccf6c&hm=e08e53ec2c717eaca7372fe20c3f6bd64681ccc9430f28c9a0fca90b8d2d3d54&",
+            "group": "ONF",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBMWA`"
+        }
+],
+    "OBMMK": [
+        {
+            "name": "<:1a:1248301357635735686> **ONF** Minkyun",
+            "song": "Bye My Monster",
+            "image": "https://cdn.discordapp.com/attachments/1253719237336367215/1253719392748044308/OBMMK.png?ex=667e20ec&is=667ccf6c&hm=d4d7ea6f578223dd897866aa15c5d408b3a303300729d5a1ec8af24afd53c96a&",
+            "group": "ONF",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBMMK`"
+        }
+],
+    "OBMYU": [
+        {
+            "name": "<:1a:1248301357635735686> **ONF** U",
+            "song": "Bye My Monster",
+            "image": "https://cdn.discordapp.com/attachments/1253719237336367215/1253719393251364935/OBMYU.png?ex=667e20ec&is=667ccf6c&hm=91e87d4808cbd395de2fae10529bd55404f3b9992f5b8efb0b25a5c42f457314&",
+            "group": "ONF",
+            "type": "K-POP BOY GROUPS",
+            "code": "`OBMYU`"
         }      
     ]
 }
