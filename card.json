@@ -7685,6 +7685,106 @@
             "group": "Soloist",
             "type": "K-POP SOLOISTS",
             "code": "`DNYN`"
+        }
+],
+    "MILSL": [
+        {
+            "name": "<:1a:1248301357635735686> **MAMAMOO** Solar",
+            "song": "ILLELLA",
+            "image": "https://cdn.discordapp.com/attachments/1256105379927031848/1256105564799369247/MILSL.png?ex=667f8ef7&is=667e3d77&hm=1bba815c567d872d6e7b782f72935853fc244b4e6e78aa0652ff4f70fb2b4d11&",
+            "group": "MAMAMOO",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MILSL`"
+        }
+],
+    "MILMB": [
+        {
+            "name": "<:1a:1248301357635735686> **MAMAMOO** Moonbyul",
+            "song": "ILLELLA",
+            "image": "https://cdn.discordapp.com/attachments/1256105379927031848/1256105565256683541/MILMB.png?ex=667f8ef8&is=667e3d78&hm=e8c7c331c64a7cfdfa9c794267b48fc8ac7186d5c5ed49447ffa97f7188b3a2e&",
+            "group": "MAMAMOO",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MILMB`"
+        }
+],
+    "MILWI": [
+        {
+            "name": "<:1a:1248301357635735686> **MAMAMOO** Wheein",
+            "song": "ILLELLA",
+            "image": "https://cdn.discordapp.com/attachments/1256105379927031848/1256105565713727488/MILWI.png?ex=667f8ef8&is=667e3d78&hm=1eda19544a129ade720ccb35d78b4fe488bdb90bed4939fc3b9fe2ab28c37f0e&",
+            "group": "MAMAMOO",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MILWI`"
+        }
+],
+    "MILHS": [
+        {
+            "name": "<:1a:1248301357635735686> **MAMAMOO** Hwasa",
+            "song": "ILLELLA",
+            "image": "https://cdn.discordapp.com/attachments/1256105379927031848/1256105566112190475/MILHS.png?ex=667f8ef8&is=667e3d78&hm=a507431b471bb621c55fbe0403e4139b2b524a66cdad6c413458448ac5cba036&",
+            "group": "MAMAMOO",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`MILHS`"
+        }
+],
+    "RSLS": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** LISA",
+            "song": "Rock Star",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1256107238330994718/RSLS.png?ex=667f9086&is=667e3f06&hm=8077239a012694ec3abf5ad6656798e69db37a0e96a6e92c8eb3ae6539a8dc8f&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`RSLS`"
+        }
+],
+    "DNYN": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** D.O.",
+            "song": "MARS",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1256107257259622551/MADO.png?ex=667f908b&is=667e3f0b&hm=eb4381fc22a98809ac08ad1d58f5121ec6674d8bfc787b652d3b157a5d6f5bb1&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`MADO`"
+        }
+],
+    "BMOBS": [
+        {
+            "name": "<:1a:1248301357635735686> **B.D.U** Bitsaeon",
+            "song": "My One",
+            "image": "https://cdn.discordapp.com/attachments/1256105627512602747/1256105988684255314/BMOBS.png?ex=667f8f5d&is=667e3ddd&hm=1b00673cc28e195b6581fa4cb30a69459372d974ce836e641dad108d87bda0af&",
+            "group": "B.D.U",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BMOBS`"
+        }
+],
+    "BMOSH": [
+        {
+            "name": "<:1a:1248301357635735686> **B.D.U** Seunghun",
+            "song": "My One",
+            "image": "https://cdn.discordapp.com/attachments/1256105627512602747/1256105989220995125/BMOSH.png?ex=667f8f5d&is=667e3ddd&hm=ebd0805841655dfeaf4fd194e8d06cde3cb73aae45d8008d1e8cf52e66683e73&",
+            "group": "B.D.U",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BMOSH`"
+        }
+],
+    "BMOJC": [
+        {
+            "name": "<:1a:1248301357635735686> **B.D.U** Jay Chang",
+            "song": "My One",
+            "image": "https://cdn.discordapp.com/attachments/1256105627512602747/1256105989778968596/BMOJC.png?ex=667f8f5d&is=667e3ddd&hm=a8aa93d51d2f87bf9f189dedb346a348a7391a3d32ddd544005b6af478c2f290&",
+            "group": "B.D.U",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BMOJC`"
+        }
+],
+    "BMOKM": [
+        {
+            "name": "<:1a:1248301357635735686> **B.D.U** Kim Minseo",
+            "song": "My One",
+            "image": "https://cdn.discordapp.com/attachments/1256105627512602747/1256105990303125606/BMOKM.png?ex=667f8f5d&is=667e3ddd&hm=cfda775f11040370cdcea4275d6ca3aed8a44b020d159d3a665360d7f6ca0613&",
+            "group": "B.D.U",
+            "type": "K-POP BOY GROUPS",
+            "code": "`BMOKM`"
         }      
     ]
 }
