@@ -7785,6 +7785,426 @@
             "group": "B.D.U",
             "type": "K-POP BOY GROUPS",
             "code": "`BMOKM`"
+        }
+    ],
+    "KDKLCS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **KING THE LAND** Cheon Sarang",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1254117408663408651/KDKLCS.png?ex=6686d3da&is=6685825a&hm=0203cbe69ded47d4f42d2868f54f8828194d53826307c8fbd0166c2c82e15aa2&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDKLCS`"
+        }
+    ],
+    "KDKLGW": [
+        {
+            "name": "<:kdrama:1258246206577049652> **KING THE LAND** Gu Won",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1254117409074315314/KDKLGW.png?ex=6686d3da&is=6685825a&hm=e1d875d47d716eaf852429866b7290666d69b0a4be33e9e931228289d7368817&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDKLGW`"
+        }
+    ],
+    "KDKLLR": [
+        {
+            "name": "<:kdrama:1258246206577049652> **KING THE LAND** Lee Rowoon",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1254117409682493564/KDKLLR.png?ex=6686d3da&is=6685825a&hm=89e6814a6436e593aad92d984177f313f66a5dfe666255232edffaec1b626135&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDKLLR`"
+        }
+    ],
+    "KDKLGD": [
+        {
+            "name": "<:kdrama:1258246206577049652> **KING THE LAND** Gang Daeul",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1254117410076754061/KDKLGD.png?ex=6686d3da&is=6685825a&hm=0cafd3a708d8ace875d09d074bbcbc48264e7e3dbeb00f6b1af20a29372fd4a7&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDKLGD`"
+        }
+    ],
+    "KDKLNS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **KING THE LAND** No Sangsik",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1254117410844446730/KDKLNS.png?ex=6686d3db&is=6685825b&hm=13d14e982e7d672c12b039fd92b8d17f758be1c5c778fe66adb552481b372d7c&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDKLNS`"
+        }
+    ],
+    "KDKLOP": [
+        {
+            "name": "<:kdrama:1258246206577049652> **KING THE LAND** Oh Pyeonghwa",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1254117411356151858/KDKLOP.png?ex=6686d3db&is=6685825b&hm=29a464a2ef5635a0e4af7f5e512fb654bb503f12be5ab34c366fa0098f5c1dc3&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDKLOP`"
+        }
+    ],
+    "KDHRKH": [
+        {
+            "name": "<:kdrama:1258246206577049652> **HIERARCHY** Kang Ha",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257272754856792075/KDHRKH.png?ex=668719bf&is=6685c83f&hm=014167bc9acaae66460021902a60a9f69826d65ebac07dba9023d99cdd5ea96b&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDHRKH`"
+        }
+    ],
+    "KDHRJJ": [
+        {
+            "name": "<:kdrama:1258246206577049652> **HIERARCHY** Jung Jaei",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257272755360104548/KDHRJJ.png?ex=668719bf&is=6685c83f&hm=fa4fe97c304a37826756baabc547318ad6a9c228f1f4fdc905444f0b21a0711b&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDHRJJ`"
+        }
+    ],
+    "KDHRKR": [
+        {
+            "name": "<:kdrama:1258246206577049652> **HIERARCHY** Kim Rian",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257272755771150436/KDHRKR.png?ex=668719bf&is=6685c83f&hm=a270a5b61b2115711751fecc34afa2fa2b96ecd0ea293776b71b1aca08a496eb&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDHRKR`"
+        }
+    ],
+    "KDHRYH": [
+        {
+            "name": "<:kdrama:1258246206577049652> **HIERARCHY** Yoon Hera",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257272756232257588/KDHRYH.png?ex=668719c0&is=6685c840&hm=e54c22a0bd01bd4d0d72846c14d1c7e511387803d6aac03ab97026098e29f157&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDHRYH`"
+        }
+    ],
+    "KDHRLW": [
+        {
+            "name": "<:kdrama:1258246206577049652> **HIERARCHY** Lee Woojin",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257272756710539324/KDHRLW.png?ex=668719c0&is=6685c840&hm=d3d43756b69378602c2324dbfccf41d0ee6f6a52b634dee08ae77f74ccbf2eb6&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDHRLW`"
+        }
+    ],
+    "KDBPSH": [
+        {
+            "name": "<:kdrama:1258246206577049652> **BUSINESS PROPOSAL** Shin Hari",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257335410175115375/KDBPSH.png?ex=66875419&is=66860299&hm=996f058a08005f31ab0b41216aace9942f5d43805d0179ee04b213464798b735&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDBPSH`"
+        }
+    ],
+    "KDBPKT": [
+        {
+            "name": "<:kdrama:1258246206577049652> **BUSINESS PROPOSAL** Kang Taemoo",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257335411420954756/KDBPKT.png?ex=6687541a&is=6686029a&hm=ecce7938387e377fd22a34236316c9882a5c9779c3bb8c05c96282f23815b052&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDBPKT`"
+        }
+    ],
+    "KDBPJY": [
+        {
+            "name": "<:kdrama:1258246206577049652> **BUSINESS PROPOSAL** Jin Youngseo",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257335411034820688/KDBPJY.png?ex=6687541a&is=6686029a&hm=9d12086790c8786c6ce079f4f5b871e085378c34281eb9317b8ef69c9c7a7c48&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDBPJY`"
+        }
+    ],
+    "KDBPCS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **BUSINESS PROPOSAL** Cha Sunghoon",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257335410586026124/KDBPCS.png?ex=6687541a&is=6686029a&hm=79cac198f7c5c8a09dfd194073fbc937e730eb2112e51e8a16ca8b6296a682a3&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDBPCS`"
+        }
+    ],
+    "KDT81F": [
+        {
+            "name": "<:kdrama:1258246206577049652> **THE 8 SHOW** 1F",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257336116638519296/KDT81F.png?ex=668754c2&is=66860342&hm=8521bdb4a4eed4aa97f185b954fad2adf07c8b65dc2a9fdf50ff140b4f4c24f4&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDT81F`"
+        }
+    ],
+    "KDT82F": [
+        {
+            "name": "<:kdrama:1258246206577049652> **THE 8 SHOW** 2F",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257336117146161152/KDT82F.png?ex=668754c2&is=66860342&hm=90d55fcb35eb4681d2a999d1d628e1dcc15214be53e4c13022b32fc4052b7c40&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDT82F`"
+        }
+    ],
+    "KDT83F": [
+        {
+            "name": "<:kdrama:1258246206577049652> **THE 8 SHOW** 3F",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257336117665988648/KDT83F.png?ex=668754c2&is=66860342&hm=420fe1ddf71632d84a826b61696a724e8cbaa841c9f9a26f4646c82597e79d8b&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDT83F`"
+        }
+    ],
+    "KDT84F": [
+        {
+            "name": "<:kdrama:1258246206577049652> **THE 8 SHOW** 4F",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257336118039416852/KDT84F.png?ex=668754c2&is=66860342&hm=7b252696a7e4aeeb25139fb14f27ccdde454a5cc8ec74f2d4b3dda09ddcf540c&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDT84F`"
+        }
+    ],
+    "KDT85F": [
+        {
+            "name": "<:kdrama:1258246206577049652> **THE 8 SHOW** 5F",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257336118446395423/KDT85F.png?ex=668754c2&is=66860342&hm=e7bb5873b6b01e5aa6577fd2b6848563c0101f97b24d3cab1050dadd3d4fa640&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDT85F`"
+        }
+    ],
+    "KDT86F": [
+        {
+            "name": "<:kdrama:1258246206577049652> **THE 8 SHOW** 6F",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257336118970679356/KDT86F.png?ex=668754c2&is=66860342&hm=ee2993e4af94769461b640749585780b1e4cb82131074be7ec6cccc403c31417&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDT86F`"
+        }
+    ],
+    "KDT87F": [
+        {
+            "name": "<:kdrama:1258246206577049652> **THE 8 SHOW** 7F",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257336119364816906/KDT87F.png?ex=668754c3&is=66860343&hm=340fa02d1524cba9b7923421ce67b28334e9473288555350a19604186006b15a&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDT87F`"
+        }
+    ],
+    "KDT88F": [
+        {
+            "name": "<:kdrama:1258246206577049652> **THE 8 SHOW** 8F",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257336119885037708/KDT88F.png?ex=668754c3&is=66860343&hm=c2c3831370c805803e83ec1c56f0ee742448fc89f969198e856bae5e117d3f19&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDT88F`"
+        }
+    ],
+    "KDTBLJ": [
+        {
+            "name": "<:kdrama:1258246206577049652> **TRUE BEAUTY** Lim Jukyung",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257361362959732836/KDTBLJ.png?ex=6686c385&is=66857205&hm=1a92370ac1284a227b4dc996db0636c4f37eeddb91772a1379c6268df6a80d04&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDTBLJ`"
+        }
+    ],
+    "KDTBLS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **TRUE BEAUTY** Lee Suho",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257361363437879326/KDTBLS.png?ex=6686c385&is=66857205&hm=914cb8f34da93563d4ca9e4393a4e5b377928b520c8d71c261a2dc424db2a5e5&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDTBLS`"
+        }
+    ],
+    "KDTBPS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **TRUE BEAUTY** Park Seojun",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257361363957977228/KDTBPS.png?ex=6686c385&is=66857205&hm=cec34885558fe2c79609d97170f6480fedd687b8e950341a7d42a6083ff94bd1&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDTBPS`"
+        }
+    ],
+    "KDTBKS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **TRUE BEAUTY** Kang Soojin",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257361364650033204/KDTBKS.png?ex=6686c385&is=66857205&hm=8cde409231b7d44960775db6ea05bb37549a641a1f62200ce21ad9a7395f80f3&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDTBKS`"
+        }
+    ],
+    "KDSHCH": [
+        {
+            "name": "<:kdrama:1258246206577049652> **SWEET HOME** Cha Hyunsu",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258039188218183691/KDSHCH.png?ex=6687408b&is=6685ef0b&hm=73639d7b93caa8fb01e0b35f71909d4f029df6ba7d17ea7a1d6416e39d7ff7c9&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDSHCH`"
+        }
+    ],
+    "KDSHLE": [
+        {
+            "name": "<:kdrama:1258246206577049652> **SWEET HOME** Lee Eunyu",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258039188876431360/KDSHLE.png?ex=6687408b&is=6685ef0b&hm=13c006263616dd9d5da43d98f6ffd7ba678a4ca94f1d1bac7c2aeab5c255b8b2&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDSHLE`"
+        }
+    ],
+    "KDSHPS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **SWEET HOME** Pyeon Sangwook",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258039189623275581/KDSHPS.png?ex=6687408c&is=6685ef0c&hm=9e286dab4ceaa17ef7b493d50c81bb98614db7e529617e213efbbd81c440b383&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDSHPS`"
+        }
+    ],
+    "KDSHSY": [
+        {
+            "name": "<:kdrama:1258246206577049652> **SWEET HOME** Seo Yikyung",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258039190185054238/KDSHSY.png?ex=6687408c&is=6685ef0c&hm=2b3045c23da1933569589e95d6cc09d9a1bcd0b24c76e8a68766047e5c293b35&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDSHSY`"
+        }
+    ],
+    "KDSHPC": [
+        {
+            "name": "<:kdrama:1258246206577049652> **SWEET HOME** Park Chanyoung",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258039190965452924/KDSHPC.png?ex=6687408c&is=6685ef0c&hm=e3290fa6cd2ecb521d504b7fbfe77facebac8af4006e94998f78e0e1625a1f94&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDSHPC`"
+        }
+    ],
+    "KDSHLH": [
+        {
+            "name": "<:kdrama:1258246206577049652> **SWEET HOME** Lee Eunhyeok",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258039191581888595/KDSHLH.png?ex=6687408c&is=6685ef0c&hm=aaf2eea800f0ab2c228f2cf410081485094549a75baddcd92fd31d0f5ec1cd8f&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDSHLH`"
+        }
+    ],
+    "KDSHYJ": [
+        {
+            "name": "<:kdrama:1258246206577049652> **SWEET HOME** Yoon Jisu",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258039192181800960/LDSHYJ.png?ex=6687408c&is=6685ef0c&hm=e614bbe0187cb581196e61c564354af057f1928ab49098c56cded0c0e72a128b&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDSHYJ`"
+        }
+    ],
+    "KDLRRS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **LOVELY RUNNER** Ryu Seonjae",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258246033423597678/KDLRRS.png?ex=6687586f&is=668606ef&hm=82713a72de33d3665840754fc0d447c3669f9504e792e37b95bea75b448df713&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDLRRS`"
+        }
+    ],
+    "KDLRIS": [
+        {
+            "name": "<:kdrama:1258246206577049652> **LOVELY RUNNER** Im Sol",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258246033918394378/KDLRIS.png?ex=6687586f&is=668606ef&hm=7d05a7323723bb0f843b7cfc733b53138e5a85198921dafc71e9639015a958f9&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDLRIS`"
+        }
+    ],
+    "KDLRKT": [
+        {
+            "name": "<:kdrama:1258246206577049652> **LOVELY RUNNER** Kim Taesung",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258246034476367882/KDLRKT.png?ex=6687586f&is=668606ef&hm=b5283a17744f36a4157d947f1e4bd894bd7677ba4c490184563f1467673132c7&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDLRKT`"
+        }
+    ],
+    "KDLRBI": [
+        {
+            "name": "<:kdrama:1258246206577049652> **LOVELY RUNNER** Baek Inhyuk",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258246034883346485/KDLRBI.png?ex=6687586f&is=668606ef&hm=b21402774ff161a182cdc44d579c35a39d241256c040a5829b56a86ef0c49b63&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDLRBI`"
+        }
+    ],
+    "KDOBKY": [
+        {
+            "name": "<:kdrama:1258246206577049652> **OUR BELOVED SUMMER** Kook Yeonsu",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258246170711429180/KDOBKY.png?ex=66875890&is=66860710&hm=62ad888a5636aacd6321c56bc6e2fcb20fdfe9cc219c9ab23475aaedf8e0f959&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDOBKY`"
+        }
+    ],
+    "KDOBCU": [
+        {
+            "name": "<:kdrama:1258246206577049652> **OUR BELOVED SUMMER** Choi Ung",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258246171156152350/KDOBCU.png?ex=66875890&is=66860710&hm=dfbc118df174ad2361c31ff05fcf934d947cc24bcbe1d9a821f46f9d213a1e6b&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDOBCU`"
+        }
+    ],
+    "KDOBKJ": [
+        {
+            "name": "<:kdrama:1258246206577049652> **OUR BELOVED SUMMER** Kim Jiung",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258246171550421072/KDOBKJ.png?ex=66875890&is=66860710&hm=155d1e4b4f695f1897ff8dda23b749df9357d96f315c0ca738bd0f423ca41afa&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDOBKJ`"
+        }
+    ],
+    "KDOBNJ": [
+        {
+            "name": "<:kdrama:1258246206577049652> **OUR BELOVED SUMMER** NJ",
+            "song": "My Watchlist: K-Drama",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1258246172192145479/KDOBNJ.png?ex=66875890&is=66860710&hm=94f23f3a7441815c004a4f235eab20c536ed8d440dc8c1a30e8181b7441882e1&",
+            "group": "Event",
+            "type": "EVENTS",
+            "code": "`KDOBNJ`"
         }      
     ]
 }
