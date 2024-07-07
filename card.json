@@ -8037,14 +8037,14 @@
             "code": "`KDTBLS`"
         }
     ],
-    "KDTBPS": [
+    "KDTBHS": [
         {
-            "name": "<:kdrama:1258246206577049652> **TRUE BEAUTY** Park Seojun",
+            "name": "<:kdrama:1258246206577049652> **TRUE BEAUTY** Han Seojun",
             "song": "My Watchlist: K-Drama",
-            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1257361363957977228/KDTBPS.png?ex=6686c385&is=66857205&hm=cec34885558fe2c79609d97170f6480fedd687b8e950341a7d42a6083ff94bd1&",
+            "image": "https://cdn.discordapp.com/attachments/1254117081008312362/1259370418360549407/KDTBHS.png?ex=668b6f99&is=668a1e19&hm=cc44f078b6507d4d4ce801242a17a3e69b78cac137c9f20b67c341ee4e816d4a&",
             "group": "Event",
             "type": "EVENTS",
-            "code": "`KDTBPS`"
+            "code": "`KDTBHS`"
         }
     ],
     "KDTBKS": [
