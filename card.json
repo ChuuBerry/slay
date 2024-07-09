@@ -8665,6 +8665,66 @@
             "group": "ROCKET PUNCH",
             "type": "K-POP GIRL GROUPS",
             "code": "`RBOSH`"
+        }
+],
+    "YOKH": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** KIHYUN",
+            "song": "Youth",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1258586114822901830/YOKH.png?ex=668ddb29&is=668c89a9&hm=4b6262ae53cee9ae36c3b808044b7135f1408d974fc5f5f0a87f1f5b2c69a7bf&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`YOKH`"
+        }
+],
+    "CHSH": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** SUHO",
+            "song": "Cheese",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1258586139653177444/CHSH.png?ex=668ddb2f&is=668c89af&hm=bcc77ddbe8bf2595847e6655604397898544118c17236be863eca3a7e2bf1e90&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`CHSH`"
+        }
+],
+    "CLSL": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** SOLAR",
+            "song": "Colors",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1259370451432505376/CLSL.png?ex=668d69e1&is=668c1861&hm=a58f550df2a2fc2e74efbc68f5539559a59c7f6d8736c06d6c98c790436d6a51&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`CLSL`"
+        }
+],
+    "MSAD": [
+        {
+            "name": "<:1a:1248301357635735686> **Soloist** ADORA",
+            "song": "Magical Symphony",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1259437868032593961/MSAD.png?ex=668da8aa&is=668c572a&hm=4d4269342accb67bcf824aeb3d048e35fab5e53adc6235c62be99a636e49b964&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`MSAD`"
+        }
+],
+    "PCKA": [
+        {
+            "name": "<:1b:1248301243705856142> **Soloist** KAI",
+            "song": "PEACHES",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1260097382780108850/PCKA.png?ex=668e14a3&is=668cc323&hm=d9da1db7d1a55689f6188ac680c838cee53ccad68d417e59c4991a4f9a431bb3&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`PCKA`"
+        }
+],
+    "HVTY": [
+        {
+            "name": "<:1b:1248301243705856142> **Soloist** TAEYEON",
+            "song": "Heaven",
+            "image": "https://cdn.discordapp.com/attachments/1223678407913767085/1260097396348817498/HVTY.png?ex=668e14a6&is=668cc326&hm=373ce64d0f21e6289e7a2fdc5f079f1f2a1f04437d6eab0947afb733da1a60eb&",
+            "group": "Soloist",
+            "type": "K-POP SOLOISTS",
+            "code": "`HVTY`"
         }      
     ]
 }
