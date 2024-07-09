@@ -8205,6 +8205,466 @@
             "group": "Event",
             "type": "EVENTS",
             "code": "`KDOBNJ`"
+        }
+],
+    "ASPPJ": [
+        {
+            "name": "<:1a:1248301357635735686> **A.C.E** Park Junhee",
+            "song": "Supernatural",
+            "image": "https://cdn.discordapp.com/attachments/1259850739635847258/1259850867046223993/ASPPJ.png?ex=668dd7cd&is=668c864d&hm=336b8ecd58e7789954d2a6719941a7e9a37c25fd0922674f2c81de9028f0987c&",
+            "group": "A.C.E",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASPPJ`"
+        }
+],
+    "ASPLD": [
+        {
+            "name": "<:1a:1248301357635735686> **A.C.E** Lee Donghun",
+            "song": "Supernatural",
+            "image": "https://cdn.discordapp.com/attachments/1259850739635847258/1259850868006715442/ASPLD.png?ex=668dd7cd&is=668c864d&hm=d005eb0f632a4f6cfeb0af2f231cd9e74c3ad3a228c8ed492c74f9b0a370d742&",
+            "group": "A.C.E",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASPLD`"
+        }
+],
+    "ASPWO": [
+        {
+            "name": "<:1a:1248301357635735686> **A.C.E** Wow",
+            "song": "Supernatural",
+            "image": "https://cdn.discordapp.com/attachments/1259850739635847258/1259850868413567116/ASPWO.png?ex=668dd7cd&is=668c864d&hm=cfc971f594886c10f2816bf8a9ac2b51d03bfd7f17df0dfdab3da4793274e96d&",
+            "group": "A.C.E",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASPWO`"
+        }
+],
+    "ASPKB": [
+        {
+            "name": "<:1a:1248301357635735686> **A.C.E** Kim Byeongkwan",
+            "song": "Supernatural",
+            "image": "https://cdn.discordapp.com/attachments/1259850739635847258/1259850868870611036/ASPKB.png?ex=668dd7ce&is=668c864e&hm=cd2207a52905a8edaf6252aade1e561da50414d705787fc5fe7bf381dc5a5a51&",
+            "group": "A.C.E",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASPKB`"
+        }
+],
+    "ASPKY": [
+        {
+            "name": "<:1a:1248301357635735686> **A.C.E** Kang Yuchan",
+            "song": "Supernatural",
+            "image": "https://cdn.discordapp.com/attachments/1259850739635847258/1259850869273399296/ASPKY.png?ex=668dd7ce&is=668c864e&hm=2f6ccb07f7bb23e7e1fd181a6e7f28f5ad7c3c39b3f9401e52890a9a1d180949&",
+            "group": "A.C.E",
+            "type": "K-POP BOY GROUPS",
+            "code": "`ASPKY`"
+        }
+],
+    "EFTHS": [
+        {
+            "name": "<:1b:1248301243705856142> **ENHYPEN** Heeseung",
+            "song": "Fatal Trouble",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1259750758669357077/EFTHS.png?ex=668d7a91&is=668c2911&hm=766910ebef063cd027eef9a244b8506743cee465725fb8bbf8b45a674615bd23&",
+            "group": "ENHYPEN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EFTHS`"
+        }
+],
+    "EFTJA": [
+        {
+            "name": "<:1b:1248301243705856142> **ENHYPEN** Jay",
+            "song": "Fatal Trouble",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1259750759181058069/EFTJA.png?ex=668d7a92&is=668c2912&hm=decd52ebbee35dbb065d774dbb052123904075b0ddfd3c629907f56c596ced68&",
+            "group": "ENHYPEN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EFTJA`"
+        }
+],
+    "EFTJK": [
+        {
+            "name": "<:1b:1248301243705856142> **ENHYPEN** Jake",
+            "song": "Fatal Trouble",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1259750759747031160/EFTJK.png?ex=668d7a92&is=668c2912&hm=50e8492c09ad4ab2dade44aeb0fd5babd86186a2917356ba98fe1d48c957a5f8&",
+            "group": "ENHYPEN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EFTJK`"
+        }
+],
+    "EFTSH": [
+        {
+            "name": "<:1b:1248301243705856142> **ENHYPEN** Sunghoon",
+            "song": "Fatal Trouble",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1259750760217055304/EFTSH.png?ex=668d7a92&is=668c2912&hm=fbc9ec9878526edcced5b399efea5d6406ec1d8cbc0d3bfe2bfa39b4d7f0d0c9&",
+            "group": "ENHYPEN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EFTSH`"
+        }
+],
+    "EFTSN": [
+        {
+            "name": "<:1b:1248301243705856142> **ENHYPEN** Sunoo",
+            "song": "Fatal Trouble",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1259750760711716995/EFTSN.png?ex=668d7a92&is=668c2912&hm=adb15bf21fd985e38a17ff2d7499a2cca562cc932b23c929712533a803683808&",
+            "group": "ENHYPEN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EFTSN`"
+        }
+],
+    "EFTJW": [
+        {
+            "name": "<:1b:1248301243705856142> **ENHYPEN** Jungwon",
+            "song": "Fatal Trouble",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1259750761227751515/EFTJW.png?ex=668d7a92&is=668c2912&hm=e71f8479821bf4f4a0cb99f7b49d11fee073ef2535cfc77ff2ceb07704e1bc92&",
+            "group": "ENHYPEN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EFTJW`"
+        }
+],
+    "EFTNK": [
+        {
+            "name": "<:1b:1248301243705856142> **ENHYPEN** Ni-Ki",
+            "song": "Fatal Trouble",
+            "image": "https://cdn.discordapp.com/attachments/1226402084685873152/1259750761642983464/EFTNK.png?ex=668d7a92&is=668c2912&hm=7a01c60eea6810298616d0b32e1d004f2950e6f2ecc47bbe6fac9e1ff3ab24f8&",
+            "group": "ENHYPEN",
+            "type": "K-POP BOY GROUPS",
+            "code": "`EFTNK`"
+        }
+],
+    "TLHHB": [
+        {
+            "name": "<:1a:1248301357635735686> **TEMPEST** Hanbin",
+            "song": "LIGHTHOUSE",
+            "image": "https://cdn.discordapp.com/attachments/1259448630176124958/1259448791484862514/TLHHB.png?ex=668db2d7&is=668c6157&hm=602bffecfd63f00d04a264992d1bb1b113847ada79528a707a70962624e9741c&",
+            "group": "TEMPEST",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TLHHB`"
+        }
+],
+    "TLHHS": [
+        {
+            "name": "<:1a:1248301357635735686> **TEMPEST** Hyeongseop",
+            "song": "LIGHTHOUSE",
+            "image": "https://cdn.discordapp.com/attachments/1259448630176124958/1259448791950557255/TLHHS.png?ex=668db2d7&is=668c6157&hm=89f4eebf2c730cd3b65c77716779c012beddac921696999938ea38d64649fd24&",
+            "group": "TEMPEST",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TLHHS`"
+        }
+],
+    "TLHHY": [
+        {
+            "name": "<:1a:1248301357635735686> **TEMPEST** Hyuk",
+            "song": "LIGHTHOUSE",
+            "image": "https://cdn.discordapp.com/attachments/1259448630176124958/1259448792441163826/TLHHY.png?ex=668db2d7&is=668c6157&hm=76f5903173ab73b8c3d2951b4b14277ed3daa253f08b8ee5f3174374ea6fa2db&",
+            "group": "TEMPEST",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TLHHY`"
+        }
+],
+    "TLHEC": [
+        {
+            "name": " **TEMPEST** Eunchan",
+            "song": "LIGHTHOUSE",
+            "image": "https://cdn.discordapp.com/attachments/1259448630176124958/1259448792927830088/TLHEC.png?ex=668db2d7&is=668c6157&hm=1c9b4177088deaefb1e8697a57aff12f91fa32c77e439563b90398e24bef08ea&",
+            "group": "TEMPEST",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TLHEC`"
+        }
+],
+    "TLHLE": [
+        {
+            "name": "<:1a:1248301357635735686> **TEMPEST** LEW",
+            "song": "LIGHTHOUSE",
+            "image": "https://cdn.discordapp.com/attachments/1259448630176124958/1259448793523556493/TLHLE.png?ex=668db2d7&is=668c6157&hm=4e6ce1b2413e38210ccc0afacd8468be39acf9250e7e6b750ad255b5b521c009&",
+            "group": "TEMPEST",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TLHLE`"
+        }
+],
+    "TLHHR": [
+        {
+            "name": "<:1a:1248301357635735686> **TEMPEST** Hwarang",
+            "song": "LIGHTHOUSE",
+            "image": "https://cdn.discordapp.com/attachments/1259448630176124958/1259448793938526208/TLHHR.png?ex=668db2d7&is=668c6157&hm=03dd06def71d0e60d66c1de26d133c61e88c511676f4d937327785857ac7bf6e&",
+            "group": "TEMPEST",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TLHHR`"
+        }
+],
+    "TLHTR": [
+        {
+            "name": "<:1a:1248301357635735686> **TEMPEST** Taerae",
+            "song": "LIGHTHOUSE",
+            "image": "https://cdn.discordapp.com/attachments/1259448630176124958/1259448794362282004/TLHTR.png?ex=668db2d8&is=668c6158&hm=dbaa52f7c4d826ab31bfe803f0ae7aff91b06619ac2df31302f05e8e68aeaa8a&",
+            "group": "TEMPEST",
+            "type": "K-POP BOY GROUPS",
+            "code": "`TLHTR`"
+        }
+],
+    "VTTDH": [
+        {
+            "name": "<:1a:1248301357635735686> **VERIVERY** Dongheon",
+            "song": "Tap Tap",
+            "image": "https://cdn.discordapp.com/attachments/1259086754321924116/1259086906696925234/VTTDH.png?ex=668db34f&is=668c61cf&hm=3acf88a87ebcb3c3925cf9721ef6354ae115d77c6c0b419ec0f586c98ba57037&",
+            "group": "VERIVERY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`VTTDH`"
+        }
+],
+    "VTTHY": [
+        {
+            "name": "<:1a:1248301357635735686> **VERIVERY** Hoyoung",
+            "song": "Tap Tap",
+            "image": "https://cdn.discordapp.com/attachments/1259086754321924116/1259086907170754610/VTTHY.png?ex=668db34f&is=668c61cf&hm=e48733fe0ec8612ba5d7bc42995fee1277b2e5933c4001eae2180d0386a0e7f0&",
+            "group": "VERIVERY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`VTTHY`"
+        }
+],
+    "VTTMC": [
+        {
+            "name": "<:1a:1248301357635735686> **VERIVERY** Minchan",
+            "song": "Tap Tap",
+            "image": "https://cdn.discordapp.com/attachments/1259086754321924116/1259086907623604275/VTTMC.png?ex=668db34f&is=668c61cf&hm=5eec5bf90729440fd7176f9c66e9e0feb565def099e7ec84cb95a124ef7fe9be&",
+            "group": "VERIVERY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`VTTMC`"
+        }
+],
+    "VTTGH": [
+        {
+            "name": "<:1a:1248301357635735686> **VERIVERY** Gyehyeon",
+            "song": "Tap Tap",
+            "image": "https://cdn.discordapp.com/attachments/1259086754321924116/1259086908118667275/VTTGH.png?ex=668db34f&is=668c61cf&hm=2a5a01095b66edf7fb9519bc71912514fcc1340a6c629cae7cbae9dc6d6f275f&",
+            "group": "VERIVERY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`VTTGH`"
+        }
+],
+    "VTTYH": [
+        {
+            "name": "<:1a:1248301357635735686> **VERIVERY** Yeonho",
+            "song": "Tap Tap",
+            "image": "https://cdn.discordapp.com/attachments/1259086754321924116/1259086908613464135/VTTYH.png?ex=668db34f&is=668c61cf&hm=4c19e81217b7b170515f50cbfcfb53b0549bd556986ce9a022675f90e3c90f32&",
+            "group": "VERIVERY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`VTTYH`"
+        }
+],
+    "VTTKM": [
+        {
+            "name": "<:1a:1248301357635735686> **VERIVERY** Kangmin",
+            "song": "Tap Tap",
+            "image": "https://cdn.discordapp.com/attachments/1259086754321924116/1259086909721018378/VTTKM.png?ex=668db34f&is=668c61cf&hm=4658cc4023bcd25217e4062ded14f73802677e2c5d00dd7b6a2ab5b3531e6a15&",
+            "group": "VERIVERY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`VTTKM`"
+        }
+],
+    "VTTYS": [
+        {
+            "name": "<:1a:1248301357635735686> **VERIVERY** Yongseung",
+            "song": "Tap Tap",
+            "image": "https://cdn.discordapp.com/attachments/1259086754321924116/1259086909188345886/VTTYS.png?ex=668db34f&is=668c61cf&hm=1cbeac9b50144a68a212ede68ab1619db27e369abf51438bccc3d0fc1b043c2c&",
+            "group": "VERIVERY",
+            "type": "K-POP BOY GROUPS",
+            "code": "`VTTYS`"
+        }
+],
+    "CPDCS": [
+        {
+            "name": "<:1a:1248301357635735686> **cignature** Chaesol",
+            "song": "풍덩 (Poongdung)",
+            "image": "https://cdn.discordapp.com/attachments/1259786513269522463/1259786640067399821/CILCS.png?ex=668d9bfc&is=668c4a7c&hm=df6f785983794af88229eb93e55fc708a8319aac2bb9cf5d38dda37573ff7da5&",
+            "group": "cignature",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`CPDCS`"
+        }
+],
+    "CPDJW": [
+        {
+            "name": "<:1a:1248301357635735686> **cignature** Jeewon",
+            "song": "풍덩 (Poongdung)",
+            "image": "https://cdn.discordapp.com/attachments/1259786513269522463/1259786640575172648/CILJW.png?ex=668d9bfc&is=668c4a7c&hm=a00cf1a4a25a00079205427718e0a9dc486bbbf50c5a52f57c5ae180d07ab69a&",
+            "group": "cignature",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`CPDJW`"
+        }
+],
+    "CPDSL": [
+        {
+            "name": "<:1a:1248301357635735686> **cignature** Seline",
+            "song": "풍덩 (Poongdung)",
+            "image": "https://cdn.discordapp.com/attachments/1259786513269522463/1259786641271160963/CILSL.png?ex=668d9bfc&is=668c4a7c&hm=089f1dba61585196c41428c337cac42135518c48dff5884ee4c27dd13d32a6fe&",
+            "group": "cignature",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`CPDSL`"
+        }
+],
+    "CPDCL": [
+        {
+            "name": "<:1a:1248301357635735686> **cignature** Chloe",
+            "song": "풍덩 (Poongdung)",
+            "image": "https://cdn.discordapp.com/attachments/1259786513269522463/1259786641757966378/CILCL.png?ex=668d9bfd&is=668c4a7d&hm=dcbadec11985aa8d9e41c667e997b873447f2d1a22537eb34f493b75ac2760eb&",
+            "group": "cignature",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`CPDCL`"
+        }
+],
+    "CPDSM": [
+        {
+            "name": "<:1a:1248301357635735686> **cignature** Semi",
+            "song": "풍덩 (Poongdung)",
+            "image": "https://cdn.discordapp.com/attachments/1259786513269522463/1259786642382782474/CILSM.png?ex=668d9bfd&is=668c4a7d&hm=690ee1013c001548633064361268df6232c252cd129382db2407e45e068f14d4&",
+            "group": "cignature",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`CPDSM`"
+        }
+],
+    "CPDDH": [
+        {
+            "name": "<:1a:1248301357635735686> **cignature** Dohee",
+            "song": "풍덩 (Poongdung)",
+            "image": "https://cdn.discordapp.com/attachments/1259786513269522463/1259786642882039900/CILDH.png?ex=668d9bfd&is=668c4a7d&hm=de8f62b9583bca041b51923e82830959c296fd3583e1d55e74723ebd1476ddd4&",
+            "group": "cignature",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`CPDDH`"
+        }
+],
+    "AHMKR": [
+        {
+            "name": "<:1b:1248301243705856142> **aespa** Karina",
+            "song": "Hot Mess",
+            "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1257910519726211153/AHMKR.png?ex=668d6036&is=668c0eb6&hm=b41b9a54b9147233569fc545d62f114bca819a4cc2af0fda921e0071c38b5baf&",
+            "group": "aespa",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`AHMKR`"
+        }
+],
+    "AHMGS": [
+        {
+            "name": "<:1b:1248301243705856142> **aespa** Giselle",
+            "song": "Hot Mess",
+            "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1257910520254697555/AHMGS.png?ex=668d6036&is=668c0eb6&hm=04bf79590e43f18e9b7fc2159343ce5d0826525334e2b26352875ecd651c6d2b&",
+            "group": "aespa",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`AHMGS`"
+        }
+],
+    "AHMWT": [
+        {
+            "name": "<:1b:1248301243705856142> **aespa** Winter",
+            "song": "Hot Mess",
+            "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1257910520770592899/AHMWT.png?ex=668d6036&is=668c0eb6&hm=f960c5db61d0217985daa9e7cd5f6dacf43d30c6dc44cce51dc8c0f7ce750c5b&",
+            "group": "aespa",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`AHMWT`"
+        }
+],
+    "AHMNN": [
+        {
+            "name": "<:1b:1248301243705856142> **aespa** Ningning",
+            "song": "Hot Mess",
+            "image": "https://cdn.discordapp.com/attachments/1225457172482097173/1257910521315983503/AHMNN.png?ex=668d6037&is=668c0eb7&hm=552c6d26b3a8e860086d9f0d09c89db09be91cdc80c096e4562a7da99a90b6f1&",
+            "group": "aespa",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`AHMNN`"
+        }
+],
+    "HLBSI": [
+        {
+            "name": "<:1a:1248301357635735686> **H1-KEY** Seoi",
+            "song": "Let It Burn",
+            "image": "https://cdn.discordapp.com/attachments/1260079116929994802/1260079195003027466/HLBSI.png?ex=668e03b3&is=668cb233&hm=349bbf9561d9bd092e62712ebfce350a1e46dd063e590671226c7a154493b201&",
+            "group": "H1-KEY",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`HLBSI`"
+        }
+],
+    "HLBRN": [
+        {
+            "name": "<:1a:1248301357635735686> **H1-KEY** Riina",
+            "song": "Let It Burn",
+            "image": "https://cdn.discordapp.com/attachments/1260079116929994802/1260079195413811342/HLBRN.png?ex=668e03b3&is=668cb233&hm=b7c221d87bad0a57142c074e84ae297bc332dc1875431fdf4a5b928554ade0c5&",
+            "group": "H1-KEY",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`HLBRN`"
+        }
+],
+    "HLBHS": [
+        {
+            "name": "<:1a:1248301357635735686> **H1-KEY** Hwiseo",
+            "song": "Let It Burn",
+            "image": "https://cdn.discordapp.com/attachments/1260079116929994802/1260079195841626133/HLBHS.png?ex=668e03b3&is=668cb233&hm=927c5456884c51a2cfa044ffe82350d18fbd375cb1577da9f4abf2bdf92c8c3a&",
+            "group": "H1-KEY",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`HLBHS`"
+        }
+],
+    "HLBYE": [
+        {
+            "name": "<:1a:1248301357635735686> **H1-KEY** Yel",
+            "song": "Let It Burn",
+            "image": "https://cdn.discordapp.com/attachments/1260079116929994802/1260079196273643601/HLBYE.png?ex=668e03b3&is=668cb233&hm=07b7a1d88d45b16b8e5ecadf9a13790cbc26c7d5e153d9768afa6119a11563c3&",
+            "group": "H1-KEY",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`HLBYE`"
+        }
+],
+    "RBOJR": [
+        {
+            "name": "<:1a:1248301357635735686> **ROCKET PUNCH** Juri",
+            "song": "BOOM",
+            "image": "https://cdn.discordapp.com/attachments/1260078957714214972/1260079073414352978/RBOJR.png?ex=668e0396&is=668cb216&hm=6badbe322c8fe5d2682cb26fb7b9509bbf4e20c67a1f291b56ed54a4cfff3cd0&",
+            "group": "ROCKET PUNCH",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`RBOJR`"
+        }
+],
+    "RBOYH": [
+        {
+            "name": "<:1a:1248301357635735686> **ROCKET PUNCH** Yeonhee",
+            "song": "BOOM",
+            "image": "https://cdn.discordapp.com/attachments/1260078957714214972/1260079073833779211/RBOYH.png?ex=668e0396&is=668cb216&hm=97b343ff58530ef7ada3011365e0e61912fe48f2832ac2926fb8228ee10c2a0c&",
+            "group": "ROCKET PUNCH",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`RBOYH`"
+        }
+],
+    "RBOSY": [
+        {
+            "name": "<:1a:1248301357635735686> **ROCKET PUNCH** Suyun",
+            "song": "BOOM",
+            "image": "https://cdn.discordapp.com/attachments/1260078957714214972/1260079074571845672/RBOSY.png?ex=668e0396&is=668cb216&hm=642dcbc59ecb8201a6df02259fc8ec20568bb5c548c70ca96b33809e87366484&",
+            "group": "ROCKET PUNCH",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`RBOSY`"
+        }
+],
+    "RBOYK": [
+        {
+            "name": "<:1a:1248301357635735686> **ROCKET PUNCH** Yunkyoung",
+            "song": "BOOM",
+            "image": "https://cdn.discordapp.com/attachments/1260078957714214972/1260079075301785640/RBOYK.png?ex=668e0396&is=668cb216&hm=1cbad050992b5375592a2c48b3762f40020110c2f7cc6c1883441c0f48d92e38&",
+            "group": "ROCKET PUNCH",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`RBOYK`"
+        }
+],
+    "RBODH": [
+        {
+            "name": "<:1a:1248301357635735686> **ROCKET PUNCH** Dahyun",
+            "song": "BOOM",
+            "image": "https://cdn.discordapp.com/attachments/1260078957714214972/1260079075804971008/RBODH.png?ex=668e0396&is=668cb216&hm=f0fa83b1c1df097da62aae8056f1a3ef57f30be08c7ced0422a9018aab1fed87&",
+            "group": "ROCKET PUNCH",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`RBODH`"
+        }
+],
+    "RBOSH": [
+        {
+            "name": "<:1a:1248301357635735686> **ROCKET PUNCH** Sohee",
+            "song": "BOOM",
+            "image": "https://cdn.discordapp.com/attachments/1260078957714214972/1260079076304224266/RBOSH.png?ex=668e0396&is=668cb216&hm=10061078d9368253f39685934310763eb1ac92197d9c5e1b3403913a36d916a9&",
+            "group": "ROCKET PUNCH",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`RBOSH`"
         }      
     ]
 }
