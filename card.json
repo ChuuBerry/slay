@@ -8725,6 +8725,176 @@
             "group": "Soloist",
             "type": "K-POP SOLOISTS",
             "code": "`HVTY`"
+        }
+],
+    "NWATI": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Taeil",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712420225810573/NWATI.png?ex=669697c2&is=66954642&hm=da5f3100d2111e0b67c455a1b5d8821cb8ad568fccde91c696c1803e90617f26&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWATI`"
+        }
+],
+    "NWAJO": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Johnny",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712420842504224/NWAJO.png?ex=669697c2&is=66954642&hm=cabc82d2772dc3bdff5a2af91c20ff689364180cb64a32bd1db38ac41f1d0fea&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWAJO`"
+        }
+],
+    "NWATY": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Taeyong",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712421446352949/NWATY.png?ex=669697c2&is=66954642&hm=5f712082151de059d1bad35cad11c7c7f0e21978490159026f2cf83bf8d8436b&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWATY`"
+        }
+],
+    "NWAYT": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Yuta",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712422146674688/NWAYT.png?ex=669697c2&is=66954642&hm=8e8fb958f586f230be6e5974fac2ffcf071915fcdf18aedc156a50dfdc723e51&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWAYT`"
+        }
+],
+    "NWADY": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Doyoung",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712422855639040/NWADY.png?ex=669697c3&is=66954643&hm=d56980660628c1a91f500886e3921d13722e80a814af4dfae24d73641975378a&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWADY`"
+        }
+],
+    "NWAJH": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Jaehyun",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712423371411476/NWAJH.png?ex=669697c3&is=66954643&hm=46047c52a6b5ae4a02d934d1089cdf1103b680efbed585074d862021101d8125&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWAJH`"
+        }
+],
+    "NWAJW": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Jungwoo",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712423879180369/NWAJW.png?ex=669697c3&is=66954643&hm=75492ce4ef56f7b55711b2d47f6c2f150f6f4de4614498cec4837703533fe860&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWAJW`"
+        }
+],
+    "NWAMA": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Mark",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712424445149305/NWAMA.png?ex=669697c3&is=66954643&hm=79a866b4705d2fe57d9f88a81d4fc1b699cbffc119956e56115e2590bafe8670&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWAMA`"
+        }
+],
+    "NWAHC": [
+        {
+            "name": "<:1b:1248301243705856142> **NCT 127** Haechan",
+            "song": "WALK",
+            "image": "https://cdn.discordapp.com/attachments/1228211987981275167/1261712424994865224/NWAHC.png?ex=669697c3&is=66954643&hm=9c8ae44bee0030832e9efc82dd9cef87107333e8876c61f0b6347ddda0b157ee&",
+            "group": "NCT 127",
+            "type": "K-POP BOY GROUPS",
+            "code": "`NWAHC`"
+        }
+],
+    "BCTAA": [
+        {
+            "name": "<:1b:1248301243705856142> **BINI** Aiah",
+            "song": "Cherry On Top",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1261714233578749952/BCTAA.png?ex=66969972&is=669547f2&hm=a9cf95672ea3b677ab9e1d4ad0d71c64a80c55e4a68ab5b577a2ee2c1a075b54&",
+            "group": "BINI",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BCTAA`"
+        }
+],
+    "BCTCL": [
+        {
+            "name": "<:1b:1248301243705856142> **BINI** Colet",
+            "song": "Cherry On Top",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1261714234585251840/BCTCL.png?ex=66969973&is=669547f3&hm=059a9848345c68c6c101eeba823be80ab9148e02b1d9ee5d66aa2bbf2876da43&",
+            "group": "BINI",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BCTCL`"
+        }
+],
+    "BCTML": [
+        {
+            "name": "<:1b:1248301243705856142> **BINI** Maloi",
+            "song": "Cherry On Top",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1261714235025788978/BCTML.png?ex=66969973&is=669547f3&hm=f12cf8ff23d1efae473f4ac17d82e2ddb0c7947bd9f190b400b3b61cc4d8539a&",
+            "group": "BINI",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BCTML`"
+        }
+],
+    "BCTGW": [
+        {
+            "name": "<:1b:1248301243705856142> **BINI** Gwen",
+            "song": "Cherry On Top",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1261714235638153226/BCTGW.png?ex=66969973&is=669547f3&hm=4875ce3d8374e261ad7e5f5633ec87c4bc12b077d37e8e00bb13c4f2443e64ee&",
+            "group": "BINI",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BCTGW`"
+        }
+],
+    "BCTSC": [
+        {
+            "name": "<:1b:1248301243705856142> **BINI** Stacey",
+            "song": "Cherry On Top",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1261714236074098729/BCTSC.png?ex=66969973&is=669547f3&hm=fec8415b853df1f49f5b0acfbb2b83b91e202bc30e73a77996e8ecdd2e905efd&",
+            "group": "BINI",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BCTSC`"
+        }
+],
+    "BCTMK": [
+        {
+            "name": "<:1b:1248301243705856142> **BINI** Mikha",
+            "song": "Cherry On Top",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1261714236610973798/BCTMK.png?ex=66969973&is=669547f3&hm=4a046cd860881d90d5da3ad2be9a1c4ff9e13c959c70e4979d4a1b5dc81cf588&",
+            "group": "BINI",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BCTMK`"
+        }
+],
+    "BCTJA": [
+        {
+            "name": "<:1b:1248301243705856142> **BINI** Jhoanna",
+            "song": "Cherry On Top",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1261714237085061131/BCTJA.png?ex=66969973&is=669547f3&hm=5ccba0d176fda7e2a8bbd3d52022b3c85db8c63945b611034ffec200030f6bb1&",
+            "group": "BINI",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BCTJA`"
+        }
+],
+    "BCTSN": [
+        {
+            "name": "<:1b:1248301243705856142> **BINI** Sheena",
+            "song": "Cherry On Top",
+            "image": "https://cdn.discordapp.com/attachments/1233739403633885255/1261714237521133618/BCTSN.png?ex=66969973&is=669547f3&hm=7aeefa8c2e5883830e96456bf3146e5c7252a53ccfd72edddc42690ae240bdf1&",
+            "group": "BINI",
+            "type": "K-POP GIRL GROUPS",
+            "code": "`BCTSN`"
         }      
     ]
 }
