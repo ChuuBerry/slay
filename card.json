@@ -8895,6 +8895,16 @@
             "group": "BINI",
             "type": "K-POP GIRL GROUPS",
             "code": "`BCTSN`"
-        }      
+        }
+],
+    "TDDJH": [
+        {
+            "name": "<:palette:1264243570702024816> **TWS** Jihoon",
+            "song": "#doodlemenot boostie exclusive",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263789403923546132/TDDJH.png?ex=669cd499&is=669b8319&hm=bf05f38f49cdebfaeb094c5a6cdaad033991297d8e3458067b679774df219c28&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`TDDJH`"
+        }       
     ]
 }
