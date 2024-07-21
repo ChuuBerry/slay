@@ -8900,11 +8900,161 @@
     "TDDJH": [
         {
             "name": "<:palette:1264243570702024816> **TWS** Jihoon",
-            "song": "#doodlemenot boostie exclusive",
+            "song": "#doodlemenot boostie exc.",
             "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263789403923546132/TDDJH.png?ex=669cd499&is=669b8319&hm=bf05f38f49cdebfaeb094c5a6cdaad033991297d8e3458067b679774df219c28&",
             "group": "EVENTS",
             "type": "EVENT",
             "code": "`TDDJH`"
+        }
+],
+    "RDDSH": [
+        {
+            "name": "<:palette:1264243570702024816> **RIIZE** Sohee",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263111502420906085/RDDSH.png?ex=669e51c1&is=669d0041&hm=d985c54456705921eaf30e52877d82e0eea4eb00f0d2c2659045b0749ac9f6d6&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`RDDSH`"
+        } 
+],
+    "CDDCL": [
+        {
+            "name": "<:palette:1264243570702024816> **cignature** Chloe",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263111519177150585/CDDCL.png?ex=669e51c5&is=669d0045&hm=94e7bc7d41ba07fdd8af3f49cd84900880b721f5d3cbe80de5900fc476eb95ef&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`RDDSH`"
+        }
+],
+    "BDDYS": [
+        {
+            "name": "<:palette:1264243570702024816> **BADVILLAIN** Yunseo",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263111553264255007/BDDYS.png?ex=669e51cd&is=669d004d&hm=3e37b1c42d4e0703690935669ee88e61b65f50314152c9b4c98feab775a84b8d&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`BDDYS`"
+        }
+],
+    "ODDJW": [
+        {
+            "name": "<:palette:1264243570702024816> **ONE PACT** Jongwoo",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263125617214357534/ODDJW.png?ex=669e5ee6&is=669d0d66&hm=5cd115108b258dec03bc894093991dc36c313207a9bc9b3c268b686665ca1e03&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ODDJW`"
+        }
+],
+    "IDDJY": [
+        {
+            "name": "<:palette:1264243570702024816> **IZNA** Jiyoon",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263125633530331189/IDDJY.png?ex=669e5eea&is=669d0d6a&hm=ed4b2185e7e1a889dfa37f479f49dc04d6131aa6e4a42e6f0eaa40fa8d455002&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`IDDJY`"
+        }
+],
+    "SDDLK": [
+        {
+            "name": "<:palette:1264243570702024816> **Stray Kids** Lee Know",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263313774505361540/SDDLK.png?ex=669e6563&is=669d13e3&hm=21636f4c5a63d4d8df948cb54f96b965373c604cb66f89f03d758b2b3bb220a0&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SDDLK`"
+        }
+],
+    "KDDDY": [
+        {
+            "name": "<:palette:1264243570702024816> **Kep1er** Dayeon",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263313813474906162/KDDDY.png?ex=669e656c&is=669d13ec&hm=96fc01940102d2bdf96decc362a955098cae5f2a73a691a269955c7fc36b925c&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`KDDDY`"
+        }
+],
+    "TDDHS": [
+        {
+            "name": "<:palette:1264243570702024816> **THE NEW SIX** Hyunsoo",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263313840842477600/TDDHS.png?ex=669e6572&is=669d13f2&hm=9d7f43eed33f0960ef8571ba3d3db21abd06d14356d41ee6eeaa277db4a3ae62&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`TDDHS`"
+        }
+],
+    "BDDHN": [
+        {
+            "name": "<:palette:1264243570702024816> **Billlie** Haruna",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263380324184887338/BDDHN.png?ex=669dfa9d&is=669ca91d&hm=98939a9acaabd0580fcdd60c0829301c2856b92ef02a6ad3b0279126e96dbdb1&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`BDDHN`"
+        }
+],
+    "CDDBX": [
+        {
+            "name": "<:palette:1264243570702024816> **CIX** BX",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263380344858742814/CDDBX.png?ex=669dfaa2&is=669ca922&hm=d0d3c6d35a18fac72fa46e5258c2d1b496c4a6f2cb7e95652fbad432bd2d9175&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`CDDBX`"
+        }
+],
+    "WDDJH": [
+        {
+            "name": "<:palette:1264243570702024816> **Weeekly** Jihan",
+            "song": "#doodlemenot boostie exc.",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263734925236895764/WDDJH.png?ex=669df35d&is=669ca1dd&hm=120e8b5fb4d5c80d05aedece8a355c26252b8db6b27c307d3bee3abe8ffb3e9b&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`WDDJH`"
+        }
+],
+    "ADDTK": [
+        {
+            "name": "<:palette:1264243570702024816> **&TEAM** Taki",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263734943725518879/ADDTK.png?ex=669df361&is=669ca1e1&hm=901145b885e0fe3f4a7335bc624072fa089a9fee108f99bdda5769b635fc3aa2&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ADDTK`"
+        }
+],
+    "BDDRR": [
+        {
+            "name": "<:palette:1264243570702024816> **BABYMONSTER** Rora",
+            "song": "#doodlemenot",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263734962373263432/BDDRR.png?ex=669df366&is=669ca1e6&hm=b9d817caa80fbe6da0dde2b9fa068056fff40a77df8abdaa3a3bcc79afd40bad&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`BDDRR`"
+        }
+],
+    "CDDSM": [
+        {
+            "name": "<:palette:1264243570702024816> **CRAVITY** Seongmin",
+            "song": "#doodlemenot boostie exc.",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263741058332885106/CDDSM.png?ex=669df913&is=669ca793&hm=8c84a05e21969689d82cbdffa8b7551c12b098db8e35fdc602dcb1b2cd305d19&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`CDDSM`"
+        }
+],
+    "TDDKD": [
+        {
+            "name": "<:palette:1264243570702024816> **TripleS** Kaede",
+            "song": "#doodlemenot boostie exc.",
+            "image": "https://cdn.discordapp.com/attachments/1263084067444752466/1263741082659983400/TDDKD.png?ex=669df919&is=669ca799&hm=eb12d9dbe0803cbbae31e17022f75034a43f1fea2d16aee644eb2d7307f3f0d0&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`TDDKD`"
         }       
     ]
 }
