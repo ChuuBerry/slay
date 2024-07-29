@@ -9055,6 +9055,326 @@
             "group": "EVENTS",
             "type": "EVENT",
             "code": "`TDDKD`"
-        }       
+        }
+],
+    "WSM24DH": [
+        {
+            "name": "<:sm24:1267505110620049579> **WEi** Donghan",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272431291498506/summer24_20240726135419.png?ex=66a88019&is=66a72e99&hm=6ea6d9d5108a945a5e98686299ee23baf2ba84f92d1cb585fd711fccc314570b&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`WSM24DH`"
+        } 
+],
+    "SM24HS": [
+        {
+            "name": "<:sm24:1267505110620049579> **Soloist** Han Seungwoo",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272444998484079/summer24_20240726135412.png?ex=66a8801d&is=66a72e9d&hm=0eed470c42a48ced55dc27112840d608a2af171950940fafb70360c61ccf8941&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SM24HS`"
+        }  
+],
+    "PSM24HS": [
+        {
+            "name": "<:sm24:1267505110620049579> **PENTAGON** Hongseok",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272458361671732/summer24_20240726135402.png?ex=66a88020&is=66a72ea0&hm=954a9cb7fcfc2673cbfe9436f656d72a2c71844a6fd9e5a4bd07f5384f78efa5&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SM24HS`"
+        }  
+],
+    "TSM24HJ": [
+        {
+            "name": "<:sm24:1267505110620049579> **THE BOYZ** Hyunjae",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272471338717265/summer24_20240726135355.png?ex=66a88023&is=66a72ea3&hm=3f260532d0461a71530dd2c623c5107ff8a55cf91a20c723a8479ae6b1706c3a&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`TSM24HJ`"
+        }  
+],
+    "SSM24HJ": [
+        {
+            "name": "<:sm24:1267505110620049579> **Stray Kids** Hyunjin",
+            "song": "SUMMER 2024: Summer Festa Boostie Exc.",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272483917561897/summer24_20240726135348.png?ex=66a88026&is=66a72ea6&hm=32e2d637ee3dfa058fd118d316a6eb146d3a7f982c2013bb6a27d697ca297963&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SSM24HJ`"
+        }  
+],
+    "ESM24JK": [
+        {
+            "name": "<:sm24:1267505110620049579> **ENHYPEN** Jake",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272497796517899/summer24_20240726135339.png?ex=66a88029&is=66a72ea9&hm=ad81b029bcaa8aadb3697276538639098e8a4e72b34ce3ebc28a8de6a9d29d59&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ESM24JK`"
+        }  
+],
+    "PSM24JU": [
+        {
+            "name": "<:sm24:1267505110620049579> **P1harmony** Jiung",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272512929566720/summer24_20240726135332.png?ex=66a8802d&is=66a72ead&hm=83172d3047d4208d7c8b0f9b4fa30634eab1252b1a2476fe4eb496f6faaca4a6&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`PSM24JU`"
+        }
+],
+    "ZSM24KJ": [
+        {
+            "name": "<:sm24:1267505110620049579> **ZEROBASEONE** Kim Jiwoong",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272526099808276/summer24_20240726135325.png?ex=66a88030&is=66a72eb0&hm=edfb5fe5b1550fd968a195c98ea991fb94387115c4d992a3d920c3f1f2581c9f&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ZSM24KJ`"
+        }
+],
+    "SSM24MG": [
+        {
+            "name": "<:sm24:1267505110620049579> **SEVENTEEN** Mingyu",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272539848605756/summer24_20240726135315.png?ex=66a88033&is=66a72eb3&hm=142a03719dd9898e46ea35a7e29bbad5493aa0eb7402cea93c64f237b558a9ca&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SSM24MG`"
+        }
+],
+    "SSM24MH": [
+        {
+            "name": "<:sm24:1267505110620049579> **SHINee** Minho",
+            "song": "SUMMER 2024: Summer Festa Boostie Exc.",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272553450737766/summer24_20240726135307.png?ex=66a88036&is=66a72eb6&hm=c2338844094430960d28e08394866865fe161be7f5787ab4837e5fea87d45629&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SSM24MH`"
+        } 
+],
+    "BSM24MH": [
+        {
+            "name": "<:sm24:1267505110620049579> **BTOB** Minhyuk",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272566474047498/summer24_20240726135256.png?ex=66a8803a&is=66a72eba&hm=d741dcb9d4d332855016729ae037bbcd9a2e06bf84fb9cc30dae0d61603f7c38&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`BSM24MH`"
+        }
+],
+    "NSM24RJ": [
+        {
+            "name": "<:sm24:1267505110620049579> **NCT** Renjun",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272593715920980/summer24_20240726135249.png?ex=66a88040&is=66a72ec0&hm=46b6dc54b08514d13589cbc51bceadd0fa5152a47ef9f7c4ca211dcd79265427&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`NSM24RJ`"
+        }    
+],
+    "ASM24RW": [
+        {
+            "name": "<:sm24:1267505110620049579> **Actor** Rowoon",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272607376773120/summer24_20240726135242.png?ex=66a88043&is=66a72ec3&hm=b50d3ca2cadff4f896f52eccfddee924bacfb0923d0e2e6564938e74f92503e3&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ASM24RW`"
+        }
+],
+    "ASM24TN": [
+        {
+            "name": "<:sm24:1267505110620049579> **ALAMAT** Taneo",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272621155057694/summer24_20240726135232.png?ex=66a88047&is=66a72ec7&hm=fb78ba66a358910b0dc97b7df84bb2ed808ffc4e29e2c1bee3c97fea79c27538&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ASM24TN`"
+        }
+],
+    "ASM24WY": [
+        {
+            "name": "<:sm24:1267505110620049579> **ATEEZ** Wooyoung",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272634673434726/summer24_20240726135226.png?ex=66a8804a&is=66a72eca&hm=dd6484e01b0c2de821cb8d2d9109a81d28546e92b4e5912f8a4c2b150bd5f000&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ASM24WY`"
+        } 
+],
+    "TSM24YJ": [
+        {
+            "name": "<:sm24:1267505110620049579> **TOMORROW X TOGETHER** Yeonjun",
+            "song": "SUMMER 2024: Summer Festa Boostie Exc.",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266272648636403806/summer24_20240726135212.png?ex=66a8804d&is=66a72ecd&hm=1e57a451165eb22419e5f4cc9013255f71181cdc672d78be888540138c272ed8&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`TSM24YJ`"
+        } 
+],
+    "TSM24CY": [
+        {
+            "name": "<:sm24:1267505110620049579> **TWICE** Chaeyoung",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275338497949756/summer24_20240726140458.png?ex=66a882ce&is=66a7314e&hm=bffca36786a52a0b09253ba64ae976b0020f93f8fc4765a9673f006799e13a2c&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`TSM24CY`"
+        }
+],
+    "NSM24DN": [
+        {
+            "name": "<:sm24:1267505110620049579> **NewJeans** Danielle",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275351575662653/summer24_20240726140434.png?ex=66a882d2&is=66a73152&hm=2e3b0e07895313aaf36a7304bef6262f03b190e5df061c77d36e43c92b14f2af&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`NSM24DN`"
+        } 
+],
+    "BSM24GW": [
+        {
+            "name": "<:sm24:1267505110620049579> **BINI** Gwen",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275364724932661/summer24_20240726140354.png?ex=66a882d5&is=66a73155&hm=6e1b53a5b9f7d83f4facf780214a7457fdd77d9e1f128b4424ec474519038f89&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`BSM24GW`"
+        }  
+],
+    "NSM24HW": [
+        {
+            "name": "<:sm24:1267505110620049579> **NMIXX** Haewon",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275382068514816/summer24_20240726140346.png?ex=66a882d9&is=66a73159&hm=7aff6b6471b917c02facb7233c8c5c9f8bbd4a376c199ab026f0b18be31fbe8e&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`NSM24HW`"
+        }
+],
+    "SM24IU": [
+        {
+            "name": "<:sm24:1267505110620049579> **Soloist** IU",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275394969931787/summer24_20240726140340.png?ex=66a882dc&is=66a7315c&hm=ddfdfde56c4010261a2981f67f76358d6d869970ab81c2695707e9d72a3a848d&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SM24IU`"
+        } 
+],
+    "KSM24JL": [
+        {
+            "name": "<:sm24:1267505110620049579> **KISS OF LIFE** Julie",
+            "song": "SUMMER 2024: Summer Festa Boostie Exc.",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275413131268219/summer24_20240726140238.png?ex=66a882e0&is=66a73160&hm=175b22b8bd0f4814056eaa6c4e798e3471fbe5b9f7ec9703981442e9f6087ba0&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`KSM24JL`"
+        } 
+],
+    "XSM24JA": [
+        {
+            "name": "<:sm24:1267505110620049579> **XG** Juria",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275426343583804/summer24_20240726140215.png?ex=66a882e3&is=66a73163&hm=41184b551586ea622197ea1d2c3b1738ff9b863a50c8bc8a2a7e459c7034df38&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`XSM24JA`"
+        }
+],
+    "ASM24KK": [
+        {
+            "name": "<:sm24:1267505110620049579> **Actress** Kyulkung",
+            "song": "SUMMER 2024: Summer Festa Boostie Exc.",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275439396130846/summer24_20240726140151.png?ex=66a882e7&is=66a73167&hm=f54b504d2a58032c48d8a8f4ef0136f40455ea13ccb331af6f2c833199bc2ebd&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ASM24KK`"
+        } 
+],
+    "GSM24MN": [
+        {
+            "name": "<:sm24:1267505110620049579> **(G)I-DLE** Minnie",
+            "song": "SUMMER 2024: Summer Festa Boostie Exc.",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275458044137564/summer24_20240726140122.png?ex=66a882eb&is=66a7316b&hm=1409a6676e88b46592fe23cbe568c5be53034b897c9d6d76bc2b27fca50dac55&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`GSM24MN`"
+        }
+],
+    "HSM24RN": [
+        {
+            "name": "<:sm24:1267505110620049579> **H1-KEY** Riina",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275470744359026/summer24_20240726140102.png?ex=66a882ee&is=66a7316e&hm=53a2f42f535681ac783e4f0177c201bcffe427de0ec5acaa352a37c15a61c8dd&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`HSM24RN`"
+        }  
+],
+    "FSM24SR": [
+        {
+            "name": "<:sm24:1267505110620049579> **FROMIS_9** Saerom",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275483989966953/summer24_20240726140034.png?ex=66a882f1&is=66a73171&hm=56a623f20b95ad46f915f24942d2ee528a55f06ab5a5911a52dd8dcb0a88bfa2&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`FSM24SR`"
+        }
+],
+    "SSM24SM": [
+        {
+            "name": "<:sm24:1267505110620049579> **STAYC** Sumin",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275502046580808/summer24_20240726135952.png?ex=66a882f5&is=66a73175&hm=5a83f04b974963361f47294c3ac133f12a8fd6683fb288290f84f9a4c6348ad5&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SSM24SM`"
+        }
+],
+    "VSM24UJ": [
+        {
+            "name": "<:sm24:1267505110620049579> **VIVIZ** Umji",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275515543715840/summer24_20240726135910.png?ex=66a882f9&is=66a73179&hm=a84ee6335bf5adc306974a51eb4c09294336abbf61c273ba29891479b28a2704&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`VSM24UJ`"
+        }
+],
+    "ISM24YJ": [
+        {
+            "name": "<:sm24:1267505110620049579> **ITZY** Yeji",
+            "song": "SUMMER 2024: Summer Festa Boostie Exc.",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275532983767153/summer24_20240726135835.png?ex=66a882fd&is=66a7317d&hm=772d2ecace8fb73d5cba6273bae1924a461200ef373a39956411b2b6d7399e4d&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`ISM24YJ`"
+        }  
+],
+    "RSM24YR": [
+        {
+            "name": "<:sm24:1267505110620049579> **Red Velvet** Yeri",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275546342494268/summer24_20240726135813.png?ex=66a88300&is=66a73180&hm=809de7456b408835a1b243f68fcc6e9748b9245aeba069f8867cd47cfd74e1c5&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`RSM24YR`"
+        }
+],
+    "SM24YH": [
+        {
+            "name": "<:sm24:1267505110620049579> **Soloist** Youha",
+            "song": "SUMMER 2024: Summer Festa",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1266275560011595818/summer24_20240726135744.png?ex=66a88303&is=66a73183&hm=5c75b7e4e271b1c12d6f0fd6dbac149ce610e6e655e9e290be3b7d6790664dd8&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`SM24YH`"
+        }           
     ]
 }
