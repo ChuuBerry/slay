@@ -9375,6 +9375,16 @@
             "group": "EVENTS",
             "type": "EVENT",
             "code": "`SM24YH`"
+        } 
+],
+    "WATER": [
+        {
+            "name": "<:sm24:1267505110620049579> **TYLA**",
+            "song": "WATER",
+            "image": "https://cdn.discordapp.com/attachments/1265553250334015529/1267790687567609887/WATER.png?ex=66aa1196&is=66a8c016&hm=568eb30e3ff2e67ab19e51e62705f5da4c4d40b4b794cb1f5b58785afc0a0cee&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "`WATER`"
         }           
     ]
 }
