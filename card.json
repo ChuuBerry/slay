@@ -9385,6 +9385,446 @@
             "group": "EVENTS",
             "type": "EVENT",
             "code": "`WATER`"
+        }
+],
+    "BFERK": [
+        {
+            "name": " **BABYMONSTER** Ruka",
+            "song": "Forever",
+            "image": "https://cdn.discordapp.com/attachments/1231742020645818411/1267104237922553906/BFERK.png?ex=66b2c707&is=66b17587&hm=803e4fa7656ffd78f6176250c4cf73aba3254491a0f0fd1c2a3224a28ece6a6a&",
+            "group": "BABYMONSTER",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BFERK`"
+        }
+],
+    "BFEPR": [
+        {
+            "name": " **BABYMONSTER** Pharita",
+            "song": "Forever",
+            "image": "https://cdn.discordapp.com/attachments/1231742020645818411/1267104238362951741/BFEPR.png?ex=66b2c708&is=66b17588&hm=69cdce1eecd1e33a8efe59fb57a4f7c4861397c0b82d6d116420d60fc44aa020&",
+            "group": "BABYMONSTER",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BFEPR`"
+        }
+],
+    "BFEAS": [
+        {
+            "name": " **BABYMONSTER** Asa",
+            "song": "Forever",
+            "image": "https://cdn.discordapp.com/attachments/1231742020645818411/1267104238836650056/BFEAS.png?ex=66b2c708&is=66b17588&hm=fd0de9846930b3b79e52229cea62739d24c966489467af70e844bcd275ca8b3b&",
+            "group": "BABYMONSTER",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BFEAS`"
+        }
+],
+    "BFEAY": [
+        {
+            "name": " **BABYMONSTER** Ahyeon",
+            "song": "Forever",
+            "image": "https://cdn.discordapp.com/attachments/1231742020645818411/1267104239386234910/BFEAY.png?ex=66b2c708&is=66b17588&hm=b62a87f5298a39ac76b0f9b91369785f7e25ae20d34b9aa79d8c7be263c5bc3c&",
+            "group": "BABYMONSTER",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BFEAY`"
+        }
+],
+    "BFERM": [
+        {
+            "name": " **BABYMONSTER** Rami",
+            "song": "Forever",
+            "image": "https://cdn.discordapp.com/attachments/1231742020645818411/1267104240023638137/BFERM.png?ex=66b2c708&is=66b17588&hm=2ad858938fddc24b45aeff3d63be0487acd9769156d9d2aacd94b78833844788&",
+            "group": "BABYMONSTER",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BFERM`"
+        }
+],
+    "BFERR": [
+        {
+            "name": " **BABYMONSTER** Rora",
+            "song": "Forever",
+            "image": "https://cdn.discordapp.com/attachments/1231742020645818411/1267104240518828103/BFERR.png?ex=66b2c708&is=66b17588&hm=76b738ef12354df1916cfb0f464beac30863b73f6b214331882c5a1d4b6f538f&",
+            "group": "BABYMONSTER",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BFERR`"
+        }
+],
+    "BFECQ": [
+        {
+            "name": " **BABYMONSTER** Chiquita",
+            "song": "Forever",
+            "image": "https://cdn.discordapp.com/attachments/1231742020645818411/1267104240937992222/BFECQ.png?ex=66b2c708&is=66b17588&hm=c24f6845ddae1796f8ffe4649d9ecf105f76fc73cdfd6c0431bbdcc6712f4b98&",
+            "group": "BABYMONSTER",
+            "type": "K-POP GIRLGROUP",
+            "code": "`BFECQ`"
+        }
+],
+    "CWBHS": [
+        {
+            "name": " **CLASS:y** Hyungseo",
+            "song": "Winter Bloom",
+            "image": "https://cdn.discordapp.com/attachments/1260155016019181578/1260155221649129493/CWBHS.png?ex=66b28bc1&is=66b13a41&hm=839236376e416b31fb6109a11751f6b273e48c81d0b654332cda23d0f179c88a&",
+            "group": "CLASSY",
+            "type": "K-POP GIRLGROUP",
+            "code": "`CWBHS`"
+        }
+],
+    "CWBCW": [
+        {
+            "name": " **CLASS:y** Chaewon",
+            "song": "Winter Bloom",
+            "image": "https://cdn.discordapp.com/attachments/1260155016019181578/1260155222366359653/CWBCW.png?ex=66b28bc1&is=66b13a41&hm=2027337e14130f5518f8dcfdac0846bbf2cf6625bf206acb93dfe7379c8fc61e&",
+            "group": "CLASSY",
+            "type": "K-POP GIRLGROUP",
+            "code": "`CWBCW`"
+        } 
+],
+    "CWBHJ": [
+        {
+            "name": " **CLASS:y** Hyeju",
+            "song": "Winter Bloom",
+            "image": "https://cdn.discordapp.com/attachments/1260155016019181578/1260155222903492719/CWBHJ.png?ex=66b28bc1&is=66b13a41&hm=80bc2c21ecf5c0057f0723ab21dce372524301130d7d78eca263d1d6993b908a&",
+            "group": "CLASSY",
+            "type": "K-POP GIRLGROUP",
+            "code": "`CWBHJ`"
+        }
+],
+    "CWBRW": [
+        {
+            "name": " **CLASS:y** Riwon",
+            "song": "Winter Bloom",
+            "image": "https://cdn.discordapp.com/attachments/1260155016019181578/1260155223393959976/CWBRW.png?ex=66b28bc1&is=66b13a41&hm=065e22fee681137562c3f288bbc3766d6aa49c7d8df5f5995b61e5d8a854ddca&",
+            "group": "CLASSY",
+            "type": "K-POP GIRLGROUP",
+            "code": "`CWBRW`"
+        }  
+],
+    "CWBJM": [
+        {
+            "name": " **CLASS:y** Jimin",
+            "song": "Winter Bloom",
+            "image": "https://cdn.discordapp.com/attachments/1260155016019181578/1260155223851401246/CWBJM.png?ex=66b28bc1&is=66b13a41&hm=bb7833f5c9469ef5171ce26143df40d5753a9e8429623494886af54b3741ae2f&",
+            "group": "CLASSY",
+            "type": "K-POP GIRLGROUP",
+            "code": "`CWBJM`"
+        } 
+],
+    "CWBBE": [
+        {
+            "name": " **CLASS:y** Boeun",
+            "song": "Winter Bloom",
+            "image": "https://cdn.discordapp.com/attachments/1260155016019181578/1260155224400724031/CWBBE.png?ex=66b28bc2&is=66b13a42&hm=7b43aa10e87736316ae130eed86f3efc80baefd6d8f4f6c28c583fc491d1619e&",
+            "group": "CLASSY",
+            "type": "K-POP GIRLGROUP",
+            "code": "`CWBBE`"
+        }   
+],
+    "CWBSY": [
+        {
+            "name": " **CLASS:y** Seonyou",
+            "song": "Winter Bloom",
+            "image": "https://cdn.discordapp.com/attachments/1260155016019181578/1260155224983601194/CWBSY.png?ex=66b28bc2&is=66b13a42&hm=4847750ddc79696a3594deb204cc8d6c02ef030892b1ea8fae27f0ad53f36dbb&",
+            "group": "CLASSY",
+            "type": "K-POP GIRLGROUP",
+            "code": "`CWBSY`"
+        }
+],
+    "KIDGR": [
+        {
+            "name": " **KARA** Gyuri",
+            "song": "I Do, I Do",
+            "image": "https://cdn.discordapp.com/attachments/1266562073140400341/1266572571797622784/Nolja-Template_20240727094248.png?ex=66b22960&is=66b0d7e0&hm=551020e2a39502235d62583fbe3badbbe14147ce123d9805d1cb5c2a96014e1e&",
+            "group": "KARA",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KIDGR`"
+        }
+],
+    "KIDSY": [
+        {
+            "name": " **KARA** Seungyeon",
+            "song": "I Do, I Do",
+            "image": "https://cdn.discordapp.com/attachments/1266562073140400341/1266572572108263586/Nolja-Template_20240727094331.png?ex=66b22960&is=66b0d7e0&hm=e8f67425ff47017a11e054e5c2ea00c76233a38f21a113ae597f008e46cfe351&",
+            "group": "KARA",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KIDSY`"
+        }
+],
+    "KIDNC": [
+        {
+            "name": " **KARA** Nicole",
+            "song": "I Do, I Do",
+            "image": "https://cdn.discordapp.com/attachments/1266562073140400341/1266572572426764338/Nolja-Template_20240727094439.png?ex=66b22961&is=66b0d7e1&hm=d532c6cbc742472bc6b978f8df71b098c5f87119b090f81be5b297494706fd05&",
+            "group": "KARA",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KIDNC`"
+        }
+],
+    "KIDJY": [
+        {
+            "name": " **KARA** Jiyoung",
+            "song": "I Do, I Do",
+            "image": "https://cdn.discordapp.com/attachments/1266562073140400341/1266572572707786812/Nolja-Template_20240727094539.png?ex=66b22961&is=66b0d7e1&hm=c10c1ab2de74e781f22f31460c6205b375e79a2484f32a2a12d5208b3add3f98&",
+            "group": "KARA",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KIDJY`"
+        }
+],
+    "KIDYJ": [
+        {
+            "name": " **KARA** Youngji",
+            "song": "I Do, I Do",
+            "image": "https://cdn.discordapp.com/attachments/1266562073140400341/1266572572993261680/Nolja-Template_20240727094624.png?ex=66b22961&is=66b0d7e1&hm=e9448976fac86060076b0b73a9546a0820e8fb518a58a3b4ee2f8a9393b33975&",
+            "group": "KARA",
+            "type": "K-POP GIRLGROUP",
+            "code": "`KIDYJ`"
+        }
+],
+    "LPOSA": [
+        {
+            "name": " **LIGHTSUM** Sangah",
+            "song": "POSE!",
+            "image": "https://cdn.discordapp.com/attachments/1267119574713897033/1269165706205728828/LPOSA.png?ex=66b25dec&is=66b10c6c&hm=2c7faee97393ac7fce844c39386fae16da09b5b858b26b45f802d0ef8d939674&",
+            "group": "LIGHTSUM",
+            "type": "K-POP GIRLGROUP",
+            "code": "`LPOSA`"
+        }
+],
+    "LPOCW": [
+        {
+            "name": " **LIGHTSUM** Chowon",
+            "song": "POSE!",
+            "image": "https://cdn.discordapp.com/attachments/1267119574713897033/1269165706616897628/LPOCW.png?ex=66b25dec&is=66b10c6c&hm=f32138933eded510f92e4465cabca65fcf319cd04208df6ab631edda1ab8bcc2&",
+            "group": "LIGHTSUM",
+            "type": "K-POP GIRLGROUP",
+            "code": "`LPOCW`"
+        }
+],
+    "LPONY": [
+        {
+            "name": " **LIGHTSUM** Nayoung",
+            "song": "POSE!",
+            "image": "https://cdn.discordapp.com/attachments/1267119574713897033/1269165706616897628/LPOCW.png?ex=66b25dec&is=66b10c6c&hm=f32138933eded510f92e4465cabca65fcf319cd04208df6ab631edda1ab8bcc2&",
+            "group": "LIGHTSUM",
+            "type": "K-POP GIRLGROUP",
+            "code": "`LPONY`"
+        }
+],
+    "LPOHN": [
+        {
+            "name": " **LIGHTSUM** Hina",
+            "song": "POSE!",
+            "image": "https://cdn.discordapp.com/attachments/1267119574713897033/1269165707547902023/LPOHN.png?ex=66b25dec&is=66b10c6c&hm=1a125ac2591711f8909382bbf25f3492d47848304771c9a4ce1db52593a232ff&",
+            "group": "LIGHTSUM",
+            "type": "K-POP GIRLGROUP",
+            "code": "`LPOHN`"
+        }
+],
+    "LPOJH": [
+        {
+            "name": " **LIGHTSUM** Juhyeon",
+            "song": "POSE!",
+            "image": "https://cdn.discordapp.com/attachments/1267119574713897033/1269165708017799259/LPOJH.png?ex=66b25dec&is=66b10c6c&hm=0bc5e2992274eb92fb79aa598a3153488d9c0b72261ba8ffcd2feb6e45d61885&",
+            "group": "LIGHTSUM",
+            "type": "K-POP GIRLGROUP",
+            "code": "`LPOJH`"
+        }
+],
+    "LPOYJ": [
+        {
+            "name": " **LIGHTSUM** Yujeong",
+            "song": "POSE!",
+            "image": "https://cdn.discordapp.com/attachments/1267119574713897033/1269165708453871697/LPOYJ.png?ex=66b25dec&is=66b10c6c&hm=a962a682d3db4ab1fff6f2955374edabded7913e305bf682f0b726d6d94ed72a&",
+            "group": "LIGHTSUM",
+            "type": "K-POP GIRLGROUP",
+            "code": "`LPOYJ`"
+        }
+],
+    "TDINY": [
+        {
+            "name": " **TWICE** Nayeon",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394825123168428/TDINY.png?ex=66b2c88c&is=66b1770c&hm=ddf59c87f4fe61b2c6bc1a658b18470f809a8738db4046d137ed034558899118&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDINY`"
+        }
+],
+    "TDIJY": [
+        {
+            "name": " **TWICE** Jeongyeon",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394825555316777/TDIJY.png?ex=66b2c88c&is=66b1770c&hm=2d678c384385fdc9d2cc170edf4f7a41ae339ca9ff5169b9d2902242065f6914&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDIJY`"
+        }
+],
+    "TDIMM": [
+        {
+            "name": " **TWICE** Momo",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394825987067964/TDIMM.png?ex=66b2c88c&is=66b1770c&hm=5fca239b0b9828cd2e5598455fc01826aa06a8e416e797aadbccf03738f4b490&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDIMM`"
+        }
+],
+    "TDISN": [
+        {
+            "name": " **TWICE** Sana",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394826423271477/TDISN.png?ex=66b2c88c&is=66b1770c&hm=1bb4f19989ea24fc16fbaf005c2c796292e2f1c2dfe842130f8822e97d1f8417&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDISN`"
+        }
+],
+    "TDIJH": [
+        {
+            "name": " **TWICE** Jihyo",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394826922655784/TDIJH.png?ex=66b2c88c&is=66b1770c&hm=f40e75854714bc26b2f081cf420a01261e49b525179d563d225d26abccb7792c&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDIJH`"
+        }
+],
+    "TDIMN": [
+        {
+            "name": " **TWICE** Mina",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394827467788408/TDIMN.png?ex=66b2c88d&is=66b1770d&hm=a060b8fc4a4554167b3739a1a525dea6877045b14eca33a4f33c9d6ad29b1b01&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDIMN`"
+        }
+],
+    "TDIDH": [
+        {
+            "name": " **TWICE** Dahyun",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394828134678598/TDIDH.png?ex=66b2c88d&is=66b1770d&hm=5598c196c8947ec045562d08c2de6c6de5d4617c858284502937e6f8a28af890&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDIDH`"
+        }
+],
+    "TDICY": [
+        {
+            "name": " **TWICE** Chaeyoung",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394828533272646/TDICY.png?ex=66b2c88d&is=66b1770d&hm=814aaf8423e9641eaf6b5ab739e5e59a65f915930a56b3335a80284d6a13e4a5&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDICY`"
+        }
+],
+    "TDITZ": [
+        {
+            "name": " **TWICE** Tzuyu",
+            "song": "DIVE",
+            "image": "https://cdn.discordapp.com/attachments/1223833376910479360/1262394829200031764/TDITZ.png?ex=66b2c88d&is=66b1770d&hm=fe88483d82476d696d642ff70a16d3e7238bb3a90bd44de2aa4318b389654dcc&",
+            "group": "TWICE",
+            "type": "K-POP GIRLGROUP",
+            "code": "`TDITZ`"
+        }
+],
+    "DWSSJ": [
+        {
+            "name": " **DAY6** Sungjin",
+            "song": "Welcome to the Show",
+            "image": "https://cdn.discordapp.com/attachments/1267119736353718333/1267119850661351526/DWSSJ.png?ex=66b22cd2&is=66b0db52&hm=581c78fd476d52bfd3dae4091d6d8add618691eec09e582606ef2ece9841f428&",
+            "group": "DAY6",
+            "type": "K-POP BOYGROUP",
+            "code": "`DWSSJ`"
+        }
+],
+    "DWSYK": [
+        {
+            "name": " **DAY6** Young K",
+            "song": "Welcome to the Show",
+            "image": "https://cdn.discordapp.com/attachments/1267119736353718333/1267119851151822909/DWSYK.png?ex=66b22cd2&is=66b0db52&hm=3f1fb92e93ad9a8ebcceef43d01c6e018f1214646d92b6d2dec81b4b89a288a5&",
+            "group": "DAY6",
+            "type": "K-POP BOYGROUP",
+            "code": "`DWSYK`"
+        }
+],
+    "DWSWP": [
+        {
+            "name": " **DAY6** Wonpil",
+            "song": "Welcome to the Show",
+            "image": "https://cdn.discordapp.com/attachments/1267119736353718333/1267119851621711902/DWSWP.png?ex=66b22cd2&is=66b0db52&hm=8907803219fe2c4bfd8201cb90a3fc2f591dfb484d40259ff8dc748c62b88105&",
+            "group": "DAY6",
+            "type": "K-POP BOYGROUP",
+            "code": "`DWSWP`"
+        }
+],
+    "DWSDW": [
+        {
+            "name": " **DAY6** Dowoon",
+            "song": "Welcome to the Show",
+            "image": "https://cdn.discordapp.com/attachments/1267119736353718333/1267119852276027525/DWSDW.png?ex=66b22cd2&is=66b0db52&hm=65d18344bbf0c0f13d2ffa9e0f9ed1d5b7a8fa7af8e5e6609fec1684ab56000b&",
+            "group": "DAY6",
+            "type": "K-POP BOYGROUP",
+            "code": "`DWSDW`"
+        }
+],
+    "ODPKB": [
+        {
+            "name": " **ONLYONEOF** KB",
+            "song": "dOpamine",
+            "image": "https://cdn.discordapp.com/attachments/1266433056022200392/1266433177694765088/ODPKB.png?ex=66b2504e&is=66b0fece&hm=975f58859a77961eb39ca2da4792e7cc9570c376c610024412a7410d184d82c4&",
+            "group": "ONLYONEOF",
+            "type": "K-POP BOYGROUP",
+            "code": "`ODPKB`"
+        }
+],
+    "ODPRI": [
+        {
+            "name": " **ONLYONEOF** Rie",
+            "song": "dOpamine",
+            "image": "https://cdn.discordapp.com/attachments/1266433056022200392/1266433178143559730/ODPRI.png?ex=66b2504e&is=66b0fece&hm=8708abb2bf6d7b0e382ef2bd374a98bc5383e79c7bab4b56e58ab6e3de351114&",
+            "group": "ONLYONEOF",
+            "type": "K-POP BOYGROUP",
+            "code": "`ODPRI`"
+        }
+],
+    "ODPYJ": [
+        {
+            "name": " **ONLYONEOF** Yoojung",
+            "song": "dOpamine",
+            "image": "https://cdn.discordapp.com/attachments/1266433056022200392/1266433178613186630/ODPYJ.png?ex=66b2504e&is=66b0fece&hm=792054b0d724624d0127f96808164cf5003da062b0c083b145e1a9d4b18933d0&",
+            "group": "ONLYONEOF",
+            "type": "K-POP BOYGROUP",
+            "code": "`ODPYJ`"
+        }
+],
+    "ODPJJ": [
+        {
+            "name": " **ONLYONEOF** Junji",
+            "song": "dOpamine",
+            "image": "https://cdn.discordapp.com/attachments/1266433056022200392/1266433179250593855/ODPJJ.png?ex=66b2504f&is=66b0fecf&hm=dba351067cce1d92ba2d1b4cc903935e976b5b8470cb46b6b428b144a174efdd&",
+            "group": "ONLYONEOF",
+            "type": "K-POP BOYGROUP",
+            "code": "`ODPJJ`"
+        }
+],
+    "ODPMI": [
+        {
+            "name": " **ONLYONEOF** Mill",
+            "song": "dOpamine",
+            "image": "https://cdn.discordapp.com/attachments/1266433056022200392/1266433179670151259/ODPMI.png?ex=66b2504f&is=66b0fecf&hm=64f0d4ce20329df6a9603de49b3102309d05d49fae3302ac70cd5280c38eeb26&",
+            "group": "ONLYONEOF",
+            "type": "K-POP BOYGROUP",
+            "code": "`ODPMI`"
+        }
+],
+    "ODPNI": [
+        {
+            "name": " **ONLYONEOF** Nine",
+            "song": "dOpamine",
+            "image": "https://cdn.discordapp.com/attachments/1266433056022200392/1266433180261416990/ODPNI.png?ex=66b2504f&is=66b0fecf&hm=d51a6cebbe53ace81652bc2d3eba0be291372527a050f4c3bc9e5219dd4c907f&",
+            "group": "ONLYONEOF",
+            "type": "K-POP BOYGROUP",
+            "code": "`ODPNI`"
         }           
     ]
 }
