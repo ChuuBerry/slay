@@ -10125,6 +10125,246 @@
             "group": "Soloist",
             "type": "K-POP SOLOISTS",
             "code": "`ICJS`"
-        }           
+        } 
+ ],
+    "IL2CJ": [
+        {
+            "name": "<:iland2:1272065508149035018> Choi Jungeun",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2CJ"
+        }    
+    ],
+    "IL2BJ": [
+        {
+            "name": "<:iland2:1272065508149035018> Bang Jeemin",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2BJ"
+        }    
+     ],
+    "IL2YJ": [
+        {
+            "name": "<:iland2:1272065508149035018> Yoon Jiyoon",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2YJ"
+        }   
+    ],
+    "IL2KK": [
+        {
+            "name": "<:iland2:1272065508149035018> Koko",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2KK"
+        }  
+     ],
+    "IL2RS": [
+        {
+            "name": "<:iland2:1272065508149035018> Ryu Sarang",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2RS"
+        }  
+     ],
+    "IL2MA": [
+        {
+            "name": "<:iland2:1272065508149035018> Mai",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2MA"
+        } 
+     ],
+    "IL2JS": [
+        {
+            "name": "<:iland2:1272065508149035018> Jeong Saebi",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2JS"
+        } 
+     ],
+    "IL2FK": [
+        {
+            "name": "<:iland2:1272065508149035018> Fuko",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2FK"
+        } 
+    ],
+    "IL2NY": [
+        {
+            "name": "<:iland2:1272065508149035018> Nam Yuju",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2NY"
+        }
+    ],
+    "IL2KG": [
+        {
+            "name": "<:iland2:1272065508149035018> Kim Gyuri",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2KG"
+        }  
+    ],
+    "IL2KS": [
+        {
+            "name": "<:iland2:1272065508149035018> Kim Sujung",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2KS"
+        } 
+    ],
+    "IL2SJ": [
+        {
+            "name": "<:iland2:1272065508149035018> Son Juwon",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2SJ"
+        } 
+    ],
+    "IL2YI": [
+        {
+            "name": "<:iland2:1272065508149035018> Yui",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2YI"
+        } 
+    ],
+    "IL2PY": [
+        {
+            "name": "<:iland2:1272065508149035018> Park Yeeun",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2PY"
+        }
+    ],
+    "IL2KM": [
+        {
+            "name": "<:iland2:1272065508149035018> Kim Minsol",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2KM"
+        }   
+    ],
+    "IL2LL": [
+        {
+            "name": "<:iland2:1272065508149035018> Lingling",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2LL"
+        }
+    ],
+    "IL2UJ": [
+        {
+            "name": "<:iland2:1272065508149035018> Um Jiwon",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2UJ"
+        } 
+    ],
+    "IL2CS": [
+        {
+            "name": "<:iland2:1272065508149035018> Choi Soul",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2CS"
+        }   
+     ],
+    "IL2KC": [
+        {
+            "name": "<:iland2:1272065508149035018> Kim Chaeeun",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2KC"
+        }
+   ],
+    "IL2OY": [
+        {
+            "name": "<:iland2:1272065508149035018> Oh Yuna",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2OY"
+        } 
+   ],
+    "IL2NN": [
+        {
+            "name": "<:iland2:1272065508149035018> Nana",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2NN"
+        } 
+    ],
+    "IL2KJ": [
+        {
+            "name": "<:iland2:1272065508149035018> Kang Jiwon",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2KJ"
+        }
+    ],
+    "IL2YK": [
+        {
+            "name": "<:iland2:1272065508149035018> Yuiko",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2YK"
+        } 
+   ],
+    "IL2KE": [
+        {
+            "name": "<:iland2:1272065508149035018> Kim Eunchae",
+            "song": "I-Land 2: N/a",
+            "image": "&",
+            "group": "EVENTS",
+            "type": "EVENT",
+            "code": "IL2KE"
+        }         
     ]
 }
