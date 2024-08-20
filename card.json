@@ -10365,6 +10365,326 @@
             "group": "EVENTS",
             "type": "EVENT",
             "code": "IL2KE"
+        }
+],      
+    "EBLKT": [
+        {
+            "name": "<:1b:1248301243705856142> **EVNNE** Keita",
+            "song": "Badder Love",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1275470587870969958/EBLKT.png?ex=66c6020d&is=66c4b08d&hm=bc50ef533e74f9f89ced1b39ce01c2347030dd248be39788cb62874c9abbb84e&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`EBLKT`"
+        }
+],      
+    "EBLPH": [
+        {
+            "name": "<:1b:1248301243705856142> **EVNNE** Park Hanbin",
+            "song": "Badder Love",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1275470588323958865/EBLPH.png?ex=66c6020d&is=66c4b08d&hm=cee0b4d8719159cafd8fb87e3ef1d28627210ac264c942f3bc61ec6090cd3462&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`EBLPH`"
+        }
+],      
+    "EBLLJ": [
+        {
+            "name": "<:1b:1248301243705856142> **EVNNE** Lee Jeonghyeon",
+            "song": "Badder Love",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1275470588835659874/EBLLJ.png?ex=66c6020d&is=66c4b08d&hm=760063866bdfcdfb95dc160e581e7dd394d00d229aac86ea1d67468100dd605e&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`EBLLJ`"
+        }
+],      
+    "EBLYS": [
+        {
+            "name": "<:1b:1248301243705856142> **EVNNE** Yoo Seungeon",
+            "song": "Badder Love",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1275470589422866502/EBLYS.png?ex=66c6020d&is=66c4b08d&hm=1b6c4cdae8ed00ac3e1a6a86dad28a6a6f0f13876269a6eab98614ccfbebf926&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`EBLYS`"
+        }
+],      
+    "EBLJY": [
+        {
+            "name": "<:1b:1248301243705856142> **EVNNE** Ji Yunseo",
+            "song": "Badder Love",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1275470589825388695/EBLJY.png?ex=66c6020d&is=66c4b08d&hm=00485234227af706b54bf4f4b602e1cc1da28d582dddc2bd05094e4cb8695ceb&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`EBLJY`"
+        }
+],      
+    "EBLMJ": [
+        {
+            "name": "<:1b:1248301243705856142> **EVNNE** Mun Junghyun",
+            "song": "Badder Love",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1275470590303797434/EBLMJ.png?ex=66c6020d&is=66c4b08d&hm=0aca2767fb7836102561af0965f2ded3bf6f7eca7ccf9c62bd59bc36eebccb61&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`EBLMJ`"
+        }
+],      
+    "EBLPJ": [
+        {
+            "name": "<:1b:1248301243705856142> **EVNNE** Park Jihoo",
+            "song": "Badder Love",
+            "image": "https://cdn.discordapp.com/attachments/1242986436127621170/1275470590714843136/EBLPJ.png?ex=66c6020d&is=66c4b08d&hm=0173cd38a26d11f3ba7d1c0f04102df78c55eb1937fcb63b586030510639b9ac&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`EBLPJ`"
+        }
+],      
+    "TGBSY": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Sangyeon",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530239439409223/TGBSY.png?ex=66c56a7c&is=66c418fc&hm=a885d1e448812139092eadf4a03d953ed52d95a3bc7d93ede5902139a60b53e6&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBSY`"
+        }
+],      
+    "TGBJC": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Jacob",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530240181927998/TGBJC.png?ex=66c56a7c&is=66c418fc&hm=deb8439f68dca83b9b3e16e2d4fd51810800f59b0b7303511545681bf9a2a95c&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBJC`"
+        }
+],      
+    "TGBYH": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Younghoon",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530240752357416/TGBYH.png?ex=66c56a7c&is=66c418fc&hm=ca8f3cc53738e66b72a20bc07d46dc3f5667b3ef172e1fac92b5e2ba14737595&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBYH`"
+        }
+],      
+    "TGBHJ": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Hyunjae",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530241389887508/TGBHJ.png?ex=66c56a7c&is=66c418fc&hm=b3b2a9debfa41509c1a260c6ab37ef42436fe937a6fa450969acc8d46ddc7f43&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBHJ`"
+        }
+],      
+    "TGBJY": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Juyeon",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530242124025978/TGBJY.png?ex=66c56a7c&is=66c418fc&hm=1ecefa03fb8f35bd84c9574f75dea3f5a2ca9c3bc36fa4f14c30a62c406f40b1&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBJY`"
+        }
+],      
+    "TGBKV": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Kevin",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530284981424149/TGBKV.png?ex=66c56a87&is=66c41907&hm=0b54ba154780d2a800227f614cdf109a7bb15141e3cd67ace6d6ceeecd8a827f&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBKV`"
+        }
+],      
+    "TGBNE": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** New",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530285518159902/TGBNE.png?ex=66c56a87&is=66c41907&hm=cd5a42b1e6121114d5cfdd7bb91dca5e12ad2d90d65282bd9b185b39ff3e3a86&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBNE`"
+        }
+],      
+    "TGBJQ": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Q",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530286038122568/TGBJQ.png?ex=66c56a87&is=66c41907&hm=731e35010aa9f5ae6d5db04c85e68a44fc50f45bf285af5474aa447cef6c9fee&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBJQ`"
+        }
+],      
+    "TGBJH": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Juhaknyeon",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530286528987236/TGBJH.png?ex=66c56a87&is=66c41907&hm=fab925a3167cacc21c710c6103c840f45a5cb97d476c9372b407bdce98819a3f&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBJH`"
+        }
+],      
+    "TGBSW": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Sunwoo",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530287095349389/TGBSW.png?ex=66c56a87&is=66c41907&hm=a804adca6925f77d2acc06c7affea45573c6ab2b2002700c20e5dc0d9daf3ee3&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBSW`"
+        }
+],      
+    "TGBER": [
+        {
+            "name": "<:1b:1248301243705856142> **THE BOYZ** Eric",
+            "song": "Gibberish",
+            "image": "https://cdn.discordapp.com/attachments/1226226172258680883/1263530287501938818/TGBER.png?ex=66c56a87&is=66c41907&hm=c38d378cb8c721c38391ebbace49b5f16b72726a9222c5fbc2bc28457b8d8d7c&",
+            "group": "EVNNE",
+            "type": "K-POP BOYGROUP",
+            "code": "`TGBER`"
+        }
+],      
+    "FSPSR": [
+        {
+            "name": "<:1b:1248301243705856142> **fromis_9** Saerom",
+            "song": "Supersonic",
+            "image": "https://cdn.discordapp.com/attachments/1229056510785749064/1274553840171225163/FSPSR.png?ex=66c5f803&is=66c4a683&hm=7db2b19076903d56f6a9c45c8a869fdc288da4d6f236299eb400cdab7c40d3e3&",
+            "group": "fromis_9",
+            "type": "K-POP GIRLGROUP",
+            "code": "`FSPSR`"
+        }
+],      
+    "FSPHY": [
+        {
+            "name": "<:1b:1248301243705856142> **fromis_9** Hayoung",
+            "song": "Supersonic",
+            "image": "https://cdn.discordapp.com/attachments/1229056510785749064/1274553840557097111/FSPHY.png?ex=66c5f803&is=66c4a683&hm=b5d45015ff4234744d68cb36b3cea4261c031c12e48b8d687a7bf9656e17417a&",
+            "group": "fromis_9",
+            "type": "K-POP GIRLGROUP",
+            "code": "`FSPHY`"
+        }
+],      
+    "FSPJW": [
+        {
+            "name": "<:1b:1248301243705856142> **fromis_9** Jiwon",
+            "song": "Supersonic",
+            "image": "https://cdn.discordapp.com/attachments/1229056510785749064/1274553840967876698/FSPJW.png?ex=66c5f803&is=66c4a683&hm=71641d22a60b0ff282480211a7375c7fe6365cede74d686978b322809d335534&",
+            "group": "fromis_9",
+            "type": "K-POP GIRLGROUP",
+            "code": "`FSPJW`"
+        }
+],      
+    "FSPJS": [
+        {
+            "name": "<:1b:1248301243705856142> **fromis_9** Jisun",
+            "song": "Supersonic",
+            "image": "https://cdn.discordapp.com/attachments/1229056510785749064/1274553841366601738/FSPJS.png?ex=66c5f803&is=66c4a683&hm=85c3635ae4a79fa96da74d9d809dd42cf4de2bdd2a1a02ef62652150d5c61047&",
+            "group": "fromis_9",
+            "type": "K-POP GIRLGROUP",
+            "code": "`FSPJS`"
+        }
+],      
+    "FSPSY": [
+        {
+            "name": "<:1b:1248301243705856142> **fromis_9** Seoyeon",
+            "song": "Supersonic",
+            "image": "https://cdn.discordapp.com/attachments/1229056510785749064/1274553841723113532/FSPSY.png?ex=66c5f803&is=66c4a683&hm=a89621e3fca333207e67c488cd887459e11b7a646e2c6f226365e2040db91ddb&",
+            "group": "fromis_9",
+            "type": "K-POP GIRLGROUP",
+            "code": "`FSPSY`"
+        }
+],      
+    "FSPCY": [
+        {
+            "name": "<:1b:1248301243705856142> **fromis_9** Chaeyoung",
+            "song": "Supersonic",
+            "image": "https://cdn.discordapp.com/attachments/1229056510785749064/1274553842100338688/FSPCY.png?ex=66c5f804&is=66c4a684&hm=5ca1bd19da637430c0b1bf18b3e8f2bd0a4e34a675823d7a778f78daecd2af9c&",
+            "group": "fromis_9",
+            "type": "K-POP GIRLGROUP",
+            "code": "`FSPCY`"
+        }
+],      
+    "FSPNG": [
+        {
+            "name": "<:1b:1248301243705856142> **fromis_9** Nagyung",
+            "song": "Supersonic",
+            "image": "https://cdn.discordapp.com/attachments/1229056510785749064/1274553842499063868/FSPNG.png?ex=66c5f804&is=66c4a684&hm=772430ae35376373dd6ef02cce5e695dd1579f5bbd580dc5621fca606c1dab7b&",
+            "group": "fromis_9",
+            "type": "K-POP GIRLGROUP",
+            "code": "`FSPNG`"
+        }
+],      
+    "FSPJH": [
+        {
+            "name": "<:1b:1248301243705856142> **fromis_9** Jiheon",
+            "song": "Supersonic",
+            "image": "https://cdn.discordapp.com/attachments/1229056510785749064/1274553842931073024/FSPJH.png?ex=66c5f804&is=66c4a684&hm=9bf69785537b2caaa45a93328903f14bf431edc1b544023de3401e592cc38761&",
+            "group": "fromis_9",
+            "type": "K-POP GIRLGROUP",
+            "code": "`FSSJH`"
+        }
+],      
+    "NSTLL": [
+        {
+            "name": "<:1b:1248301243705856142> **NMIXX** Lily",
+            "song": "별별별 (See that?)",
+            "image": "https://cdn.discordapp.com/attachments/1223670543924854826/1275470117987291247/NSTLL.png?ex=66c6019d&is=66c4b01d&hm=22fdb90d25ceb18f4b5c7db7ba3ffbd0ca4fc8f87d4a6ad981949755abfc4bf3&",
+            "group": "NMIXX",
+            "type": "K-POP GIRLGROUP",
+            "code": "`NSTLL`"
+        }
+],      
+    "NSTHW": [
+        {
+            "name": "<:1b:1248301243705856142> **NMIXX** Haewon",
+            "song": "별별별 (See that?)",
+            "image": "https://cdn.discordapp.com/attachments/1223670543924854826/1275470118465568790/NSTHW.png?ex=66c6019d&is=66c4b01d&hm=683d464de888fa62cbdffe920e9e2c8d7858366f16f2b8e79a12ab0c0db7f6cf&",
+            "group": "NMIXX",
+            "type": "K-POP GIRLGROUP",
+            "code": "`NSTHW`"
+        }
+],      
+    "NSTSY": [
+        {
+            "name": "<:1b:1248301243705856142> **NMIXX** Sullyoon",
+            "song": "별별별 (See that?)",
+            "image": "https://cdn.discordapp.com/attachments/1223670543924854826/1275470118830215209/NSTSY.png?ex=66c6019d&is=66c4b01d&hm=16cd36ec917a3bb12433764e69a0c547f804b087c55fdef89ed6b2c2c5d5ebe1&",
+            "group": "NMIXX",
+            "type": "K-POP GIRLGROUP",
+            "code": "`NSTSY`"
+        }
+],      
+    "NSTBA": [
+        {
+            "name": "<:1b:1248301243705856142> **NMIXX** Bae",
+            "song": "별별별 (See that?)",
+            "image": "",
+            "group": "NMIXX",
+            "type": "K-POP GIRLGROUP",
+            "code": "`NSTBA`"
+        }
+],      
+    "NSTJW": [
+        {
+            "name": "<:1b:1248301243705856142> **NMIXX** Jiwoo",
+            "song": "별별별 (See that?)",
+            "image": "https://cdn.discordapp.com/attachments/1223670543924854826/1275470119639715922/NSTJW.png?ex=66c6019d&is=66c4b01d&hm=fc965c113ffb3091fef101b99c7dfe94d9fd3444be748aad343f5aac8005fc30&",
+            "group": "NMIXX",
+            "type": "K-POP GIRLGROUP",
+            "code": "`NSTJW`"
+        }
+],      
+    "NSTKJ": [
+        {
+            "name": "<:1b:1248301243705856142> **NMIXX** Kyujin",
+            "song": "별별별 (See that?)",
+            "image": "https://cdn.discordapp.com/attachments/1223670543924854826/1275470120071856198/NSTKJ.png?ex=66c6019d&is=66c4b01d&hm=3e0e5f0f5825a4c85a2d7da8803739b65e849e9791619b7088234d853892a2f8&",
+            "group": "NMIXX",
+            "type": "K-POP GIRLGROUP",
+            "code": "`NSTKJ`"
         }         
     ]
 }
